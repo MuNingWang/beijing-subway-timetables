@@ -1,0 +1,227 @@
+{
+  "lines": [
+    {
+      "lineCode": "08",
+      "lineColor": "009263",
+      "lineId": 8,
+      "lineName": "8号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:15",
+      "lastTime": "22:46",
+      "startStationName": "朱辛庄",
+      "startStationDeviceLocation": 150996997,
+      "terminalStationName": "瀛海",
+      "terminalStationDeviceLocation": 150997065,
+      "sourceStationName": "朱辛庄",
+      "sourceStationDeviceLocation": 150996997,
+      "destStationName": "瀛海",
+      "destStationDeviceLocation": 150997065,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997001,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "08",
+      "lineColor": "009263",
+      "lineId": 8,
+      "lineName": "8号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "4:54",
+      "lastTime": "0:21",
+      "startStationName": "瀛海",
+      "startStationDeviceLocation": 150997065,
+      "terminalStationName": "朱辛庄",
+      "terminalStationDeviceLocation": 150996997,
+      "sourceStationName": "瀛海",
+      "sourceStationDeviceLocation": 150997065,
+      "destStationName": "朱辛庄",
+      "destStationDeviceLocation": 150996997,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997001,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "平西府",
+    "stationCode": null,
+    "stationDeviceLocation": 150997001,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "开往瀛海方向车头\n开往朱辛庄方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "开往朱辛庄方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "开往瀛海方向车头 残卫",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "D1口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "B口（出站）D1(进、出站)D3（出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "开往瀛海方向，有\n开往朱辛庄方向，有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往朱辛庄方向，有站厅到站台\n开往瀛海方向，有站厅到站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "B口人工售票厅\nD口人工售票厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站厅中部（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "D1口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "西厅（D1 D2 D3）东厅（B口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "东厅（B口)",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "文华东路（东侧）",
+          "科星西路",
+          "龙锦苑二区；小站公园",
+          "公园悦府1期"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "文华东路（东侧）",
+          "田园风光雅苑",
+          "龙回苑",
+          "龙锦二街"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212680,
+      "stationDeviceLocation": 150997001,
+      "stationCode": null,
+      "longitude": 116.350425,
+      "latitude": 40.090607,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "145",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/8号线-平西府站-瀛海站方向-工作日.jpg",
+        "stationCode": "0809",
+        "lineCode": "08",
+        "stationNameCn": "平西府"
+      },
+      {
+        "id": "142",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/8号线-平西府站-瀛海站方向-双休日.jpg",
+        "stationCode": "0809",
+        "lineCode": "08",
+        "stationNameCn": "平西府"
+      },
+      {
+        "id": "827",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/8号线-平西府站-朱辛庄站方向-工作日.jpg",
+        "stationCode": "0809",
+        "lineCode": "08",
+        "stationNameCn": "平西府"
+      },
+      {
+        "id": "944",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/8号线-平西府站-朱辛庄站方向-双休日.jpg",
+        "stationCode": "0809",
+        "lineCode": "08",
+        "stationNameCn": "平西府"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

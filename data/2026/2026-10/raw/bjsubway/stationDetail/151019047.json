@@ -1,0 +1,282 @@
+{
+  "lines": [
+    {
+      "lineCode": "94",
+      "lineColor": "DD83B0",
+      "lineId": 94,
+      "lineName": "昌平线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:07",
+      "lastTime": "23:23",
+      "startStationName": "昌平西山口",
+      "startStationDeviceLocation": 151019027,
+      "terminalStationName": "蓟门桥",
+      "terminalStationDeviceLocation": 151019065,
+      "sourceStationName": "昌平西山口",
+      "sourceStationDeviceLocation": 151019027,
+      "destStationName": "蓟门桥",
+      "destStationDeviceLocation": 151019065,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019047,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "94",
+      "lineColor": "DD83B0",
+      "lineId": 94,
+      "lineName": "昌平线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:07",
+      "lastTime": null,
+      "startStationName": "昌平西山口",
+      "startStationDeviceLocation": 151019027,
+      "terminalStationName": "朱辛庄",
+      "terminalStationDeviceLocation": 151019045,
+      "sourceStationName": "昌平西山口",
+      "sourceStationDeviceLocation": 151019027,
+      "destStationName": "朱辛庄",
+      "destStationDeviceLocation": 151019045,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151019047,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "94",
+      "lineColor": "DD83B0",
+      "lineId": 94,
+      "lineName": "昌平线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:29",
+      "lastTime": "23:47",
+      "startStationName": "蓟门桥",
+      "startStationDeviceLocation": 151019065,
+      "terminalStationName": "昌平西山口",
+      "terminalStationDeviceLocation": 151019027,
+      "sourceStationName": "蓟门桥",
+      "sourceStationDeviceLocation": 151019065,
+      "destStationName": "昌平西山口",
+      "destStationDeviceLocation": 151019027,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019047,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "生命科学园",
+    "stationCode": null,
+    "stationDeviceLocation": 151019047,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "站厅东厅（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "站厅东厅（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "站厅东厅（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "B1口\nB4口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "B2口（进出站）B3口（进出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往蓟门桥方向有站厅到站台；\n开往昌平西山口方向有站厅到站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "站厅东厅，靠近A口出站闸机（可通话）\n站厅东厅，靠近B口进站闸机（可通话）\n站厅西厅，靠近A口进站闸机（可通话）\n站厅西厅，靠近综控室前立柱（可通话）                                  站厅西厅，靠近办公区通道门（可通话）                             站厅东厅，靠近B口安检点   （可通话）                        站厅东厅残卫（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站厅东厅，靠近A口出站闸机（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "B1口坡道\nB4口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "东厅（付费区）西厅（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "西厅（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "北清路",
+          "史各庄派出所"
+        ]
+      },
+      {
+        "name": "B1",
+        "desc": null,
+        "nearby": [
+          "北清路",
+          "华北电力大学",
+          "北京农学院",
+          "泰康创新中心",
+          "泰康研修院"
+        ]
+      },
+      {
+        "name": "B2",
+        "desc": null,
+        "nearby": [
+          "北清路",
+          "华北电力大学",
+          "北京农学院",
+          "泰康创新中心",
+          "泰康研修院"
+        ]
+      },
+      {
+        "name": "B3",
+        "desc": null,
+        "nearby": [
+          "北清路",
+          "华北电力大学",
+          "北京农学院",
+          "泰康创新中心",
+          "泰康研修院"
+        ]
+      },
+      {
+        "name": "B4",
+        "desc": null,
+        "nearby": [
+          "北清路",
+          "华北电力大学",
+          "北京农学院",
+          "泰康创新中心",
+          "泰康研修院"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212766,
+      "stationDeviceLocation": 151019047,
+      "stationCode": null,
+      "longitude": 116.29423,
+      "latitude": 40.09479,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1541",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-生命科学园站-蓟门桥站方向-工作日.jpg",
+        "stationCode": "9439",
+        "lineCode": "94",
+        "stationNameCn": "生命科学园"
+      },
+      {
+        "id": "1540",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-生命科学园站-蓟门桥站方向-双休日.jpg",
+        "stationCode": "9439",
+        "lineCode": "94",
+        "stationNameCn": "生命科学园"
+      },
+      {
+        "id": "1360",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-生命科学园站-昌平西山口站方向-工作日.jpg",
+        "stationCode": "9439",
+        "lineCode": "94",
+        "stationNameCn": "生命科学园"
+      },
+      {
+        "id": "524",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-生命科学园站-昌平西山口站方向-双休日.jpg",
+        "stationCode": "9439",
+        "lineCode": "94",
+        "stationNameCn": "生命科学园"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

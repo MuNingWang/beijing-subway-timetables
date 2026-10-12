@@ -1,0 +1,245 @@
+{
+  "lines": [
+    {
+      "lineCode": "08",
+      "lineColor": "009263",
+      "lineId": 8,
+      "lineName": "8号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "4:44",
+      "lastTime": "22:54",
+      "startStationName": "朱辛庄",
+      "startStationDeviceLocation": 150996997,
+      "terminalStationName": "瀛海",
+      "terminalStationDeviceLocation": 150997065,
+      "sourceStationName": "朱辛庄",
+      "sourceStationDeviceLocation": 150996997,
+      "destStationName": "瀛海",
+      "destStationDeviceLocation": 150997065,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997007,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "08",
+      "lineColor": "009263",
+      "lineId": 8,
+      "lineName": "8号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:58",
+      "lastTime": "0:13",
+      "startStationName": "瀛海",
+      "startStationDeviceLocation": 150997065,
+      "terminalStationName": "朱辛庄",
+      "terminalStationDeviceLocation": 150996997,
+      "sourceStationName": "瀛海",
+      "sourceStationDeviceLocation": 150997065,
+      "destStationName": "朱辛庄",
+      "destStationDeviceLocation": 150996997,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997007,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "育新",
+    "stationCode": null,
+    "stationDeviceLocation": 150997007,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "站台开往瀛海方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "站台开往朱辛庄方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "站台开往朱辛庄方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "C口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "A口（出站）\nB口（出站）\nC口（进出站）\nD口（进出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往朱辛庄方向，有站台至站厅\n开往瀛海方向，有站台至站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "A、B口人工售票厅 （可通话）\nC、D口人工售票厅（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站厅中部，靠近D口进站闸机（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "C口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "北厅（A、B口中间）\n南厅（D口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "南厅(D口)",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "建材城西路（北侧）",
+          "文博路",
+          "文华路",
+          "北京石油管理干部学院；"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "建材城西路（北侧）",
+          "黄平路",
+          "北新家园",
+          "新康园",
+          "建材城西一里",
+          "建材城西二里；"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "建材城西路（南侧）；"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "建材城西路（南侧）",
+          "育新花园西路",
+          "育新花园；"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212680,
+      "stationDeviceLocation": 150997007,
+      "stationCode": null,
+      "longitude": 116.347328,
+      "latitude": 40.060039,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "458",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/8号线-育新站-瀛海站方向-工作日.jpg",
+        "stationCode": "0815",
+        "lineCode": "08",
+        "stationNameCn": "育新"
+      },
+      {
+        "id": "483",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/8号线-育新站-瀛海站方向-双休日.jpg",
+        "stationCode": "0815",
+        "lineCode": "08",
+        "stationNameCn": "育新"
+      },
+      {
+        "id": "806",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/8号线-育新站-朱辛庄站方向-工作日.jpg",
+        "stationCode": "0815",
+        "lineCode": "08",
+        "stationNameCn": "育新"
+      },
+      {
+        "id": "1689",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/8号线-育新站-朱辛庄站方向-双休日.jpg",
+        "stationCode": "0815",
+        "lineCode": "08",
+        "stationNameCn": "育新"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

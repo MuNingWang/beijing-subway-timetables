@@ -1,0 +1,324 @@
+{
+  "lines": [
+    {
+      "lineCode": "16",
+      "lineColor": "7C9E21",
+      "lineId": 16,
+      "lineName": "16号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "6:10",
+      "lastTime": "23:31",
+      "startStationName": "北安河",
+      "startStationDeviceLocation": 150999061,
+      "terminalStationName": "宛平城",
+      "terminalStationDeviceLocation": 150999119,
+      "sourceStationName": "北安河",
+      "sourceStationDeviceLocation": 150999061,
+      "destStationName": "宛平城",
+      "destStationDeviceLocation": 150999119,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150999099,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "16",
+      "lineColor": "7C9E21",
+      "lineId": 16,
+      "lineName": "16号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:27",
+      "lastTime": "23:06",
+      "startStationName": "宛平城",
+      "startStationDeviceLocation": 150999119,
+      "terminalStationName": "北安河",
+      "terminalStationDeviceLocation": 150999061,
+      "sourceStationName": "宛平城",
+      "sourceStationDeviceLocation": 150999119,
+      "destStationName": "北安河",
+      "destStationDeviceLocation": 150999061,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150999099,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "07",
+      "lineColor": "F9C374",
+      "lineId": 7,
+      "lineName": "7号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:33",
+      "lastTime": "23:03",
+      "startStationName": "北京西站",
+      "startStationDeviceLocation": 150996757,
+      "terminalStationName": "环球度假区",
+      "terminalStationDeviceLocation": 150996815,
+      "sourceStationName": "北京西站",
+      "sourceStationDeviceLocation": 150996757,
+      "destStationName": "环球度假区",
+      "destStationDeviceLocation": 150996815,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996761,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "07",
+      "lineColor": "F9C374",
+      "lineId": 7,
+      "lineName": "7号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:33",
+      "lastTime": "23:18",
+      "startStationName": "北京西站",
+      "startStationDeviceLocation": 150996757,
+      "terminalStationName": "高楼金",
+      "terminalStationDeviceLocation": 150996811,
+      "sourceStationName": "北京西站",
+      "sourceStationDeviceLocation": 150996757,
+      "destStationName": "高楼金",
+      "destStationDeviceLocation": 150996811,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150996761,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "07",
+      "lineColor": "F9C374",
+      "lineId": 7,
+      "lineName": "7号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:50",
+      "lastTime": "0:04",
+      "startStationName": "环球度假区",
+      "startStationDeviceLocation": 150996815,
+      "terminalStationName": "北京西站",
+      "terminalStationDeviceLocation": 150996757,
+      "sourceStationName": "环球度假区",
+      "sourceStationDeviceLocation": 150996815,
+      "destStationName": "北京西站",
+      "destStationDeviceLocation": 150996757,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996761,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "达官营",
+    "stationCode": null,
+    "stationDeviceLocation": 150999099,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "（7号线）开往环球度假区方向车头\n开往宛平城方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "（7号线）开往环球度假区方向车头\n开往宛平城方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "（7号线）开往环球度假区方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "（7号线）B口  （7号线）C口\nE口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "（7号线）B口（进、出站，局部设扶梯\n（7号线） C口（进、 出站 ）                          （7号线）D口（进、 出站）\nE口（进、出站）       F口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "（7号线）有\n有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "（7号线）开往环球度假区方向.有站厅到站台             （7号线）开往环球度假区方向.有站台到站厅             （7号线）开往北京西站方向.有站厅到站台                （7号线）开往北京西站方向.有站台到站厅\n开往北安河方向，有站厅到站台\n开往北安河方向，有站台到站厅\n开往宛平城方向，有站厅到站台\n开往宛平城方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "（7号线）东办公区机电通风空调机房",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "（7号线）站台两端\n（7号线）站厅东侧墙壁，靠近综控室\n（7号线）站厅西侧墙壁，靠近检修专业设备\n（7号线）B、C口人工售票厅\n（7号线）站台无障碍卫生间内\n（7号线）B口直梯\n（7号线）C口直梯\n（7号线）站厅直梯\n（7号线）站台直梯\n（7号线）东厅出站闸机旁柱子上\n（7号线）东厅BOM前\n（7号线）中厅BOM前\n（7号线）中厅进站闸机旁\n（7号线）西厅进站闸机旁\n（7号线）西厅出站闸机旁\n站台两端（可通话）\n站厅两侧墙壁（可通话）                 无障碍卫生间招援（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "（7号线）站厅东厅，靠近综控室（非付费区）\n站台开往北安河方向第25门",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "（7号线）B口坡道\n（7号线）C口坡道\nE口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "（7号线）西厅（D口）\n（7号线）东厅（B口 C口）\n北厅（E口）\n南厅（无出入口）\n外挂厅（F口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "（7号线）东厅（B口）\n（16号线）站厅层\n外挂厅（F口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "广安门外大街",
+          "手帕口北街",
+          "北京市第十四中学高中部",
+          "广华轩小区",
+          "中国国家话剧院"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "红居东街",
+          "红莲路",
+          "手帕口南街",
+          "北京中定律师事务所"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "广安门外大街",
+          "红莲路",
+          "三义里",
+          "马连道南街"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "莲花河路东侧",
+          "北京小学红山学校",
+          "莲花河城市休闲公园"
+        ]
+      },
+      {
+        "name": "F",
+        "desc": null,
+        "nearby": [
+          "广安门外大街北侧",
+          "中国国家话剧院"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212688,
+      "stationDeviceLocation": 150999099,
+      "stationCode": null,
+      "longitude": 116.336455,
+      "latitude": 39.889884,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1106",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/7号线-达官营站-环球度假区站方向-工作日.jpg",
+        "stationCode": "0725",
+        "lineCode": "07",
+        "stationNameCn": "达官营"
+      },
+      {
+        "id": "1134",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/7号线-达官营站-环球度假区站方向-双休日.jpg",
+        "stationCode": "0725",
+        "lineCode": "07",
+        "stationNameCn": "达官营"
+      },
+      {
+        "id": "498",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/7号线-达官营站-北京西站方向-工作日.jpg",
+        "stationCode": "0725",
+        "lineCode": "07",
+        "stationNameCn": "达官营"
+      },
+      {
+        "id": "728",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/7号线-达官营站-北京西站方向-双休日.jpg",
+        "stationCode": "0725",
+        "lineCode": "07",
+        "stationNameCn": "达官营"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

@@ -1,0 +1,25 @@
+{
+  "lines": null,
+  "station": {
+    "stationName": "定海园",
+    "stationCode": null,
+    "stationDeviceLocation": 151015189,
+    "services": null,
+    "facilitys": null,
+    "exits": [],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212751,
+      "stationDeviceLocation": 151015189,
+      "stationCode": null,
+      "longitude": 116.562094,
+      "latitude": 39.801108,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": null
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

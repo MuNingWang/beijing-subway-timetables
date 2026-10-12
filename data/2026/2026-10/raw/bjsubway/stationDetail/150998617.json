@@ -1,0 +1,221 @@
+{
+  "lines": [
+    {
+      "lineCode": "14",
+      "lineColor": "D4A7A1",
+      "lineId": 14,
+      "lineName": "14号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "6:16",
+      "lastTime": "0:00",
+      "startStationName": "张郭庄",
+      "startStationDeviceLocation": 150998549,
+      "terminalStationName": "善各庄",
+      "terminalStationDeviceLocation": 150998621,
+      "sourceStationName": "张郭庄",
+      "sourceStationDeviceLocation": 150998549,
+      "destStationName": "善各庄",
+      "destStationDeviceLocation": 150998621,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998617,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "14",
+      "lineColor": "D4A7A1",
+      "lineId": 14,
+      "lineName": "14号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "4:59",
+      "lastTime": "22:46",
+      "startStationName": "善各庄",
+      "startStationDeviceLocation": 150998621,
+      "terminalStationName": "张郭庄",
+      "terminalStationDeviceLocation": 150998549,
+      "sourceStationName": "善各庄",
+      "sourceStationDeviceLocation": 150998621,
+      "destStationName": "张郭庄",
+      "destStationDeviceLocation": 150998549,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998617,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "东湖渠",
+    "stationCode": null,
+    "stationDeviceLocation": 150998617,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "开往善各庄方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "开往善各庄方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "B口\nC口\nD口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "B口（进、出站）\nC口（进、出站）\nD口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "开往善各庄方向，有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往善各庄方向，有站厅到站台\n开往善各庄方向，有站台到站厅\n开往张郭庄方向，有站厅到站台\n开往张郭庄方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "D口（可通话）\n站台中部（仅呼叫）\n站厅南侧墙壁，靠近综控室（仅呼叫）\n无障碍卫生间招援(可通话/仅呼叫)",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站台开往张郭庄方向第13门",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "B口坡道\nD口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "南厅（安检旁）\n北厅（B口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "南厅（D口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "望京北路南侧",
+          "陈经纶中学分校小学部（丽泽校区）",
+          "北京韩国国际学校"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "望京北路南侧",
+          "北京市求实职业学校（望京校区）",
+          "博雅国际中心",
+          "众运大厦",
+          "北京惠兰中西医结合医院"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "广顺北大街东侧",
+          "首都师范大学附属实验学校（北校区）",
+          "北京望京万象汇",
+          "华彩大厦",
+          "南湖派出所",
+          "中国邮政"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "广顺北大街西侧",
+          "北京市陈经纶中学分校",
+          "望馨商业中心",
+          "北京朝阳区聪明娃娃幼儿园",
+          "中国工业互联网研究研究"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212686,
+      "stationDeviceLocation": 150998617,
+      "stationCode": null,
+      "longitude": 116.467412,
+      "latitude": 40.01067,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": null
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

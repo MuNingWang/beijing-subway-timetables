@@ -1,0 +1,376 @@
+{
+  "lines": [
+    {
+      "lineCode": "01",
+      "lineColor": "BE3631",
+      "lineId": 1,
+      "lineName": "1号线八通线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:23",
+      "lastTime": "23:25",
+      "startStationName": "古城",
+      "startStationDeviceLocation": 150995204,
+      "terminalStationName": "环球度假区",
+      "terminalStationDeviceLocation": 151019792,
+      "sourceStationName": "古城",
+      "sourceStationDeviceLocation": 150995204,
+      "destStationName": "环球度假区",
+      "destStationDeviceLocation": 151019792,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995218,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "01",
+      "lineColor": "BE3631",
+      "lineId": 1,
+      "lineName": "1号线八通线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:23",
+      "lastTime": "0:07",
+      "startStationName": "古城",
+      "startStationDeviceLocation": 150995204,
+      "terminalStationName": "四惠东",
+      "terminalStationDeviceLocation": 150995225,
+      "sourceStationName": "古城",
+      "sourceStationDeviceLocation": 150995204,
+      "destStationName": "四惠东",
+      "destStationDeviceLocation": 150995225,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150995218,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "01",
+      "lineColor": "BE3631",
+      "lineId": 1,
+      "lineName": "1号线八通线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:10",
+      "lastTime": "23:25",
+      "startStationName": "环球度假区",
+      "startStationDeviceLocation": 151019792,
+      "terminalStationName": "苹果园",
+      "terminalStationDeviceLocation": 150995203,
+      "sourceStationName": "环球度假区",
+      "sourceStationDeviceLocation": 151019792,
+      "destStationName": "苹果园",
+      "destStationDeviceLocation": 150995203,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995218,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "01",
+      "lineColor": "BE3631",
+      "lineId": 1,
+      "lineName": "1号线八通线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:10",
+      "lastTime": "23:46",
+      "startStationName": "环球度假区",
+      "startStationDeviceLocation": 151019792,
+      "terminalStationName": "古城",
+      "terminalStationDeviceLocation": 150995204,
+      "sourceStationName": "环球度假区",
+      "sourceStationDeviceLocation": 151019792,
+      "destStationName": "古城",
+      "destStationDeviceLocation": 150995204,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150995218,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "08",
+      "lineColor": "009263",
+      "lineId": 8,
+      "lineName": "8号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:20",
+      "lastTime": "23:30",
+      "startStationName": "朱辛庄",
+      "startStationDeviceLocation": 150996997,
+      "terminalStationName": "瀛海",
+      "terminalStationDeviceLocation": 150997065,
+      "sourceStationName": "朱辛庄",
+      "sourceStationDeviceLocation": 150996997,
+      "destStationName": "瀛海",
+      "destStationDeviceLocation": 150997065,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997037,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "08",
+      "lineColor": "009263",
+      "lineId": 8,
+      "lineName": "8号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:42",
+      "lastTime": "23:37",
+      "startStationName": "瀛海",
+      "startStationDeviceLocation": 150997065,
+      "terminalStationName": "朱辛庄",
+      "terminalStationDeviceLocation": 150996997,
+      "sourceStationName": "瀛海",
+      "sourceStationDeviceLocation": 150997065,
+      "destStationName": "朱辛庄",
+      "destStationDeviceLocation": 150996997,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997037,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "王府井",
+    "stationCode": null,
+    "stationDeviceLocation": 150995218,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：无\n8号线：开往瀛海方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：无\n8号线：开往瀛海方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：无\n8号线：开往瀛海方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：无\n8号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：A口（进、出站）\n1号线八通线：B口（进、出站）\n1号线八通线：C口（进、出站）\n8号线：E口（进站、出站）\n8号线：F口（进站、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：无\n8号线：换乘通道、8号线北厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：无\n8号线：开往朱辛庄方向，有站厅到站台\n8号线：开往朱辛庄方向，有站台到站厅\n8号线：开往瀛海方向，有站厅到站台\n8号线：开往瀛海方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：B口楼梯\n1号线八通线：C口楼梯\n1号线八通线：厅台东侧楼梯\n8号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：站厅东侧，靠近A口人工售票厅\n8号线：站厅北侧，靠近E口人工售票厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：B口楼梯（可视对讲）\n1号线八通线：C口楼梯（可视对讲）\n1号线八通线：站台两端（可通话）\n1号线八通线：站台中部（可视对讲）\n1号线八通线：厅台东侧楼梯（可视对讲）\n1号线八通线：A口人工售票厅（可通话）\n1号线八通线：中厅人工售票厅（可通话）\n1号线八通线：站厅东侧墙壁，靠近警务室（可通话）\n1号线八通线：站厅西侧墙壁，靠近综控室（可通话）\n8号线：E口人工售票厅（可通话）\n8号线：F口人工售票厅（可通话）\n8号线：站厅东侧AFC设备（仅呼叫）\n8号线：1-8换乘通道直梯（可通话）\n8号线：站厅直梯 靠近北2楼梯（可通话）\n8号线：站台开往瀛海方向车尾残卫（仅呼叫）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：站厅中部，靠近换乘通道（付费区）\n8号线：F口出站闸机处",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：无\n8号线：E3口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：东厅（A口/B口）\n1号线八通线：西厅（C口）\n8号线：F口出站闸机处 E3口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：东厅\n8号线：北厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "王府中环",
+          "北京瀛台律师事务所；"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "王府井大街",
+          "中华人民共和国商务部",
+          "北京apm",
+          "王府井喜悦",
+          "北京医院；"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "王府井大街",
+          "台基厂大街",
+          "北京贵宾楼饭店",
+          "王府井喜悦；"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "王府井步行街（西侧）",
+          "北京万豪行政公寓",
+          "北京市百货大楼",
+          "王府井喜悦",
+          "西庭秀色西餐厅；"
+        ]
+      },
+      {
+        "name": "F",
+        "desc": null,
+        "nearby": [
+          "王府井步行街（东侧）",
+          "东方广场",
+          "王府井书店；"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212673,
+      "stationDeviceLocation": 150995218,
+      "stationCode": null,
+      "longitude": 116.411571,
+      "latitude": 39.908069,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "2148",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/1号线-王府井站-苹果园站方向-工作日.jpg",
+        "stationCode": "0118",
+        "lineCode": "01",
+        "stationNameCn": "王府井"
+      },
+      {
+        "id": "2149",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/1号线-王府井站-苹果园站方向-双休日.jpg",
+        "stationCode": "0118",
+        "lineCode": "01",
+        "stationNameCn": "王府井"
+      },
+      {
+        "id": "2147",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/1号线-王府井站-环球度假区站方向-工作日.jpg",
+        "stationCode": "0118",
+        "lineCode": "01",
+        "stationNameCn": "王府井"
+      },
+      {
+        "id": "2150",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/1号线-王府井站-环球度假区站方向-双休日.jpg",
+        "stationCode": "0118",
+        "lineCode": "01",
+        "stationNameCn": "王府井"
+      },
+      {
+        "id": "8",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/8号线-王府井站-瀛海站方向-工作日.jpg",
+        "stationCode": "0845",
+        "lineCode": "08",
+        "stationNameCn": "王府井"
+      },
+      {
+        "id": "178",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/8号线-王府井站-瀛海站方向-双休日.jpg",
+        "stationCode": "0845",
+        "lineCode": "08",
+        "stationNameCn": "王府井"
+      },
+      {
+        "id": "584",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/8号线-王府井站-朱辛庄站方向-工作日.jpg",
+        "stationCode": "0845",
+        "lineCode": "08",
+        "stationNameCn": "王府井"
+      },
+      {
+        "id": "949",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/8号线-王府井站-朱辛庄站方向-双休日.jpg",
+        "stationCode": "0845",
+        "lineCode": "08",
+        "stationNameCn": "王府井"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": "https://dtdata.bjsubway.com/map25d/wangfujing.png"
+}

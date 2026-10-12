@@ -1,0 +1,314 @@
+{
+  "lines": [
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:16",
+      "lastTime": "21:26",
+      "startStationName": "呼家楼",
+      "startStationDeviceLocation": 150997539,
+      "terminalStationName": "国贸",
+      "terminalStationDeviceLocation": 150997543,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997541,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:16",
+      "lastTime": "23:10",
+      "startStationName": "呼家楼",
+      "startStationDeviceLocation": 150997539,
+      "terminalStationName": "国贸",
+      "terminalStationDeviceLocation": 150997543,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997541,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:16",
+      "lastTime": "23:34",
+      "startStationName": "呼家楼",
+      "startStationDeviceLocation": 150997539,
+      "terminalStationName": "国贸",
+      "terminalStationDeviceLocation": 150997543,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "成寿寺",
+      "destStationDeviceLocation": 151018013,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997541,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:42",
+      "lastTime": "21:55",
+      "startStationName": "国贸",
+      "startStationDeviceLocation": 150997543,
+      "terminalStationName": "呼家楼",
+      "terminalStationDeviceLocation": 150997539,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997541,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:42",
+      "lastTime": "23:40",
+      "startStationName": "国贸",
+      "startStationDeviceLocation": 150997543,
+      "terminalStationName": "呼家楼",
+      "terminalStationDeviceLocation": 150997539,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997541,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "金台夕照",
+    "stationCode": null,
+    "stationDeviceLocation": 150997541,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "站台北侧通道内（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "站台北侧通道内（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "站台北侧通道内（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "A口 B口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "A口（进、出站）\nB口（进、出站）\nC口（进、出站）\nD口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "开往国贸方向，有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "厅台两端，有站台到站厅\n厅台两端，无站厅到站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "站厅中部售票室（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站台南侧，靠近交接班室（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "A口坡道\nB口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "南厅（C口、D口）\n北厅（A口、B口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "北厅（A口、B口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "东三环中路",
+          "关东店南街",
+          "财富购物中心",
+          "财富金融中心",
+          "北京环球金融中心"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "朝阳路",
+          "东三环中路",
+          "呼家楼派出所",
+          "泰康金融大厦;"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "东三环中路",
+          "光华路",
+          "中央广播电视总台"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "东三环中路",
+          "光华路"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212682,
+      "stationDeviceLocation": 150997541,
+      "stationCode": null,
+      "longitude": 116.461743,
+      "latitude": 39.916838,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1573",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-金台夕照站-国贸站方向-工作日.jpg",
+        "stationCode": "1037",
+        "lineCode": "10",
+        "stationNameCn": "金台夕照"
+      },
+      {
+        "id": "2048",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-金台夕照站-国贸站方向-双休日.jpg",
+        "stationCode": "1037",
+        "lineCode": "10",
+        "stationNameCn": "金台夕照"
+      },
+      {
+        "id": "330",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-金台夕照站-呼家楼站方向-工作日.jpg",
+        "stationCode": "1037",
+        "lineCode": "10",
+        "stationNameCn": "金台夕照"
+      },
+      {
+        "id": "146",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-金台夕照站-呼家楼站方向-双休日.jpg",
+        "stationCode": "1037",
+        "lineCode": "10",
+        "stationNameCn": "金台夕照"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

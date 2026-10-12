@@ -1,0 +1,370 @@
+{
+  "lines": [
+    {
+      "lineCode": "09",
+      "lineColor": "96BE0B",
+      "lineId": 9,
+      "lineName": "9号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:40",
+      "lastTime": "23:20",
+      "startStationName": "国家图书馆",
+      "startStationDeviceLocation": 150997269,
+      "terminalStationName": "郭公庄",
+      "terminalStationDeviceLocation": 150997293,
+      "sourceStationName": "国家图书馆",
+      "sourceStationDeviceLocation": 150997269,
+      "destStationName": "郭公庄",
+      "destStationDeviceLocation": 150997293,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997271,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "09",
+      "lineColor": "96BE0B",
+      "lineId": 9,
+      "lineName": "9号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:29",
+      "lastTime": "23:09",
+      "startStationName": "郭公庄",
+      "startStationDeviceLocation": 150997293,
+      "terminalStationName": "国家图书馆",
+      "terminalStationDeviceLocation": 150997269,
+      "sourceStationName": "郭公庄",
+      "sourceStationDeviceLocation": 150997293,
+      "destStationName": "国家图书馆",
+      "destStationDeviceLocation": 150997269,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997271,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "06",
+      "lineColor": "D29404",
+      "lineId": 6,
+      "lineName": "6号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:29",
+      "lastTime": "22:47",
+      "startStationName": "金安桥",
+      "startStationDeviceLocation": 150996489,
+      "terminalStationName": "潞阳",
+      "terminalStationDeviceLocation": 150996559,
+      "sourceStationName": "金安桥",
+      "sourceStationDeviceLocation": 150996489,
+      "destStationName": "潞阳",
+      "destStationDeviceLocation": 150996559,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996507,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "06",
+      "lineColor": "D29404",
+      "lineId": 6,
+      "lineName": "6号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:29",
+      "lastTime": "23:58",
+      "startStationName": "金安桥",
+      "startStationDeviceLocation": 150996489,
+      "terminalStationName": "草房",
+      "terminalStationDeviceLocation": 150996541,
+      "sourceStationName": "金安桥",
+      "sourceStationDeviceLocation": 150996489,
+      "destStationName": "草房",
+      "destStationDeviceLocation": 150996541,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150996507,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "06",
+      "lineColor": "D29404",
+      "lineId": 6,
+      "lineName": "6号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:38",
+      "lastTime": "23:52",
+      "startStationName": "潞阳",
+      "startStationDeviceLocation": 150996559,
+      "terminalStationName": "金安桥",
+      "terminalStationDeviceLocation": 150996489,
+      "sourceStationName": "潞阳",
+      "sourceStationDeviceLocation": 150996559,
+      "destStationName": "金安桥",
+      "destStationDeviceLocation": 150996489,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996507,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "06",
+      "lineColor": "D29404",
+      "lineId": 6,
+      "lineName": "6号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:38",
+      "lastTime": "0:32",
+      "startStationName": "潞阳",
+      "startStationDeviceLocation": 150996559,
+      "terminalStationName": "海淀五路居",
+      "terminalStationDeviceLocation": 150996501,
+      "sourceStationName": "潞阳",
+      "sourceStationDeviceLocation": 150996559,
+      "destStationName": "海淀五路居",
+      "destStationDeviceLocation": 150996501,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150996507,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "白石桥南",
+    "stationCode": null,
+    "stationDeviceLocation": 150997271,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "6号线：站台开往金安桥方向车头\n9号线：站台开往郭公庄方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "6号线：站台开往金安桥方向车头\n9号线：站台开往郭公庄方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "6号线：站台开往金安桥方向车头\n9号线：站台开往郭公庄方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "6号线：G口\n9号线：C口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "6号线：E口（进、出站）\n6号线：G口（进、出站）\n9号线：A口（进站、出站）\n9号线：B口（进站、出站）\n9号线：C口（进站、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "6号线：厅台东端开往潞城方向车头\n9号线：厅台南端开往国家图书馆方向车尾（可换乘）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "6号线：开往金安桥方向，有站厅到站台\n6号线：开往金安桥方向，有站台到站厅\n6号线：开往潞阳方向，有站厅到站台\n6号线：开往潞阳方向，有站台到站厅\n9号线：开往郭公庄方向，有站厅到站台\n9号线：开往郭公庄方向，有站台到站厅\n9号线：开往国家图书馆方向，有站厅到站台\n9号线：开往国家图书馆方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "6号线：无\n9号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "6号线：无\n9号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "6号线：E口人工售票厅（可通话）\n9号线：A、B口人工售票厅（可通话）\n9号线：C口人工售票厅（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "6号线：站厅西侧，靠近E口出站闸机（付费区）\n9号线：站厅北侧，靠近A口出站闸机（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "6号线：G口直梯、坡道\n9号线：C口直梯、坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "6号线：站厅（E口）\n6号线：站厅（G口）\n9号线：北厅（A口/B口）\n9号线：南厅（C口）\n9号线：中厅（C口/B口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "6号线：无\n9号线：北厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "首都体育馆南路（西侧）",
+          "中讯邮电咨询设计院有限公司；"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "首都体育馆南路（东侧）",
+          "唐宫新世纪店；"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "车公庄西路",
+          "中国城市规划设计研究院；"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "车公庄西路（北侧）",
+          "紫竹院南路",
+          "天职国际会计师事务所",
+          "青矩技术股份有限公司",
+          "国际传播大厦"
+        ]
+      },
+      {
+        "name": "G",
+        "desc": null,
+        "nearby": [
+          "车公庄西路（南侧）",
+          "首都体育馆南路（西侧）"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212681,
+      "stationDeviceLocation": 150997271,
+      "stationCode": null,
+      "longitude": 116.32568,
+      "latitude": 39.933022,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1697",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/6号线-白石桥南站-金安桥站方向-工作日.jpg",
+        "stationCode": "0627",
+        "lineCode": "06",
+        "stationNameCn": "白石桥南"
+      },
+      {
+        "id": "1694",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/6号线-白石桥南站-金安桥站方向-双休日.jpg",
+        "stationCode": "0627",
+        "lineCode": "06",
+        "stationNameCn": "白石桥南"
+      },
+      {
+        "id": "1698",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/6号线-白石桥南站-潞阳站方向-工作日.jpg",
+        "stationCode": "0627",
+        "lineCode": "06",
+        "stationNameCn": "白石桥南"
+      },
+      {
+        "id": "1695",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/6号线-白石桥南站-潞阳站方向-双休日.jpg",
+        "stationCode": "0627",
+        "lineCode": "06",
+        "stationNameCn": "白石桥南"
+      },
+      {
+        "id": "1271",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/9号线-白石桥南站-郭公庄站方向-双休日.jpg",
+        "stationCode": "0923",
+        "lineCode": "09",
+        "stationNameCn": "白石桥南"
+      },
+      {
+        "id": "818",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/9号线-白石桥南站-郭公庄站、阎村东站方向-工作日.jpg",
+        "stationCode": "0923",
+        "lineCode": "09",
+        "stationNameCn": "白石桥南"
+      },
+      {
+        "id": "251",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/9号线-白石桥南站-国家图书馆站方向-工作日.jpg",
+        "stationCode": "0923",
+        "lineCode": "09",
+        "stationNameCn": "白石桥南"
+      },
+      {
+        "id": "477",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/9号线-白石桥南站-国家图书馆站方向-双休日.jpg",
+        "stationCode": "0923",
+        "lineCode": "09",
+        "stationNameCn": "白石桥南"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

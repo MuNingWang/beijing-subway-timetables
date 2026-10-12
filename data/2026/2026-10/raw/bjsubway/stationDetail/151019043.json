@@ -1,0 +1,266 @@
+{
+  "lines": [
+    {
+      "lineCode": "94",
+      "lineColor": "DD83B0",
+      "lineId": 94,
+      "lineName": "昌平线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:24",
+      "lastTime": "23:15",
+      "startStationName": "昌平西山口",
+      "startStationDeviceLocation": 151019027,
+      "terminalStationName": "蓟门桥",
+      "terminalStationDeviceLocation": 151019065,
+      "sourceStationName": "昌平西山口",
+      "sourceStationDeviceLocation": 151019027,
+      "destStationName": "蓟门桥",
+      "destStationDeviceLocation": 151019065,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019043,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "94",
+      "lineColor": "DD83B0",
+      "lineId": 94,
+      "lineName": "昌平线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:24",
+      "lastTime": "0:00",
+      "startStationName": "昌平西山口",
+      "startStationDeviceLocation": 151019027,
+      "terminalStationName": "朱辛庄",
+      "terminalStationDeviceLocation": 151019045,
+      "sourceStationName": "昌平西山口",
+      "sourceStationDeviceLocation": 151019027,
+      "destStationName": "朱辛庄",
+      "destStationDeviceLocation": 151019045,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151019043,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "94",
+      "lineColor": "DD83B0",
+      "lineId": 94,
+      "lineName": "昌平线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:18",
+      "lastTime": "23:55",
+      "startStationName": "蓟门桥",
+      "startStationDeviceLocation": 151019065,
+      "terminalStationName": "昌平西山口",
+      "terminalStationDeviceLocation": 151019027,
+      "sourceStationName": "蓟门桥",
+      "sourceStationDeviceLocation": 151019065,
+      "destStationName": "昌平西山口",
+      "destStationDeviceLocation": 151019027,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019043,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "巩华城",
+    "stationCode": null,
+    "stationDeviceLocation": 151019043,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "开往昌平西山口方向车头（站厅北厅付费区内）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "开往昌平西山口方向车头（站厅北厅付费区内）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "开往昌平西山口方向车头（站厅北厅付费区内）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "A口\nB口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "A2口（进出站）\nB1口（进出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往昌平西山口方向，有，站厅到站台\n开往昌平西山口方向，有，站台到站厅\n开往蓟门桥方向，\n有，站厅到站台\n有，站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "站厅北厅，靠近A口出站闸机\n站厅北侧，靠近人工售票厅\n站厅南侧，靠近人工售票厅\n站厅南侧，靠近A口安检\n站厅南厅，靠近综控室前柱子\n站厅南厅，办公区门前\n站厅北厅，无障碍卫生间内",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站厅北厅，靠近扶梯（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "A1口坡道\nB2口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "站厅非付费区",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "南厅办公区内",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A1",
+        "desc": null,
+        "nearby": [
+          "环城北路",
+          "沙河中学",
+          "巩华中心第二小学",
+          "七里渠派出所",
+          "沙河中西医结合医院"
+        ]
+      },
+      {
+        "name": "A2",
+        "desc": null,
+        "nearby": [
+          "环城北路",
+          "沙河中学",
+          "巩华中心第二小学",
+          "七里渠派出所",
+          "沙河中西医结合医院"
+        ]
+      },
+      {
+        "name": "B1",
+        "desc": null,
+        "nearby": [
+          "昌平新城滨河森林公园"
+        ]
+      },
+      {
+        "name": "B2",
+        "desc": null,
+        "nearby": [
+          "昌平新城滨河森林公园"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212766,
+      "stationDeviceLocation": 151019043,
+      "stationCode": null,
+      "longitude": 116.293979,
+      "latitude": 40.1309,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1531",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-巩华城站-蓟门桥站方向-工作日.jpg",
+        "stationCode": "9435",
+        "lineCode": "94",
+        "stationNameCn": "巩华城"
+      },
+      {
+        "id": "1535",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-巩华城站-蓟门桥站方向-双休日.jpg",
+        "stationCode": "9435",
+        "lineCode": "94",
+        "stationNameCn": "巩华城"
+      },
+      {
+        "id": "1358",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-巩华城站-昌平西山口站方向-工作日.jpg",
+        "stationCode": "9435",
+        "lineCode": "94",
+        "stationNameCn": "巩华城"
+      },
+      {
+        "id": "592",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-巩华城站-昌平西山口站方向-双休日.jpg",
+        "stationCode": "9435",
+        "lineCode": "94",
+        "stationNameCn": "巩华城"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

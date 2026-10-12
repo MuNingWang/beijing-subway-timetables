@@ -1,0 +1,386 @@
+{
+  "lines": [
+    {
+      "lineCode": "05",
+      "lineColor": "A5237A",
+      "lineId": 5,
+      "lineName": "5号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:19",
+      "lastTime": "23:07",
+      "startStationName": "天通苑北",
+      "startStationDeviceLocation": 150996245,
+      "terminalStationName": "宋家庄",
+      "terminalStationDeviceLocation": 150996289,
+      "sourceStationName": "天通苑北",
+      "sourceStationDeviceLocation": 150996245,
+      "destStationName": "宋家庄",
+      "destStationDeviceLocation": 150996289,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996261,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "05",
+      "lineColor": "A5237A",
+      "lineId": 5,
+      "lineName": "5号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:50",
+      "lastTime": "23:41",
+      "startStationName": "宋家庄",
+      "startStationDeviceLocation": 150996289,
+      "terminalStationName": "天通苑北",
+      "terminalStationDeviceLocation": 150996245,
+      "sourceStationName": "宋家庄",
+      "sourceStationDeviceLocation": 150996289,
+      "destStationName": "天通苑北",
+      "destStationDeviceLocation": 150996245,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996261,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "4:58",
+      "lastTime": "21:08",
+      "startStationName": "安贞门",
+      "startStationDeviceLocation": 150997523,
+      "terminalStationName": "芍药居",
+      "terminalStationDeviceLocation": 150997527,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997525,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "4:58",
+      "lastTime": "23:16",
+      "startStationName": "安贞门",
+      "startStationDeviceLocation": 150997523,
+      "terminalStationName": "芍药居",
+      "terminalStationDeviceLocation": 150997527,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "成寿寺",
+      "destStationDeviceLocation": 151018013,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997525,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "4:58",
+      "lastTime": "22:52",
+      "startStationName": "安贞门",
+      "startStationDeviceLocation": 150997523,
+      "terminalStationName": "芍药居",
+      "terminalStationDeviceLocation": 150997527,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997525,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "6:00",
+      "lastTime": "22:13",
+      "startStationName": "芍药居",
+      "startStationDeviceLocation": 150997527,
+      "terminalStationName": "安贞门",
+      "terminalStationDeviceLocation": 150997523,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997525,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "6:00",
+      "lastTime": "23:58",
+      "startStationName": "芍药居",
+      "startStationDeviceLocation": 150997527,
+      "terminalStationName": "安贞门",
+      "terminalStationDeviceLocation": 150997523,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997525,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "惠新西街南口",
+    "stationCode": null,
+    "stationDeviceLocation": 150996261,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "（5号线)开往宋家庄方向车尾\n开往芍药居方向中部",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "（5号线)开往天通苑北方向车头\n开往芍药居方向中部",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "开往芍药居方向中部",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)A口（出站）\n（5号线)B口（进、出站）\n（5号线)C口（进、出站）\n（5号线)D口（进、出站）\nA口（出站）\nB口（进出站）\nC口（进、出站）D口（进,出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)有\n站厅（北厅，南厅两端）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)开往天通苑北方向，有站台到站厅\n（5号线)开往天通苑北方向，有站厅到站台\n（5号线)开往宋家庄方向，有站台到站厅\n（5号线)开往宋家庄方向，有站厅到站台\n开往安贞门方向有站厅到站台\n开往芍药居有站厅到站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "（5号线)B口楼梯\n（5号线)C口楼梯\nB口楼梯\nC口楼梯",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "（5号线)B口楼梯\nC口楼梯\n站厅站台直梯处\n北厅站厅直梯处（仅呼叫）\n站台北端站台直梯处（仅呼叫）\n南厅站厅直梯处（仅呼叫）\n站台南端站台直梯处（仅呼叫）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "（5号线)站台中部，靠近开往宋家庄方向13门（付费区）\n北厅靠近B口闸机处\n站厅北厅，靠近B口闸机处（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "（5号线)B、C口坡道\nB口坡道\nC口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "（5号线)北厅（AB口）（5号线)南厅（CD口）\n北厅（A口、B口）\n南厅（C口，D口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "（5号线)南厅BOM室旁\n南厅售票室后方",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "北土城东路",
+          "北京藏医院"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "惠新西街",
+          "交通运输部科学研究院",
+          "中国日报社"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "樱花园西街",
+          "樱花园",
+          "中日友好医院"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "樱花园西街",
+          "国典华园",
+          "胜古北里",
+          "元大都城垣遗址公园"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212677,
+      "stationDeviceLocation": 150996261,
+      "stationCode": null,
+      "longitude": 116.417537,
+      "latitude": 39.977121,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1190",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-惠新西街南口站-宋家庄站方向-工作日.jpg",
+        "stationCode": "0537",
+        "lineCode": "05",
+        "stationNameCn": "惠新西街南口"
+      },
+      {
+        "id": "1240",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-惠新西街南口站-宋家庄站方向-双休日.jpg",
+        "stationCode": "0537",
+        "lineCode": "05",
+        "stationNameCn": "惠新西街南口"
+      },
+      {
+        "id": "1191",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-惠新西街南口站-天通苑北站方向-工作日.jpg",
+        "stationCode": "0537",
+        "lineCode": "05",
+        "stationNameCn": "惠新西街南口"
+      },
+      {
+        "id": "1241",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-惠新西街南口站-天通苑北站方向-双休日.jpg",
+        "stationCode": "0537",
+        "lineCode": "05",
+        "stationNameCn": "惠新西街南口"
+      },
+      {
+        "id": "620",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-惠新西街南口站-芍药居站方向-工作日.jpg",
+        "stationCode": "1021",
+        "lineCode": "10",
+        "stationNameCn": "惠新西街南口"
+      },
+      {
+        "id": "671",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-惠新西街南口站-芍药居站方向-双休日.jpg",
+        "stationCode": "1021",
+        "lineCode": "10",
+        "stationNameCn": "惠新西街南口"
+      },
+      {
+        "id": "1653",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-惠新西街南口站-安贞门站方向-工作日.jpg",
+        "stationCode": "1021",
+        "lineCode": "10",
+        "stationNameCn": "惠新西街南口"
+      },
+      {
+        "id": "2026",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-惠新西街南口站-安贞门站方向-双休日.jpg",
+        "stationCode": "1021",
+        "lineCode": "10",
+        "stationNameCn": "惠新西街南口"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

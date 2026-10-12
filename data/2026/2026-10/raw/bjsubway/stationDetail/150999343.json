@@ -1,0 +1,204 @@
+{
+  "lines": [
+    {
+      "lineCode": "17",
+      "lineColor": "00A9A9",
+      "lineId": 17,
+      "lineName": "17号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:50",
+      "lastTime": "23:12",
+      "startStationName": "未来科学城北",
+      "startStationDeviceLocation": 150999317,
+      "terminalStationName": "嘉会湖",
+      "terminalStationDeviceLocation": 150999357,
+      "sourceStationName": "未来科学城北",
+      "sourceStationDeviceLocation": 150999317,
+      "destStationName": "嘉会湖",
+      "destStationDeviceLocation": 150999357,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150999343,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "17",
+      "lineColor": "00A9A9",
+      "lineId": 17,
+      "lineName": "17号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:42",
+      "lastTime": "22:54",
+      "startStationName": "嘉会湖",
+      "startStationDeviceLocation": 150999357,
+      "terminalStationName": "未来科学城北",
+      "terminalStationDeviceLocation": 150999317,
+      "sourceStationName": "嘉会湖",
+      "sourceStationDeviceLocation": 150999357,
+      "destStationName": "未来科学城北",
+      "destStationDeviceLocation": 150999317,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150999343,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "潘家园西",
+    "stationCode": null,
+    "stationDeviceLocation": 150999343,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "开往未来科学城北站方向车尾\n开往嘉会湖站方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "开往未来科学城北方向车尾\n开往嘉会湖方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "开往嘉会湖方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "D口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "B口（进站）\nD口（进站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "开往未来科学城北方向，有\n开往嘉会湖方向，有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往未来科学城北方向，有站台到站厅\n开往未来科学城北方向，有站厅到站台\n开往嘉会湖方向，有站厅到站台\n开往嘉会湖方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "站台两端 （可通话）\n无障碍卫生间招援（可通话）\n母婴室（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "D口南外挂厅（付费区，靠近CUC）\nC口中外挂厅（付费区，靠近CUC）\nB口北外挂厅（付费区，靠近售水机）\n站台开往嘉会湖方向第9门\n站台开往未来科学城北方向第23门",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "B口坡道\nC口坡道\nD口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "北外挂厅（B口）\n中外挂厅（C口）\n南外挂厅（D口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "南外挂厅（D口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "潘家园东路",
+          "人卫酒店",
+          "潘家园旧货市场"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "潘家园东路",
+          "北京工业大学实验学校"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "潘家园东路",
+          "北京潘家园中西医结合医院",
+          "中国医学科学院肿瘤医院"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212689,
+      "stationDeviceLocation": 150999343,
+      "stationCode": null,
+      "longitude": 116.396,
+      "latitude": 39.865,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": null
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

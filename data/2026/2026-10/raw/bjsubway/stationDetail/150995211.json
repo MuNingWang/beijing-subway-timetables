@@ -1,0 +1,404 @@
+{
+  "lines": [
+    {
+      "lineCode": "01",
+      "lineColor": "BE3631",
+      "lineId": 1,
+      "lineName": "1号线八通线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:16",
+      "lastTime": "23:10",
+      "startStationName": "古城",
+      "startStationDeviceLocation": 150995204,
+      "terminalStationName": "环球度假区",
+      "terminalStationDeviceLocation": 151019792,
+      "sourceStationName": "古城",
+      "sourceStationDeviceLocation": 150995204,
+      "destStationName": "环球度假区",
+      "destStationDeviceLocation": 151019792,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995211,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "01",
+      "lineColor": "BE3631",
+      "lineId": 1,
+      "lineName": "1号线八通线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:16",
+      "lastTime": "23:52",
+      "startStationName": "古城",
+      "startStationDeviceLocation": 150995204,
+      "terminalStationName": "四惠东",
+      "terminalStationDeviceLocation": 150995225,
+      "sourceStationName": "古城",
+      "sourceStationDeviceLocation": 150995204,
+      "destStationName": "四惠东",
+      "destStationDeviceLocation": 150995225,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150995211,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "01",
+      "lineColor": "BE3631",
+      "lineId": 1,
+      "lineName": "1号线八通线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:15",
+      "lastTime": "23:40",
+      "startStationName": "环球度假区",
+      "startStationDeviceLocation": 151019792,
+      "terminalStationName": "苹果园",
+      "terminalStationDeviceLocation": 150995203,
+      "sourceStationName": "环球度假区",
+      "sourceStationDeviceLocation": 151019792,
+      "destStationName": "苹果园",
+      "destStationDeviceLocation": 150995203,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995211,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "01",
+      "lineColor": "BE3631",
+      "lineId": 1,
+      "lineName": "1号线八通线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:15",
+      "lastTime": "0:01",
+      "startStationName": "环球度假区",
+      "startStationDeviceLocation": 151019792,
+      "terminalStationName": "古城",
+      "terminalStationDeviceLocation": 150995204,
+      "sourceStationName": "环球度假区",
+      "sourceStationDeviceLocation": 151019792,
+      "destStationName": "古城",
+      "destStationDeviceLocation": 150995204,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150995211,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "09",
+      "lineColor": "96BE0B",
+      "lineId": 9,
+      "lineName": "9号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:46",
+      "lastTime": "23:26",
+      "startStationName": "国家图书馆",
+      "startStationDeviceLocation": 150997269,
+      "terminalStationName": "郭公庄",
+      "terminalStationDeviceLocation": 150997293,
+      "sourceStationName": "国家图书馆",
+      "sourceStationDeviceLocation": 150997269,
+      "destStationName": "郭公庄",
+      "destStationDeviceLocation": 150997293,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997275,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "09",
+      "lineColor": "96BE0B",
+      "lineId": 9,
+      "lineName": "9号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:23",
+      "lastTime": "23:03",
+      "startStationName": "郭公庄",
+      "startStationDeviceLocation": 150997293,
+      "terminalStationName": "国家图书馆",
+      "terminalStationDeviceLocation": 150997269,
+      "sourceStationName": "郭公庄",
+      "sourceStationDeviceLocation": 150997293,
+      "destStationName": "国家图书馆",
+      "destStationDeviceLocation": 150997269,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997275,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "军事博物馆",
+    "stationCode": null,
+    "stationDeviceLocation": 150995211,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：站台开往古城方向车尾\n9号线：站台开往国家图书馆方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：站台开往古城方向车尾\n9号线：站台开往国家图书馆方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：站台开往古城方向车尾\n9号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：无\n9号线：A口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：B口（出站）\n9号线：A口（进站、出站）\n9号线：D口（进站、出站）\n9号线：E口（进站、出站）\n9号线：G口（进站、出站）\n9号线：H口（进站、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：无\n9号线：厅台北端开往国家图书馆方向9门",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：无\n9号线：开往郭公庄方向，有站厅到站台\n9号线：开往郭公庄方向，有站台到站厅\n9号线：开往国家图书馆方向，有站厅到站台\n9号线：开往国家图书馆方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：厅台西侧楼梯\n1号线八通线换乘9号线换乘通道南侧\n9号线：换乘通道北侧",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：站厅西厅，靠近A口通道\n9号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：站台两端（可通话）\n1号线八通线：B口人工售票厅（可通话）\n1号线八通线：C1口人工售票厅（可通话）\n1号线八通线：C2口人工售票厅（可通话）\n1号线八通线：站厅东厅，靠近C口通道（可通话）\n1号线八通线：站厅西厅，靠近D口通道（可通话）\n9号线：A口人工售票厅（可通话）\n9号线：D口人工售票厅（可通话）\n9号线：E口人工售票厅（可通话）\n9号线：G、H口人工售票厅（可通话）\n9号线：换乘通道北侧（综控可视，可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：站厅东厅，靠近C口通道（付费区）\n9号线：站厅南厅，靠近G、H口出站闸机（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：B口\n9号线：A口直梯、坡道\n9号线：D口行李坡道\n9号线：H口行李坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：东厅（B口/C口）\n9号线：北厅（E口）\n9号线：西厅（A口/D口）\n9号线：东厅（B口/C口）\n9号线：南厅（H口/G口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：西厅\n9号线：H口站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "复兴路（北侧）",
+          "军博西路（东侧）",
+          "中国人民革命军事博物馆",
+          "中华世纪坛",
+          "晾果厂1号院；"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "复兴路北侧",
+          "中国人民革命军事博物馆；"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "复兴路南侧；"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "复兴路（南侧）",
+          "羊坊店路（东侧）"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "复兴路（北侧）",
+          "军博西路（西侧）",
+          "柳林馆路",
+          "玉渊潭南路",
+          "中华世纪坛",
+          "科学技术部",
+          "柳林馆南里",
+          "中央广播电视总台"
+        ]
+      },
+      {
+        "name": "G",
+        "desc": null,
+        "nearby": [
+          "羊坊店路（东侧）",
+          "北京市玉渊潭中学",
+          "复兴路12号院",
+          "博望园"
+        ]
+      },
+      {
+        "name": "H",
+        "desc": null,
+        "nearby": [
+          "复兴路（南侧）",
+          "羊坊店西路",
+          "中国联通",
+          "羊坊店第四小学",
+          "羊坊店路3号院",
+          "国家税务总局；"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212673,
+      "stationDeviceLocation": 150995211,
+      "stationCode": null,
+      "longitude": 116.321459,
+      "latitude": 39.907422,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "2115",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/1号线-军事博物馆站-苹果园站方向-工作日.jpg",
+        "stationCode": "0111",
+        "lineCode": "01",
+        "stationNameCn": "军事博物馆"
+      },
+      {
+        "id": "2116",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/1号线-军事博物馆站-苹果园站方向-双休日.jpg",
+        "stationCode": "0111",
+        "lineCode": "01",
+        "stationNameCn": "军事博物馆"
+      },
+      {
+        "id": "2113",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/1号线-军事博物馆站-环球度假区站方向-工作日.jpg",
+        "stationCode": "0111",
+        "lineCode": "01",
+        "stationNameCn": "军事博物馆"
+      },
+      {
+        "id": "2114",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/1号线-军事博物馆站-环球度假区站方向-双休日.jpg",
+        "stationCode": "0111",
+        "lineCode": "01",
+        "stationNameCn": "军事博物馆"
+      },
+      {
+        "id": "1278",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/9号线-军事博物馆站-郭公庄站方向-双休日.jpg",
+        "stationCode": "0927",
+        "lineCode": "09",
+        "stationNameCn": "军事博物馆"
+      },
+      {
+        "id": "796",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/9号线-军事博物馆站-郭公庄站、阎村东站方向-工作日.jpg",
+        "stationCode": "0927",
+        "lineCode": "09",
+        "stationNameCn": "军事博物馆"
+      },
+      {
+        "id": "112",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/9号线-军事博物馆站-国家图书馆站方向-工作日.jpg",
+        "stationCode": "0927",
+        "lineCode": "09",
+        "stationNameCn": "军事博物馆"
+      },
+      {
+        "id": "1279",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/9号线-军事博物馆站-国家图书馆站方向-双休日.jpg",
+        "stationCode": "0927",
+        "lineCode": "09",
+        "stationNameCn": "军事博物馆"
+      },
+      {
+        "id": "153",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/9号线-军事博物馆站-国家图书语站方向-双休日.jpg",
+        "stationCode": "0927",
+        "lineCode": "09",
+        "stationNameCn": "军事博物馆"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

@@ -1,0 +1,207 @@
+{
+  "lines": [
+    {
+      "lineCode": "92",
+      "lineColor": "E15C28",
+      "lineId": 92,
+      "lineName": "燕房线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:46",
+      "lastTime": "23:11",
+      "startStationName": "燕山",
+      "startStationDeviceLocation": 151018517,
+      "terminalStationName": "阎村东",
+      "terminalStationDeviceLocation": 151018533,
+      "sourceStationName": "燕山",
+      "sourceStationDeviceLocation": 151018517,
+      "destStationName": "阎村东",
+      "destStationDeviceLocation": 151018533,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151018529,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "92",
+      "lineColor": "E15C28",
+      "lineId": 92,
+      "lineName": "燕房线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:09",
+      "lastTime": "22:34",
+      "startStationName": "阎村东",
+      "startStationDeviceLocation": 151018533,
+      "terminalStationName": "燕山",
+      "terminalStationDeviceLocation": 151018517,
+      "sourceStationName": "阎村东",
+      "sourceStationDeviceLocation": 151018533,
+      "destStationName": "燕山",
+      "destStationDeviceLocation": 151018517,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151018529,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "阎村",
+    "stationCode": null,
+    "stationDeviceLocation": 151018529,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "西厅南侧（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "西厅南侧（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往阎村东方向，有站厅到站台\n开往阎村东方向，有站台到站厅\n开往燕山方向，有站厅到站台\n开往燕山方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "A2口（可通话）\n站台两端（可通话),\n上行站台中部12门（可通话）\n站台直梯口（可通话）\n站厅直梯口（可通话）\n站厅东厅墙壁（综控室玻璃前，可通话）\n无障碍卫生间（仅呼叫)）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站厅东厅（综控室外）（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "A2口\nB1口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "站厅中部",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "东厅\n（靠近B口、付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A1",
+        "desc": null,
+        "nearby": [
+          "京周路"
+        ]
+      },
+      {
+        "name": "A2",
+        "desc": null,
+        "nearby": [
+          "京周路"
+        ]
+      },
+      {
+        "name": "B1",
+        "desc": null,
+        "nearby": [
+          "兴阳线"
+        ]
+      },
+      {
+        "name": "B2",
+        "desc": null,
+        "nearby": [
+          "兴阳线",
+          "阎村镇中心幼儿园"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212764,
+      "stationDeviceLocation": 151018529,
+      "stationCode": null,
+      "longitude": 116.080165,
+      "latitude": 39.716731,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": null
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

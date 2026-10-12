@@ -1,0 +1,250 @@
+{
+  "lines": [
+    {
+      "lineCode": "05",
+      "lineColor": "A5237A",
+      "lineId": 5,
+      "lineName": "5号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:47",
+      "lastTime": "23:35",
+      "startStationName": "天通苑北",
+      "startStationDeviceLocation": 150996245,
+      "terminalStationName": "宋家庄",
+      "terminalStationDeviceLocation": 150996289,
+      "sourceStationName": "天通苑北",
+      "sourceStationDeviceLocation": 150996245,
+      "destStationName": "宋家庄",
+      "destStationDeviceLocation": 150996289,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996287,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "05",
+      "lineColor": "A5237A",
+      "lineId": 5,
+      "lineName": "5号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:22",
+      "lastTime": "23:13",
+      "startStationName": "宋家庄",
+      "startStationDeviceLocation": 150996289,
+      "terminalStationName": "天通苑北",
+      "terminalStationDeviceLocation": 150996245,
+      "sourceStationName": "宋家庄",
+      "sourceStationDeviceLocation": 150996289,
+      "destStationName": "天通苑北",
+      "destStationDeviceLocation": 150996245,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996287,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "刘家窑",
+    "stationCode": null,
+    "stationDeviceLocation": 150996287,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "开往天通苑北方向车尾\n站台开往宋家庄方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "开往天通苑北方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "开往天通苑北方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "A口（出站）\nB口（出站）\nC口 （出站）\nD口 （出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往天通苑北方向，有站台到站厅\n开往天通苑北方向，无站厅到站台\n开往宋家庄方向，有站台到站厅\n开往宋家庄方向，无站厅到站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "A口楼梯\nC口楼梯\nA口通道楼梯",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "直梯外站厅层、站台层、直梯内            南、北厅TVM                           南、北厅ITVM",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站台南侧，靠近开往宋家庄方向4门（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "A口坡道\nC口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "南厅（非付费区）\n北厅（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "南厅付费区",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "南三环中路",
+          "木樨园桥",
+          "定安路",
+          "恒松园小区",
+          "定安东里"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "南三环东路",
+          "芳群园"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "南三环东路",
+          "爱空间整装体验中心",
+          "东铁营派出所",
+          "今朝装饰集团",
+          "恩生堂刘家窑中医院",
+          "北京市丰台康复医院"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "南三环中路",
+          "同仁园",
+          "建邦华府",
+          "赵公口长途客运汽车站",
+          "北京华生康复医院",
+          "同仁堂第二中医医院"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212677,
+      "stationDeviceLocation": 150996287,
+      "stationCode": null,
+      "longitude": 116.422119,
+      "latitude": 39.857521,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "433",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-刘家窑站-宋家庄站方向-工作日.jpg",
+        "stationCode": "0563",
+        "lineCode": "05",
+        "stationNameCn": "刘家窑"
+      },
+      {
+        "id": "363",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-刘家窑站-宋家庄站方向-双休日.jpg",
+        "stationCode": "0563",
+        "lineCode": "05",
+        "stationNameCn": "刘家窑"
+      },
+      {
+        "id": "1196",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-刘家窑站-天通苑北站方向-工作日.jpg",
+        "stationCode": "0563",
+        "lineCode": "05",
+        "stationNameCn": "刘家窑"
+      },
+      {
+        "id": "1245",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-刘家窑站-天通苑北站方向-双休日.jpg",
+        "stationCode": "0563",
+        "lineCode": "05",
+        "stationNameCn": "刘家窑"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

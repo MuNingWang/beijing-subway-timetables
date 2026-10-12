@@ -1,0 +1,290 @@
+{
+  "lines": [
+    {
+      "lineCode": "12",
+      "lineColor": "C56B00",
+      "lineId": 12,
+      "lineName": "12号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "6:11",
+      "lastTime": "23:44",
+      "startStationName": "四季青桥",
+      "startStationDeviceLocation": 150998037,
+      "terminalStationName": "东坝北",
+      "terminalStationDeviceLocation": 150998075,
+      "sourceStationName": "四季青桥",
+      "sourceStationDeviceLocation": 150998037,
+      "destStationName": "东坝北",
+      "destStationDeviceLocation": 150998075,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998051,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "12",
+      "lineColor": "C56B00",
+      "lineId": 12,
+      "lineName": "12号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:29",
+      "lastTime": "23:02",
+      "startStationName": "东坝北",
+      "startStationDeviceLocation": 150998075,
+      "terminalStationName": "四季青桥",
+      "terminalStationDeviceLocation": 150998037,
+      "sourceStationName": "东坝北",
+      "sourceStationDeviceLocation": 150998075,
+      "destStationName": "四季青桥",
+      "destStationDeviceLocation": 150998037,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998051,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "19",
+      "lineColor": "D6ABC1",
+      "lineId": 19,
+      "lineName": "19号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:31",
+      "lastTime": "23:11",
+      "startStationName": "牡丹园",
+      "startStationDeviceLocation": 150999829,
+      "terminalStationName": "新宫",
+      "terminalStationDeviceLocation": 150999847,
+      "sourceStationName": "牡丹园",
+      "sourceStationDeviceLocation": 150999829,
+      "destStationName": "新宫",
+      "destStationDeviceLocation": 150999847,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150999831,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "19",
+      "lineColor": "D6ABC1",
+      "lineId": 19,
+      "lineName": "19号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:55",
+      "lastTime": "23:50",
+      "startStationName": "新宫",
+      "startStationDeviceLocation": 150999847,
+      "terminalStationName": "牡丹园",
+      "terminalStationDeviceLocation": 150999829,
+      "sourceStationName": "新宫",
+      "sourceStationDeviceLocation": 150999847,
+      "destStationName": "牡丹园",
+      "destStationDeviceLocation": 150999829,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150999831,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "北太平庄",
+    "stationCode": null,
+    "stationDeviceLocation": 150998051,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "12号线：开往东坝北方向车头\n开往新宫方向车尾（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "12号线：开往东坝北方向车头\n开往新宫方向车尾（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "12号线：开往东坝北方向车头\n开往新宫方向车尾（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "12号线：C口\nA口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "12号线：C口（进、出站）\n12号线：D口（进、出站）\nA口（进、出站）\nB口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "12号线：有\n有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "12号线：开往四季青方向有站厅到站台，有站台到站厅\n12号线：开往东坝北方向有站厅到站台，有站台到站厅\n开往牡丹园方向，有站厅到站台\n开往牡丹园方向，有站台到站厅\n开往新宫方向，有站厅到站台\n开往新宫方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "12号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "12号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "12号线：东厅售补票厅非付费区（可通话）\n12号线：东厅售补票厅付费区（可通话）\n12号线：西厅售补票厅非付费区（可通话）\n12号线：西厅售补票厅付费区（可通话）\n12号线：站台无障碍卫生间（可通话）\n12号线：上下行站台两端（可通话）\n站台两端上下行14门处（可通话）\n南票厅招援电话（可通话）\n北票厅招援电话（可通话）\n无障碍卫生间（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "12号线：站厅东厅，综控室玻璃下方（非付费区）\n站厅北厅（靠近综控室，非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "12号线：C口坡道\nA口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "12号线：东厅（C口、C口直梯）\n12号线：西厅（D口、A口）\n南厅（A口）\n北厅（B口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "12号线：东厅（C口）\n北厅（B口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "北太平庄路",
+          "花园路",
+          "中央新闻纪录电影制片厂"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "北太平庄路",
+          "北大医疗怡健殿北三环中心",
+          "北三环中路",
+          "北京市红十字血液中心"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "北三环中路",
+          "有研大厦",
+          "双秀公园"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "北太平庄路",
+          "北京师范大学第三附属中学",
+          "北京美中宜和北三环妇儿医院"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212684,
+      "stationDeviceLocation": 150998051,
+      "stationCode": null,
+      "longitude": 116.370044,
+      "latitude": 39.967877,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1455",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/12号线-北太平庄站-四季青桥站方向-工作日.jpg",
+        "stationCode": "1235",
+        "lineCode": "12",
+        "stationNameCn": "北太平庄"
+      },
+      {
+        "id": "1492",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/12号线-北太平庄站-四季青桥站方向-双休日.jpg",
+        "stationCode": "1235",
+        "lineCode": "12",
+        "stationNameCn": "北太平庄"
+      },
+      {
+        "id": "1452",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/12号线-北太平庄站-东坝北站方向-工作日.jpg",
+        "stationCode": "1235",
+        "lineCode": "12",
+        "stationNameCn": "北太平庄"
+      },
+      {
+        "id": "1490",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/12号线-北太平庄站-东坝北站方向-双休日.jpg",
+        "stationCode": "1235",
+        "lineCode": "12",
+        "stationNameCn": "北太平庄"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

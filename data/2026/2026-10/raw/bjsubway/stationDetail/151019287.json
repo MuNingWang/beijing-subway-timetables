@@ -1,0 +1,246 @@
+{
+  "lines": [
+    {
+      "lineCode": "95",
+      "lineColor": "E15C28",
+      "lineId": 95,
+      "lineName": "房山线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "6:00",
+      "lastTime": "23:27",
+      "startStationName": "东管头南",
+      "startStationDeviceLocation": 151019277,
+      "terminalStationName": "阎村东",
+      "terminalStationDeviceLocation": 151019307,
+      "sourceStationName": "东管头南",
+      "sourceStationDeviceLocation": 151019277,
+      "destStationName": "阎村东",
+      "destStationDeviceLocation": 151019307,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019287,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "95",
+      "lineColor": "E15C28",
+      "lineId": 95,
+      "lineName": "房山线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:30",
+      "lastTime": "22:52",
+      "startStationName": "阎村东",
+      "startStationDeviceLocation": 151019307,
+      "terminalStationName": "东管头南",
+      "terminalStationDeviceLocation": 151019277,
+      "sourceStationName": "阎村东",
+      "sourceStationDeviceLocation": 151019307,
+      "destStationName": "东管头南",
+      "destStationDeviceLocation": 151019277,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019287,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "大葆台",
+    "stationCode": null,
+    "stationDeviceLocation": 151019287,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "站台开往东管头南方向车头（上行）\n站台开往阎村东方向车尾（下行）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "站台开往东管头南方向车头（上行）\n站台开往阎村东方向车尾（下行）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "A口\nD口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "A口（进站、出站）\nB口（进站、出站）\nC口（进站、出站）\nD口（进站、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "厅台西侧开往东管头南方向20门（上行）\n厅台西侧开往阎村东方向5门（下行）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往东管头南方向，有站厅到站台\n开往东管头南方向，有站台到站厅\n开往阎村东方向，有站厅到站台\n开往阎村东方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "A、D口人工售票厅（可通话）\nB、C口人工售票厅（可通话）\n下行站台开往阎村东方向6门18门（可通话）\n上行站台开往东管头南方向7门18门（可通话）\n上下行站台残卫（仅呼叫）\n西厅上下行直梯外侧（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站厅西厅，靠近综控室（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "A口坡道\nD口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "西厅（A/D口）\n东厅（B/C口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "西厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "世界公园",
+          "富锦家园",
+          "御康公园；"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "世界公园",
+          "丰葆路",
+          "北京国际花园",
+          "郭公庄中学；"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "葆台路",
+          "丰葆路",
+          "花香世界名园",
+          "大葆台西汉墓博物馆；"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "葆台路",
+          "芦花路",
+          "大溪地",
+          "葆台小区；"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212767,
+      "stationDeviceLocation": 151019287,
+      "stationCode": null,
+      "longitude": 116.291681,
+      "latitude": 39.80781,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1010",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/房山线-大葆台站-阎村东站方向-工作日.jpg",
+        "stationCode": "9523",
+        "lineCode": "95",
+        "stationNameCn": "大葆台"
+      },
+      {
+        "id": "1040",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/房山线-大葆台站-阎村东站方向-双休日.jpg",
+        "stationCode": "9523",
+        "lineCode": "95",
+        "stationNameCn": "大葆台"
+      },
+      {
+        "id": "1039",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/房山线-大葆台站-东管头南站方向-双休日.jpg",
+        "stationCode": "9523",
+        "lineCode": "95",
+        "stationNameCn": "大葆台"
+      },
+      {
+        "id": "1009",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/房山线-大葆台站-东管头南站、国家图书馆站方向-工作日.jpg",
+        "stationCode": "9523",
+        "lineCode": "95",
+        "stationNameCn": "大葆台"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

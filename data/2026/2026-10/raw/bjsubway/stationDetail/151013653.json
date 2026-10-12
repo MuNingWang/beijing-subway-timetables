@@ -1,0 +1,287 @@
+{
+  "lines": [
+    {
+      "lineCode": "73",
+      "lineColor": "665794",
+      "lineId": 73,
+      "lineName": "18号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": null,
+      "lastTime": null,
+      "startStationName": "天通苑东",
+      "startStationDeviceLocation": 151013633,
+      "terminalStationName": "马连洼",
+      "terminalStationDeviceLocation": 151013653,
+      "sourceStationName": "天通苑东",
+      "sourceStationDeviceLocation": 151013633,
+      "destStationName": "马连洼",
+      "destStationDeviceLocation": 151013653,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151013653,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "73",
+      "lineColor": "665794",
+      "lineId": 73,
+      "lineName": "18号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:39",
+      "lastTime": "22:49",
+      "startStationName": "马连洼",
+      "startStationDeviceLocation": 151013653,
+      "terminalStationName": "天通苑东",
+      "terminalStationDeviceLocation": 151013633,
+      "sourceStationName": "马连洼",
+      "sourceStationDeviceLocation": 151013653,
+      "destStationName": "天通苑东",
+      "destStationDeviceLocation": 151013633,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151013653,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "73",
+      "lineColor": "665794",
+      "lineId": 73,
+      "lineName": "18号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:39",
+      "lastTime": "23:19",
+      "startStationName": "马连洼",
+      "startStationDeviceLocation": 151013653,
+      "terminalStationName": "霍营东",
+      "terminalStationDeviceLocation": 151013639,
+      "sourceStationName": "马连洼",
+      "sourceStationDeviceLocation": 151013653,
+      "destStationName": "霍营东",
+      "destStationDeviceLocation": 151013639,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151013653,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "16",
+      "lineColor": "7C9E21",
+      "lineId": 16,
+      "lineName": "16号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:34",
+      "lastTime": "22:55",
+      "startStationName": "北安河",
+      "startStationDeviceLocation": 150999061,
+      "terminalStationName": "宛平城",
+      "terminalStationDeviceLocation": 150999119,
+      "sourceStationName": "北安河",
+      "sourceStationDeviceLocation": 150999061,
+      "destStationName": "宛平城",
+      "destStationDeviceLocation": 150999119,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150999075,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "16",
+      "lineColor": "7C9E21",
+      "lineId": 16,
+      "lineName": "16号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "6:02",
+      "lastTime": "23:41",
+      "startStationName": "宛平城",
+      "startStationDeviceLocation": 150999119,
+      "terminalStationName": "北安河",
+      "terminalStationDeviceLocation": 150999061,
+      "sourceStationName": "宛平城",
+      "sourceStationDeviceLocation": 150999119,
+      "destStationName": "北安河",
+      "destStationDeviceLocation": 150999061,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150999075,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "马连洼",
+    "stationCode": null,
+    "stationDeviceLocation": 151013653,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "开往宛平城方向车头\n18号线：开往马连洼方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "开往宛平城方向车头\n18号线：开往马连洼方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "18号线：开往马连洼方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "A口\n18号线：F口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "A口（进、出站）\nC口（进、出站，局部设扶梯）\n18号线：E口（进、出站）                     18号线：F口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "有\n18号线：有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往北安河方向，有站厅到站台\n开往北安河方向，有站台到站厅\n开往宛平城方向，有站厅到站台\n开往宛平城方向，有站台到站厅\n18号线：开往马连洼方向，有站厅到站台；\n18号线：开往天通苑东方向，有站厅到站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "18号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "18号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "站台两端（可通话）\n站厅南侧，靠近综控室（可通话）\n站厅北侧，靠近警务工作站（可通话）\n无障碍卫生间招援（可通话）\n18号线：E口（可通话）                                                    18号线：F口（可通话）                                                        18号线：票亭（可通话）                                                     18号线：直梯（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站台开往宛平城方向第19门\n18号线：站厅中部靠近BOM室（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "A口坡道\n18号线：F口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "北厅（A口)\n南厅（C口）\n18号线：站厅中部（E口、F口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "北厅（A口）\n18号线：北厅（F口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "永丰路西侧",
+          "阳坊大都梅园店",
+          "中国银行国际金融研修院"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "马连洼北路南侧",
+          "中国农业大学（西校区）"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "马连洼北路（北侧）"
+        ]
+      },
+      {
+        "name": "F",
+        "desc": null,
+        "nearby": [
+          "马连洼北路（南侧）",
+          "圆明园西路"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212745,
+      "stationDeviceLocation": 151013653,
+      "stationCode": null,
+      "longitude": 116.27252,
+      "latitude": 40.032637,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1879",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/18号线-马连洼站-天通苑东站方向.jpg",
+        "stationCode": "7321",
+        "lineCode": "73",
+        "stationNameCn": "马连洼"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

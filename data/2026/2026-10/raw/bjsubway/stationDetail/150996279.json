@@ -1,0 +1,404 @@
+{
+  "lines": [
+    {
+      "lineCode": "05",
+      "lineColor": "A5237A",
+      "lineId": 5,
+      "lineName": "5号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:38",
+      "lastTime": "23:26",
+      "startStationName": "天通苑北",
+      "startStationDeviceLocation": 150996245,
+      "terminalStationName": "宋家庄",
+      "terminalStationDeviceLocation": 150996289,
+      "sourceStationName": "天通苑北",
+      "sourceStationDeviceLocation": 150996245,
+      "destStationName": "宋家庄",
+      "destStationDeviceLocation": 150996289,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996279,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "05",
+      "lineColor": "A5237A",
+      "lineId": 5,
+      "lineName": "5号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:31",
+      "lastTime": "23:22",
+      "startStationName": "宋家庄",
+      "startStationDeviceLocation": 150996289,
+      "terminalStationName": "天通苑北",
+      "terminalStationDeviceLocation": 150996245,
+      "sourceStationName": "宋家庄",
+      "sourceStationDeviceLocation": 150996289,
+      "destStationName": "天通苑北",
+      "destStationDeviceLocation": 150996245,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996279,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "02",
+      "lineColor": "0F6192",
+      "lineId": 2,
+      "lineName": "2号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:27",
+      "lastTime": "22:32",
+      "startStationName": "前门",
+      "startStationDeviceLocation": 150995464,
+      "terminalStationName": "北京站",
+      "terminalStationDeviceLocation": 150995466,
+      "sourceStationName": "西直门",
+      "sourceStationDeviceLocation": 150995457,
+      "destStationName": "西直门",
+      "destStationDeviceLocation": 150995457,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995465,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "02",
+      "lineColor": "0F6192",
+      "lineId": 2,
+      "lineName": "2号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:27",
+      "lastTime": "23:17",
+      "startStationName": "前门",
+      "startStationDeviceLocation": 150995464,
+      "terminalStationName": "北京站",
+      "terminalStationDeviceLocation": 150995466,
+      "sourceStationName": "西直门",
+      "sourceStationDeviceLocation": 150995457,
+      "destStationName": "积水潭",
+      "destStationDeviceLocation": 150995474,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150995465,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "02",
+      "lineColor": "0F6192",
+      "lineId": 2,
+      "lineName": "2号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:13",
+      "lastTime": "22:40",
+      "startStationName": "北京站",
+      "startStationDeviceLocation": 150995466,
+      "terminalStationName": "前门",
+      "terminalStationDeviceLocation": 150995464,
+      "sourceStationName": "积水潭",
+      "sourceStationDeviceLocation": 150995474,
+      "destStationName": "积水潭",
+      "destStationDeviceLocation": 150995474,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995465,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "02",
+      "lineColor": "0F6192",
+      "lineId": 2,
+      "lineName": "2号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:13",
+      "lastTime": "23:25",
+      "startStationName": "北京站",
+      "startStationDeviceLocation": 150995466,
+      "terminalStationName": "前门",
+      "terminalStationDeviceLocation": 150995464,
+      "sourceStationName": "积水潭",
+      "sourceStationDeviceLocation": 150995474,
+      "destStationName": "西直门",
+      "destStationDeviceLocation": 150995457,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150995465,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "崇文门",
+    "stationCode": null,
+    "stationDeviceLocation": 150996279,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "（2号线）开往前门方向车尾\n（5号线)开往天通苑北方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "（2号线）开往前门方向车尾\n（5号线)开往天通苑北方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "（2号线）开往前门方向车尾\n（5号线)开往天通苑北方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "（2号线）C口（出站）\n（2号线）D口（出站）\n（5号线)E口（进、出站，局部设扶梯）\n（5号线)F口（进、出站）\n（5号线)G口（出站）\n（5号线)H口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)开往天通苑北方向，有站台到站厅\n（5号线)开往天通苑北方向，有站厅到站台\n（5号线)开往宋家庄方向，有站台到站厅\n（5号线)开往宋家庄方向，有站厅到站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "（5号线)E口楼梯、F口楼梯",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "（2号线）站厅东厅，靠近C口出站闸机\n（5号线)无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "（2号线）站台东端\n（5号线)E口楼梯（可通话）\n（5号线)E口通道内楼梯（可通话）\n（5号线)F口楼梯（可通话）                                     （5号线)站台直梯处（仅呼叫）\n（5号线)站厅直梯处 （仅呼叫）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "（2号线）站台东侧，靠近开往前门方向19门（付费区）\n（5号线)站台南侧，靠近开往天通苑北方向20门（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "（5号线)E口（与站外广场持平）\n（5号线)F口（与站前广场持平）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "（2号线）站厅东厅（BC口）\n（2号线）站厅西厅（AD口）\n（5号线)北厅（EF口）\n（5号线)南厅（GH口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "（2号线）西站台中部\n（5号线)南厅办公区",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "崇文门西大街北侧",
+          "唐宫新侨店",
+          "北京新侨饭店；"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "崇文门西大街北侧",
+          "北京医院",
+          "北京同仁医院；"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "崇文门西大街南侧",
+          "国瑞购物中心",
+          "茗视光眼科近视中心",
+          "新世界百货"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "崇文门西大街南侧"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "崇文门内大街",
+          "正义路",
+          "东交民巷",
+          "北京同仁医院",
+          "北京医院",
+          "北京新侨饭店"
+        ]
+      },
+      {
+        "name": "F",
+        "desc": null,
+        "nearby": [
+          "北京站西街",
+          "东交民巷小学",
+          "北京汇文实验中学"
+        ]
+      },
+      {
+        "name": "G",
+        "desc": null,
+        "nearby": [
+          "崇文门东大街",
+          "西花市大街",
+          "崇文门派出所",
+          "国瑞购物中心",
+          "搜秀城",
+          "茗视光眼科近视中心"
+        ]
+      },
+      {
+        "name": "H",
+        "desc": null,
+        "nearby": [
+          "崇文门西大街",
+          "北京市第九十六中学",
+          "新世界百货"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212677,
+      "stationDeviceLocation": 150996279,
+      "stationCode": null,
+      "longitude": 116.417093,
+      "latitude": 39.901063,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "159",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/2号线-崇文门站-北京站方向-工作日.jpg",
+        "stationCode": "0209",
+        "lineCode": "02",
+        "stationNameCn": "崇文门"
+      },
+      {
+        "id": "545",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/2号线-崇文门站-北京站方向-双休日.jpg",
+        "stationCode": "0209",
+        "lineCode": "02",
+        "stationNameCn": "崇文门"
+      },
+      {
+        "id": "858",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/2号线-崇文门站-前门站方向-工作日.jpg",
+        "stationCode": "0209",
+        "lineCode": "02",
+        "stationNameCn": "崇文门"
+      },
+      {
+        "id": "1209",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/2号线-崇文门站-前门站方向-双休日.jpg",
+        "stationCode": "0209",
+        "lineCode": "02",
+        "stationNameCn": "崇文门"
+      },
+      {
+        "id": "173",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-崇文门站-宋家庄站方向-工作日.jpg",
+        "stationCode": "0555",
+        "lineCode": "05",
+        "stationNameCn": "崇文门"
+      },
+      {
+        "id": "252",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-崇文门站-宋家庄站方向-双休日.jpg",
+        "stationCode": "0555",
+        "lineCode": "05",
+        "stationNameCn": "崇文门"
+      },
+      {
+        "id": "1177",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-崇文门站-天通苑北站方向-工作日.jpg",
+        "stationCode": "0555",
+        "lineCode": "05",
+        "stationNameCn": "崇文门"
+      },
+      {
+        "id": "1227",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-崇文门站-天通苑北站方向-双休日.jpg",
+        "stationCode": "0555",
+        "lineCode": "05",
+        "stationNameCn": "崇文门"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": "https://dtdata.bjsubway.com/map25d/chongwenmen.png"
+}

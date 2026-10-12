@@ -1,0 +1,383 @@
+{
+  "lines": [
+    {
+      "lineCode": "12",
+      "lineColor": "C56B00",
+      "lineId": 12,
+      "lineName": "12号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:57",
+      "lastTime": "23:30",
+      "startStationName": "四季青桥",
+      "startStationDeviceLocation": 150998037,
+      "terminalStationName": "东坝北",
+      "terminalStationDeviceLocation": 150998075,
+      "sourceStationName": "四季青桥",
+      "sourceStationDeviceLocation": 150998037,
+      "destStationName": "东坝北",
+      "destStationDeviceLocation": 150998075,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998041,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "12",
+      "lineColor": "C56B00",
+      "lineId": 12,
+      "lineName": "12号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:43",
+      "lastTime": "23:16",
+      "startStationName": "东坝北",
+      "startStationDeviceLocation": 150998075,
+      "terminalStationName": "四季青桥",
+      "terminalStationDeviceLocation": 150998037,
+      "sourceStationName": "东坝北",
+      "sourceStationDeviceLocation": 150998075,
+      "destStationName": "四季青桥",
+      "destStationDeviceLocation": 150998037,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998041,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "4:33",
+      "lastTime": "22:27",
+      "startStationName": "车道沟",
+      "startStationDeviceLocation": 151018047,
+      "terminalStationName": "火器营",
+      "terminalStationDeviceLocation": 151018051,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151018049,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "4:33",
+      "lastTime": "0:11",
+      "startStationName": "车道沟",
+      "startStationDeviceLocation": 151018047,
+      "terminalStationName": "火器营",
+      "terminalStationDeviceLocation": 151018051,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151018049,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "4:33",
+      "lastTime": "22:51",
+      "startStationName": "车道沟",
+      "startStationDeviceLocation": 151018047,
+      "terminalStationName": "火器营",
+      "terminalStationDeviceLocation": 151018051,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "成寿寺",
+      "destStationDeviceLocation": 151018013,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151018049,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "4:53",
+      "lastTime": "22:38",
+      "startStationName": "火器营",
+      "startStationDeviceLocation": 151018051,
+      "terminalStationName": "车道沟",
+      "terminalStationDeviceLocation": 151018047,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151018049,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "4:53",
+      "lastTime": "0:24",
+      "startStationName": "火器营",
+      "startStationDeviceLocation": 151018051,
+      "terminalStationName": "车道沟",
+      "terminalStationDeviceLocation": 151018047,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151018049,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "长春桥",
+    "stationCode": null,
+    "stationDeviceLocation": 150998041,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "10号线：站台开往车道沟方向车尾（付费区）\n12号线：付费区开往四季青桥方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "10号线：站台开往车道沟方向车尾（付费区）\n12号线：付费区开往四季青桥方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "10号线：站台开往车道沟方向车尾（付费区）\n12号线：付费区开往四季青桥方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "10号线：A2口\n10号线：D2口\n12号线：C口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "10号线：A口（进、出站）D1口（出站）   D2口（进、出站）\n12号线：B口（进、出站）\n12号线：C口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "10号线：有\n12号线：有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "10号线：开往火器营方向，有站台到站厅\n10号线：开往车道沟方向，有站台到站厅\n12号线：开往东坝北方向有站台到站厅扶梯\n12号线：开往东坝北方向有站厅到站台扶梯\n12号线：开往四季青桥方向有站台到站厅扶梯\n12号线：开往四季青桥方向有站厅到站台扶梯",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "10号线：无\n12号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "10号线：无\n12号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "10号线：A口人工售票厅（仅呼叫）\n10号线：D口人工售票厅（仅呼叫）\n12号线：换乘通道内（可通话）\n12号线：站台无障碍卫生间（可通话）\n12号线：开往东坝北方向10门招援（可通话）\n12号线：开往东坝北方向31门招援（可通话）\n12号线：开往四季青桥方向11门招援（可通话）\n12号线：开往四季青桥方向32门招援（可通话）\n12号线：站厅西侧BOM室（可通话）                            12号线：站厅直梯招援（可通话）\n12号线：站台直梯招援（可通话）\n12号线：换乘直梯招援（可通话）                                              12号线： C口直梯站厅层招援（可通话）\n12号线： C口直梯地面层招援（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "10号线：站厅南侧，靠近D口人工售票厅（非付费区）\n12号线：站厅西侧，靠近综控室（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "10号线：A1口坡道；A2口坡道；D2口坡道\n12号线：B口、C口均设有行李坡道\n12号线：C口直梯口设有无障碍通道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "10号线：南厅（D口）\n10号线：  地面厅（A口）\n12号线：西厅（B口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "10号线：北厅（A口）\n12号线：西厅（B口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "蓝靛厂北路（西侧），世纪金源购物中心，居然之家金源店"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "远大路",
+          "世纪金源购物中心",
+          "西顶庙",
+          "蓝靛厂垂虹园"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "远大路",
+          "鲁园•上河村",
+          "远大园三区"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "蓝靛厂南路（西侧），远大路（南侧），国家行政学院"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212684,
+      "stationDeviceLocation": 150998041,
+      "stationCode": null,
+      "longitude": 116.292531,
+      "latitude": 39.958071,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "339",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-长春桥站-车道沟站方向-工作日.jpg",
+        "stationCode": "9065",
+        "lineCode": "10",
+        "stationNameCn": "长春桥"
+      },
+      {
+        "id": "470",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-长春桥站-车道沟站方向-双休日.jpg",
+        "stationCode": "9065",
+        "lineCode": "10",
+        "stationNameCn": "长春桥"
+      },
+      {
+        "id": "1393",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-长春桥站-火器营站方向-工作日.jpg",
+        "stationCode": "9065",
+        "lineCode": "10",
+        "stationNameCn": "长春桥"
+      },
+      {
+        "id": "2066",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-长春桥站-火器营站方向-双休日.jpg",
+        "stationCode": "9065",
+        "lineCode": "10",
+        "stationNameCn": "长春桥"
+      },
+      {
+        "id": "1479",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/12号线-长春桥站-四季青桥站方向-工作日.jpg",
+        "stationCode": "1225",
+        "lineCode": "12",
+        "stationNameCn": "长春桥"
+      },
+      {
+        "id": "1517",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/12号线-长春桥站-四季青桥站方向-双休日.jpg",
+        "stationCode": "1225",
+        "lineCode": "12",
+        "stationNameCn": "长春桥"
+      },
+      {
+        "id": "1483",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/12号线-长春桥站-东坝北站方向-工作日.jpg",
+        "stationCode": "1225",
+        "lineCode": "12",
+        "stationNameCn": "长春桥"
+      },
+      {
+        "id": "1522",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/12号线-长春桥站-东坝北站方向-双休日.jpg",
+        "stationCode": "1225",
+        "lineCode": "12",
+        "stationNameCn": "长春桥"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

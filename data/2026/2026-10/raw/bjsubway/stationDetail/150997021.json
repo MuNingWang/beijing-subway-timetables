@@ -1,0 +1,392 @@
+{
+  "lines": [
+    {
+      "lineCode": "08",
+      "lineColor": "009263",
+      "lineId": 8,
+      "lineName": "8号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:02",
+      "lastTime": "23:12",
+      "startStationName": "朱辛庄",
+      "startStationDeviceLocation": 150996997,
+      "terminalStationName": "瀛海",
+      "terminalStationDeviceLocation": 150997065,
+      "sourceStationName": "朱辛庄",
+      "sourceStationDeviceLocation": 150996997,
+      "destStationName": "瀛海",
+      "destStationDeviceLocation": 150997065,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997021,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "08",
+      "lineColor": "009263",
+      "lineId": 8,
+      "lineName": "8号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:40",
+      "lastTime": "23:55",
+      "startStationName": "瀛海",
+      "startStationDeviceLocation": 150997065,
+      "terminalStationName": "朱辛庄",
+      "terminalStationDeviceLocation": 150996997,
+      "sourceStationName": "瀛海",
+      "sourceStationDeviceLocation": 150997065,
+      "destStationName": "朱辛庄",
+      "destStationDeviceLocation": 150996997,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997021,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "4:54",
+      "lastTime": "21:03",
+      "startStationName": "健德门",
+      "startStationDeviceLocation": 150997519,
+      "terminalStationName": "安贞门",
+      "terminalStationDeviceLocation": 150997523,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997521,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "4:54",
+      "lastTime": "23:11",
+      "startStationName": "健德门",
+      "startStationDeviceLocation": 150997519,
+      "terminalStationName": "安贞门",
+      "terminalStationDeviceLocation": 150997523,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "成寿寺",
+      "destStationDeviceLocation": 151018013,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997521,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "4:54",
+      "lastTime": "22:47",
+      "startStationName": "健德门",
+      "startStationDeviceLocation": 150997519,
+      "terminalStationName": "安贞门",
+      "terminalStationDeviceLocation": 150997523,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997521,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "6:04",
+      "lastTime": "22:17",
+      "startStationName": "安贞门",
+      "startStationDeviceLocation": 150997523,
+      "terminalStationName": "健德门",
+      "terminalStationDeviceLocation": 150997519,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997521,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "6:04",
+      "lastTime": "0:02",
+      "startStationName": "安贞门",
+      "startStationDeviceLocation": 150997523,
+      "terminalStationName": "健德门",
+      "terminalStationDeviceLocation": 150997519,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997521,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "北土城",
+    "stationCode": null,
+    "stationDeviceLocation": 150997021,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "8号线：站台开往瀛海方向车尾\n10号线：站台开往健德门方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "8号线：站台开往朱辛庄方向车头\n10号线：站台开往健德门方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "8号线：站台开往朱辛庄方向车头\n10号线：站台开往健德门方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "8号线：A口、C口\n10号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "A口（进、出站）           B口（进、出站）           C口（进、出站）            F口（出站）\n10号线：D口（出站）                  10号线：E口（出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "8号线：有\n10号线：有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "8号线：开往朱辛庄方向，有站厅到站台，有站台到站厅\n8号线：开往瀛海方向，有站厅到站台，有站台到站厅\n10号线：开往健德门方向，有站厅到站台\n10号线：开往健德门方向，有站台到站厅\n10号线：开往安贞门方向，有站厅到站台\n10号线：开往安贞门方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "8号线：无\n10号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "8号线：无\n10号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "8号线：无障碍卫生间内（仅呼叫）\n10号线：无障碍卫生间内（仅呼叫）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "8号线：站厅北侧\n10号线：站厅西侧，靠近综控室（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "8号线：A口坡道\n8号线： C口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "8号线：北厅（A口）\n10号线：西厅（E口）\n10号线：东厅（D口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "8号线：8号线北办公区\n10号线：东厅（D口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "北辰路（西侧）  中华民族园     宝石花健康管理中心"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "北辰路（东侧）   梵客家装体验馆"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "北土城东路（北侧）"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "北土城东路（南侧）  元大都城垣遗址公园   安贞西里"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "北土城西路（南侧） 元大都城垣遗址公园   裕民东里"
+        ]
+      },
+      {
+        "name": "F",
+        "desc": null,
+        "nearby": [
+          "北土城西路（北侧）中华民族园     宝石花健康管理中心"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212680,
+      "stationDeviceLocation": 150997021,
+      "stationCode": null,
+      "longitude": 116.394193,
+      "latitude": 39.976953,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "89",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/8号线-北土城站-瀛海站方向-工作日.jpg",
+        "stationCode": "0829",
+        "lineCode": "08",
+        "stationNameCn": "北土城"
+      },
+      {
+        "id": "317",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/8号线-北土城站-瀛海站方向-双休日.jpg",
+        "stationCode": "0829",
+        "lineCode": "08",
+        "stationNameCn": "北土城"
+      },
+      {
+        "id": "798",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/8号线-北土城站-朱辛庄站方向-工作日.jpg",
+        "stationCode": "0829",
+        "lineCode": "08",
+        "stationNameCn": "北土城"
+      },
+      {
+        "id": "1401",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/8号线-北土城站-朱辛庄站方向-双休日.jpg",
+        "stationCode": "0829",
+        "lineCode": "08",
+        "stationNameCn": "北土城"
+      },
+      {
+        "id": "1587",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-北土城站-安贞门站方向-工作日.jpg",
+        "stationCode": "1017",
+        "lineCode": "10",
+        "stationNameCn": "北土城"
+      },
+      {
+        "id": "2031",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-北土城站-安贞门站方向-双休日.jpg",
+        "stationCode": "1017",
+        "lineCode": "10",
+        "stationNameCn": "北土城"
+      },
+      {
+        "id": "1588",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-北土城站-健德门站方向-工作日.jpg",
+        "stationCode": "1017",
+        "lineCode": "10",
+        "stationNameCn": "北土城"
+      },
+      {
+        "id": "256",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-北土城站-健德门站方向-双休日.jpg",
+        "stationCode": "1017",
+        "lineCode": "10",
+        "stationNameCn": "北土城"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "lineCode": "98",
+      "lineColor": "A09AB8",
+      "lineId": 98,
+      "lineName": "首都机场线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "6:22",
+      "lastTime": "22:52",
+      "startStationName": "北新桥",
+      "startStationDeviceLocation": 151020051,
+      "terminalStationName": "2号航站楼",
+      "terminalStationDeviceLocation": 151020057,
+      "sourceStationName": "北新桥",
+      "sourceStationDeviceLocation": 151020051,
+      "destStationName": "2号航站楼",
+      "destStationDeviceLocation": 151020057,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151020059,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "98",
+      "lineColor": "A09AB8",
+      "lineId": 98,
+      "lineName": "首都机场线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "6:22",
+      "lastTime": "22:52",
+      "startStationName": "2号航站楼",
+      "startStationDeviceLocation": 151020057,
+      "terminalStationName": "北新桥",
+      "terminalStationDeviceLocation": 151020051,
+      "sourceStationName": "2号航站楼",
+      "sourceStationDeviceLocation": 151020057,
+      "destStationName": "北新桥",
+      "destStationDeviceLocation": 151020051,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151020059,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "3号航站楼",
+    "stationCode": null,
+    "stationDeviceLocation": 151020059,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "站台（下人侧），靠近出站闸机\n站厅（上人侧），靠近自助售票机\n站台（上人侧），靠近进站闸机\n站台（上人侧），靠近AED\n站台（上人侧），候车大厅内（前厅）\n站台（上人侧），候车大厅内（后厅）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站台东侧，靠近进站闸机（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "上人侧站厅，靠近机场西侧直梯",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "下人侧站台靠近出站闸机",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212770,
+      "stationDeviceLocation": 151020059,
+      "stationCode": null,
+      "longitude": 116.615579,
+      "latitude": 40.052544,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "2078",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/首都机场线-3号航站楼站-北新桥方向.jpg",
+        "stationCode": "9827",
+        "lineCode": "98",
+        "stationNameCn": "3号航站楼"
+      },
+      {
+        "id": "2017",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/首都机场线-3号航站楼站-北新桥方向-周五.jpg",
+        "stationCode": "9827",
+        "lineCode": "98",
+        "stationNameCn": "3号航站楼"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

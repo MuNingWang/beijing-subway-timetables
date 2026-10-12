@@ -1,0 +1,310 @@
+{
+  "lines": [
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:09",
+      "lastTime": "21:18",
+      "startStationName": "三元桥",
+      "startStationDeviceLocation": 150997531,
+      "terminalStationName": "农业展览馆",
+      "terminalStationDeviceLocation": 150997535,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997533,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:09",
+      "lastTime": "23:02",
+      "startStationName": "三元桥",
+      "startStationDeviceLocation": 150997531,
+      "terminalStationName": "农业展览馆",
+      "terminalStationDeviceLocation": 150997535,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997533,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:09",
+      "lastTime": "23:26",
+      "startStationName": "三元桥",
+      "startStationDeviceLocation": 150997531,
+      "terminalStationName": "农业展览馆",
+      "terminalStationDeviceLocation": 150997535,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "成寿寺",
+      "destStationDeviceLocation": 151018013,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997533,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:49",
+      "lastTime": "22:03",
+      "startStationName": "农业展览馆",
+      "startStationDeviceLocation": 150997535,
+      "terminalStationName": "三元桥",
+      "terminalStationDeviceLocation": 150997531,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997533,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:49",
+      "lastTime": "23:48",
+      "startStationName": "农业展览馆",
+      "startStationDeviceLocation": 150997535,
+      "terminalStationName": "三元桥",
+      "terminalStationDeviceLocation": 150997531,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997533,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "亮马桥",
+    "stationCode": null,
+    "stationDeviceLocation": 150997533,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "开往农业展览馆方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "开往农业展览馆方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "开往农业展览馆方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "B口(东北侧桥边）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "A口（出站）\nB口（出站）\nC口（出站）\nD口（出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往三元桥方向，有站台到站厅\n开往三元桥方向，无站厅到站台\n开往农业展览馆方向，有站厅到站台\n开往农业展览馆方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "站厅北厅，靠近A、B口出站闸机（可通话）\n站厅南厅，靠近C、D口出站闸机（可通话）\nA、B口人工售票厅（可通话）\nC、D口人工售票厅（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站台开往农业展览馆方向第14门",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "B口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "北厅（A口、B口）\n南厅（C口、D口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "南厅（C口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "东三环北路",
+          "北京发展大厦",
+          "平安国际金融中心",
+          "东审会计师事务所"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "亮马桥路",
+          "慈铭体检亮马桥分院"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "东三环北路",
+          "亮马河燕莎码头"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "东三环北路",
+          "亮马河燕莎桥滨水通道"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212682,
+      "stationDeviceLocation": 150997533,
+      "stationCode": null,
+      "longitude": 116.461794,
+      "latitude": 39.949415,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1603",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-亮马桥站-农业展览馆站方向-工作日.jpg",
+        "stationCode": "1029",
+        "lineCode": "10",
+        "stationNameCn": "亮马桥"
+      },
+      {
+        "id": "2051",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-亮马桥站-农业展览馆站方向-双休日.jpg",
+        "stationCode": "1029",
+        "lineCode": "10",
+        "stationNameCn": "亮马桥"
+      },
+      {
+        "id": "737",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-亮马桥站-三元桥站方向-工作日.jpg",
+        "stationCode": "1029",
+        "lineCode": "10",
+        "stationNameCn": "亮马桥"
+      },
+      {
+        "id": "523",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-亮马桥站-三元桥站方向-双休日.jpg",
+        "stationCode": "1029",
+        "lineCode": "10",
+        "stationNameCn": "亮马桥"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

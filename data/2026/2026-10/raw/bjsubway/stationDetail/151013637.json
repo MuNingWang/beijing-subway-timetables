@@ -1,0 +1,331 @@
+{
+  "lines": [
+    {
+      "lineCode": "73",
+      "lineColor": "665794",
+      "lineId": 73,
+      "lineName": "18号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:35",
+      "lastTime": "22:45",
+      "startStationName": "天通苑东",
+      "startStationDeviceLocation": 151013633,
+      "terminalStationName": "马连洼",
+      "terminalStationDeviceLocation": 151013653,
+      "sourceStationName": "天通苑东",
+      "sourceStationDeviceLocation": 151013633,
+      "destStationName": "马连洼",
+      "destStationDeviceLocation": 151013653,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151013637,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "73",
+      "lineColor": "665794",
+      "lineId": 73,
+      "lineName": "18号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:16",
+      "lastTime": "23:16",
+      "startStationName": "马连洼",
+      "startStationDeviceLocation": 151013653,
+      "terminalStationName": "天通苑东",
+      "terminalStationDeviceLocation": 151013633,
+      "sourceStationName": "马连洼",
+      "sourceStationDeviceLocation": 151013653,
+      "destStationName": "天通苑东",
+      "destStationDeviceLocation": 151013633,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151013637,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "73",
+      "lineColor": "665794",
+      "lineId": 73,
+      "lineName": "18号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:16",
+      "lastTime": null,
+      "startStationName": "马连洼",
+      "startStationDeviceLocation": 151013653,
+      "terminalStationName": "霍营东",
+      "terminalStationDeviceLocation": 151013639,
+      "sourceStationName": "马连洼",
+      "sourceStationDeviceLocation": 151013653,
+      "destStationName": "霍营东",
+      "destStationDeviceLocation": 151013639,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151013637,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "05",
+      "lineColor": "A5237A",
+      "lineId": 5,
+      "lineName": "5号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:01",
+      "lastTime": "22:49",
+      "startStationName": "天通苑北",
+      "startStationDeviceLocation": 150996245,
+      "terminalStationName": "宋家庄",
+      "terminalStationDeviceLocation": 150996289,
+      "sourceStationName": "天通苑北",
+      "sourceStationDeviceLocation": 150996245,
+      "destStationName": "宋家庄",
+      "destStationDeviceLocation": 150996289,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996247,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "05",
+      "lineColor": "A5237A",
+      "lineId": 5,
+      "lineName": "5号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "6:08",
+      "lastTime": "23:59",
+      "startStationName": "宋家庄",
+      "startStationDeviceLocation": 150996289,
+      "terminalStationName": "天通苑北",
+      "terminalStationDeviceLocation": 150996245,
+      "sourceStationName": "宋家庄",
+      "sourceStationDeviceLocation": 150996289,
+      "destStationName": "天通苑北",
+      "destStationDeviceLocation": 150996245,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996247,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "天通苑",
+    "stationCode": null,
+    "stationDeviceLocation": 151013637,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "（5号线)站厅中部\n（18号线）开往天通苑东方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "（5号线)站厅中部\n（18号线）开往天通苑东方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "（5号线)站厅中部\n（18号线）开往天通苑东方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)B口\n（18号线）C口\n（18号线）E2口\n（18号线）D口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "（18号线）D口（进、出站）\n（18号线）E1口（进、出站）\n（18号线）E2（进、出站）\n（18号线）C口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)开往宋家庄方向，有\n（5号线)开往天通苑北方向，有\n（18号线）厅台西端开往马连洼方向2门\n（18号线）换乘直梯（换乘通道西）\n（18号线）换乘直梯（换乘通道东）\n（18号线）C口直梯（C出入口）                                                         （18号线）D口直梯（D出入口）\n（18号线）E2口直梯（E2出入口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)开往天通苑北方向，无站厅到站台\n（5号线)开往天通苑北方向，有站台到站厅\n（5号线)开往宋家庄方向，有站厅到站台\n（5号线)开往宋家庄方向，无站台到站厅\n（18号线）开往马连洼方向，有站厅到站台\n（18号线）开往马连洼方向，有站台到站厅\n（18号线）开往天通苑东方向，有站厅到站台\n（18号线）开往天通苑东方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "（18号线）无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "（18号线）无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "（5号线)直梯处\n（18号线）家庭卫生间（可通话）\n（18号线）E2口电扶梯下（可通话）\n（18号线）D口地下垂梯口（可通话）\n（18号线）D口地面垂梯口（可通话）\n（18号线）D口电扶梯下（可通话）\n（18号线）D口出站闸机内（可通话）\n（18号线）站厅直梯口（可通话）\n（18号线）E口出站闸机内（可通话）\n（18号线）E1口电扶梯下（可通话）\n（18号线）票亭售票窗口（可通话）\n（18号线）票亭补票窗口（可通话）\n（18号线）站台直梯口（可通话）\n（18号线）C口地下垂梯口（可通话）\n（18号线）C口地面直梯口（可通话）\n（18号线）C口换乘通道直梯下（可通话）\n（18号线）C口换乘通道直梯上（可通话）\n（18号线）换乘厅票亭售票窗口（可通话）\n（18号线）换乘厅票亭补票窗口（可通话）\n（18号线）E2口步梯（可通话）\n（18号线）E2口地面直梯口（可通话）\n（18号线）E2口地下直梯口（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "（5号线)站厅中部，靠近A口（付费区）\n（18号线）站厅中部，靠近垃圾桶（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "（5号线)A口坡道\n（5号线)B口直梯坡道\n（18号线）C口坡道\n（18号线）D口坡道\n（18号线）E2口直梯坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "（5号线)北厅（A口）南厅（B口）\n（18号线）北厅（C口）（18号线）站厅中部（D口，E口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "（5号线)南厅（B口）\n（18号线）东厅（D口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "立汤路",
+          "太平庄北街",
+          "天通西苑三区"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "立汤路",
+          "太平庄中二街",
+          "天通西苑二区"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "立汤路（东侧）"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "太平庄中二街",
+          "北京清华长庚医院"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "立汤路",
+          "太平庄中二街"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212745,
+      "stationDeviceLocation": 151013637,
+      "stationCode": null,
+      "longitude": 116.412759,
+      "latitude": 40.075222,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "127",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-天通苑站-宋家庄站方向-工作日.jpg",
+        "stationCode": "0523",
+        "lineCode": "05",
+        "stationNameCn": "天通苑"
+      },
+      {
+        "id": "450",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-天通苑站-宋家庄站方向-双休日.jpg",
+        "stationCode": "0523",
+        "lineCode": "05",
+        "stationNameCn": "天通苑"
+      },
+      {
+        "id": "1200",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-天通苑站-天通苑北站方向-工作日.jpg",
+        "stationCode": "0523",
+        "lineCode": "05",
+        "stationNameCn": "天通苑"
+      },
+      {
+        "id": "1249",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-天通苑站-天通苑北站方向-双休日.jpg",
+        "stationCode": "0523",
+        "lineCode": "05",
+        "stationNameCn": "天通苑"
+      },
+      {
+        "id": "1854",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/18号线-天通苑站-马连洼站方向.jpg",
+        "stationCode": "7305",
+        "lineCode": "73",
+        "stationNameCn": "天通苑"
+      },
+      {
+        "id": "1855",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/18号线-天通苑站-天通苑东站方向.jpg",
+        "stationCode": "7305",
+        "lineCode": "73",
+        "stationNameCn": "天通苑"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

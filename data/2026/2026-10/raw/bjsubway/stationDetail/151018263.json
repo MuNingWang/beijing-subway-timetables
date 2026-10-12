@@ -1,0 +1,223 @@
+{
+  "lines": [
+    {
+      "lineCode": "91",
+      "lineColor": "B0561F",
+      "lineId": 91,
+      "lineName": "S1线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:26",
+      "lastTime": "23:08",
+      "startStationName": "石厂",
+      "startStationDeviceLocation": 151018261,
+      "terminalStationName": "苹果园",
+      "terminalStationDeviceLocation": 151018275,
+      "sourceStationName": "石厂",
+      "sourceStationDeviceLocation": 151018261,
+      "destStationName": "苹果园",
+      "destStationDeviceLocation": 151018275,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151018263,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "91",
+      "lineColor": "B0561F",
+      "lineId": 91,
+      "lineName": "S1线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "6:08",
+      "lastTime": "23:49",
+      "startStationName": "苹果园",
+      "startStationDeviceLocation": 151018275,
+      "terminalStationName": "石厂",
+      "terminalStationDeviceLocation": 151018261,
+      "sourceStationName": "苹果园",
+      "sourceStationDeviceLocation": 151018275,
+      "destStationName": "石厂",
+      "destStationDeviceLocation": 151018261,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151018263,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "小园",
+    "stationCode": null,
+    "stationDeviceLocation": 151018263,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "站厅西厅，靠近B口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "站厅西厅，靠近B口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "站厅西厅，靠近B口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "A口\nB口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "A2口（进、出站）\nB2口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "厅台东端开往苹果园方向车头\n厅台东端开往石厂方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往苹果园方向，有站厅到站台\n开往苹果园方向，有站台到站厅\n开往石厂方向，有站厅到站台\n开往石厂方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "站台两端（可通话）\nA、B口人工售票厅（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站厅中部，靠近B口安检（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "A1口直梯、坡道\nB1口直梯、坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "站厅（A口/B口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "西厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "龙林路（东侧）",
+          "紫金路（北侧）"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "龙林路（东侧）",
+          "紫金路（南侧）"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212763,
+      "stationDeviceLocation": 151018263,
+      "stationCode": null,
+      "longitude": 116.114443,
+      "latitude": 39.890465,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "325",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/S1线-小园站-苹果园站方向-工作日.jpg",
+        "stationCode": "9123",
+        "lineCode": "91",
+        "stationNameCn": "小园"
+      },
+      {
+        "id": "466",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/S1线-小园站-苹果园站方向-双休日.jpg",
+        "stationCode": "9123",
+        "lineCode": "91",
+        "stationNameCn": "小园"
+      },
+      {
+        "id": "1678",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/S1线-小园站-石厂站方向-工作日.jpg",
+        "stationCode": "9123",
+        "lineCode": "91",
+        "stationNameCn": "小园"
+      },
+      {
+        "id": "1673",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/S1线-小园站-石厂站方向-双休日.jpg",
+        "stationCode": "9123",
+        "lineCode": "91",
+        "stationNameCn": "小园"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

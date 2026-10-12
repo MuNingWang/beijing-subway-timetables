@@ -1,0 +1,372 @@
+{
+  "lines": [
+    {
+      "lineCode": "09",
+      "lineColor": "96BE0B",
+      "lineId": 9,
+      "lineName": "9号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:38",
+      "lastTime": "23:18",
+      "startStationName": "国家图书馆",
+      "startStationDeviceLocation": 150997269,
+      "terminalStationName": "郭公庄",
+      "terminalStationDeviceLocation": 150997293,
+      "sourceStationName": "国家图书馆",
+      "sourceStationDeviceLocation": 150997269,
+      "destStationName": "郭公庄",
+      "destStationDeviceLocation": 150997293,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997269,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "09",
+      "lineColor": "96BE0B",
+      "lineId": 9,
+      "lineName": "9号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": null,
+      "lastTime": null,
+      "startStationName": "郭公庄",
+      "startStationDeviceLocation": 150997293,
+      "terminalStationName": "国家图书馆",
+      "terminalStationDeviceLocation": 150997269,
+      "sourceStationName": "郭公庄",
+      "sourceStationDeviceLocation": 150997293,
+      "destStationName": "国家图书馆",
+      "destStationDeviceLocation": 150997269,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997269,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "04",
+      "lineColor": "008994",
+      "lineId": 4,
+      "lineName": "4号线大兴线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:17",
+      "lastTime": "22:54",
+      "startStationName": "安河桥北",
+      "startStationDeviceLocation": 150995989,
+      "terminalStationName": "天宫院",
+      "terminalStationDeviceLocation": 151018793,
+      "sourceStationName": "安河桥北",
+      "sourceStationDeviceLocation": 150995989,
+      "destStationName": "天宫院",
+      "destStationDeviceLocation": 151018793,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996007,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "04",
+      "lineColor": "008994",
+      "lineId": 4,
+      "lineName": "4号线大兴线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:17",
+      "lastTime": "23:07",
+      "startStationName": "安河桥北",
+      "startStationDeviceLocation": 150995989,
+      "terminalStationName": "公益西桥",
+      "terminalStationDeviceLocation": 150996035,
+      "sourceStationName": "安河桥北",
+      "sourceStationDeviceLocation": 150995989,
+      "destStationName": "公益西桥",
+      "destStationDeviceLocation": 150996035,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150996007,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "04",
+      "lineColor": "008994",
+      "lineId": 4,
+      "lineName": "4号线大兴线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:35",
+      "lastTime": "23:49",
+      "startStationName": "天宫院",
+      "startStationDeviceLocation": 151018793,
+      "terminalStationName": "安河桥北",
+      "terminalStationDeviceLocation": 150995989,
+      "sourceStationName": "天宫院",
+      "sourceStationDeviceLocation": 151018793,
+      "destStationName": "安河桥北",
+      "destStationDeviceLocation": 150995989,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996007,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "16",
+      "lineColor": "7C9E21",
+      "lineId": 16,
+      "lineName": "16号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:56",
+      "lastTime": "23:17",
+      "startStationName": "北安河",
+      "startStationDeviceLocation": 150999061,
+      "terminalStationName": "宛平城",
+      "terminalStationDeviceLocation": 150999119,
+      "sourceStationName": "北安河",
+      "sourceStationDeviceLocation": 150999061,
+      "destStationName": "宛平城",
+      "destStationDeviceLocation": 150999119,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150999089,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "16",
+      "lineColor": "7C9E21",
+      "lineId": 16,
+      "lineName": "16号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:40",
+      "lastTime": "23:19",
+      "startStationName": "宛平城",
+      "startStationDeviceLocation": 150999119,
+      "terminalStationName": "北安河",
+      "terminalStationDeviceLocation": 150999061,
+      "sourceStationName": "宛平城",
+      "sourceStationDeviceLocation": 150999119,
+      "destStationName": "北安河",
+      "destStationDeviceLocation": 150999061,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150999089,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "国家图书馆",
+    "stationCode": null,
+    "stationDeviceLocation": 150997269,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "开往天宫院方向车头\n开往安河桥北方向车头\n9号线：无\n开往北安河方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "开往天宫院方向车头\n开往安河桥北方向车头\n9号线：无\n开往北安河方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "9号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "D口\n9号线：无\nF口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "A口（出站）\nB口（出站）\nC口（出站）\nD口（出站）\n9号线：无\nE口（进、出站）\nF口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "开往天宫院方向，有\n开往安河桥北方向，有\n9号线：无\n有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往安河桥北方向，有站台到站厅\n开往安河桥北方向，无站厅到站台\n开往天宫院方向，有站厅到站台（05：17-10：00,17：00-23：49）\n开往天宫院方向，有站台到站厅\n9号线：无\n开往北安河方向，有站厅到站台\n开往北安河方向，有站台到站厅\n开往宛平城方向，有站厅到站台\n开往宛平城方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "9号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "9号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "A口（可通话）\n站台两端（可通话）\n站厅北侧墙壁，靠近综控室（可通话）\n无障碍卫生间招援(仅呼叫)\n9号线：无\n站厅西侧墙壁，靠近综控室（可通话）\n站厅东侧，靠近便利店（可通话）\n无障碍卫生间招援（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站台开往天宫院方向第12门\n9号线：无\n站台开往北安河方向第15门",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "D口坡道\n9号线：无\nF口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "北厅（A口、B口）\n南厅（C口、D口）\n9号线：无\n东厅（E口）\n西厅（F口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "北厅（B口）\n9号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "中关村南大街西侧",
+          "国家图书馆",
+          "国图艺术中心",
+          "北京市园林古建设设计研究院",
+          "北京舞蹈学院",
+          "神舟大厦",
+          "中国空间技术研究院"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "中关村南大街东侧",
+          "中国气象局医院",
+          "中外交流大厦",
+          "九龙商务中心",
+          "中国气象局幼儿园",
+          "中国气象局",
+          "湖北大厦"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "中关村南大街东侧",
+          "首都体育馆",
+          "国家体育总局冬季运动管理中心",
+          "北京市公园管理中心",
+          "北京石刻艺术博物馆"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "中关村南大街西侧",
+          "国家图书馆（国家典籍博物馆）",
+          "紫竹院公园"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "中关村南大街西侧",
+          "国家图书馆（国家典籍博物馆）",
+          "紫竹院公园"
+        ]
+      },
+      {
+        "name": "F",
+        "desc": null,
+        "nearby": [
+          "中关村南大街西侧",
+          "国家图书馆",
+          "紫竹院公园"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212681,
+      "stationDeviceLocation": 150997269,
+      "stationCode": null,
+      "longitude": 116.32519,
+      "latitude": 39.943114,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1277",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/9号线-国家图书馆站-郭公庄站方向-双休日.jpg",
+        "stationCode": "0921",
+        "lineCode": "09",
+        "stationNameCn": "国家图书馆"
+      },
+      {
+        "id": "415",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/9号线-国家图书馆站-郭公庄站、阎村东站方向-工作日.jpg",
+        "stationCode": "0921",
+        "lineCode": "09",
+        "stationNameCn": "国家图书馆"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

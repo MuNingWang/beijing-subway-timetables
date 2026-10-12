@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-10-11T18:27:55+0800",
+  "counts": {
+    "lines": 32,
+    "stations": 423,
+    "timetable_records": 3250,
+    "trains": 0,
+    "community_station_records": 0,
+    "bjsubway_images": 1440,
+    "ocr_parsed": 0
+  },
+  "operators": {
+    "bjsubway": "北京市地铁运营有限公司",
+    "mtr": "北京京港地铁有限公司",
+    "bjmoa": "北京市轨道交通运营管理有限公司",
+    "community": "Beijing-Subway-Tools（社区，MIT）"
+  },
+  "mode": "rebuild",
+  "elapsed_sec": 0.4,
+  "outputs": {
+    "raw": "data/2026/2026-10/raw/",
+    "processed": "data/2026/2026-10/processed/"
+  },
+  "source_files_last_write_window": {
+    "from": "2026-10-11T16:00:29+08:00",
+    "to": "2026-10-11T17:02:16+08:00"
+  },
+  "ocr_cache_records": 1440,
+  "notes": [
+    "Index mode is rebuild. Its ocr_parsed count is 0, while the saved OCR result cache contains 1,440 records; the monthly archive transcriptions are generated from that cache."
+  ]
+}

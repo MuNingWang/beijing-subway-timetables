@@ -1,0 +1,362 @@
+{
+  "lines": [
+    {
+      "lineCode": "15",
+      "lineColor": "6B3777",
+      "lineId": 15,
+      "lineName": "15号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:31",
+      "lastTime": "23:16",
+      "startStationName": "清华东路西口",
+      "startStationDeviceLocation": 150998809,
+      "terminalStationName": "俸伯",
+      "terminalStationDeviceLocation": 150998847,
+      "sourceStationName": "清华东路西口",
+      "sourceStationDeviceLocation": 150998809,
+      "destStationName": "俸伯",
+      "destStationDeviceLocation": 150998847,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998811,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "15",
+      "lineColor": "6B3777",
+      "lineId": 15,
+      "lineName": "15号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:23",
+      "lastTime": "23:07",
+      "startStationName": "俸伯",
+      "startStationDeviceLocation": 150998847,
+      "terminalStationName": "清华东路西口",
+      "terminalStationDeviceLocation": 150998809,
+      "sourceStationName": "俸伯",
+      "sourceStationDeviceLocation": 150998847,
+      "destStationName": "清华东路西口",
+      "destStationDeviceLocation": 150998809,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998811,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "15",
+      "lineColor": "6B3777",
+      "lineId": 15,
+      "lineName": "15号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:23",
+      "lastTime": null,
+      "startStationName": "俸伯",
+      "startStationDeviceLocation": 150998847,
+      "terminalStationName": "马泉营",
+      "terminalStationDeviceLocation": 150998831,
+      "sourceStationName": "俸伯",
+      "sourceStationDeviceLocation": 150998847,
+      "destStationName": "马泉营",
+      "destStationDeviceLocation": 150998831,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150998811,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "94",
+      "lineColor": "DD83B0",
+      "lineId": 94,
+      "lineName": "昌平线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:28",
+      "lastTime": "23:44",
+      "startStationName": "昌平西山口",
+      "startStationDeviceLocation": 151019027,
+      "terminalStationName": "蓟门桥",
+      "terminalStationDeviceLocation": 151019065,
+      "sourceStationName": "昌平西山口",
+      "sourceStationDeviceLocation": 151019027,
+      "destStationName": "蓟门桥",
+      "destStationDeviceLocation": 151019065,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019059,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "94",
+      "lineColor": "DD83B0",
+      "lineId": 94,
+      "lineName": "昌平线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:28",
+      "lastTime": null,
+      "startStationName": "昌平西山口",
+      "startStationDeviceLocation": 151019027,
+      "terminalStationName": "朱辛庄",
+      "terminalStationDeviceLocation": 151019045,
+      "sourceStationName": "昌平西山口",
+      "sourceStationDeviceLocation": 151019027,
+      "destStationName": "朱辛庄",
+      "destStationDeviceLocation": 151019045,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151019059,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "94",
+      "lineColor": "DD83B0",
+      "lineId": 94,
+      "lineName": "昌平线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:27",
+      "lastTime": "23:27",
+      "startStationName": "蓟门桥",
+      "startStationDeviceLocation": 151019065,
+      "terminalStationName": "昌平西山口",
+      "terminalStationDeviceLocation": 151019027,
+      "sourceStationName": "蓟门桥",
+      "sourceStationDeviceLocation": 151019065,
+      "destStationName": "昌平西山口",
+      "destStationDeviceLocation": 151019027,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019059,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "六道口",
+    "stationCode": null,
+    "stationDeviceLocation": 150998811,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "15号线：站台开往俸伯方向车头\n昌平线：站台开往蓟门桥方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "15号线：站台开往俸伯方向车头\n昌平线：站台开往蓟门桥方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "15号线：站台开往俸伯方向车头\n昌平线：站台开往蓟门桥方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "15号线：C口\n15号线： D口\n昌平线：E口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "15号线：A1口 （进、出站）\n15号线： A2口 （无扶梯）                       15号线：B口（进、出站）                             15号线：C口（进、出站）                                       15号线：D口（进、出站）\n昌平线：E口（进、出站）\n昌平线： F口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "15号线：有\n昌平线：站台中部开往蓟门桥方向11门，有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "15号线：开往俸伯方向，有站厅到站台；\n15号线：开往俸伯方向，有站台到站厅；\n15号线：开往清华东路西口方向，有站台到站厅；\n15号线：开往清华东路西口方向，有站厅到站台\n昌平线：开往蓟门桥方向，有站厅到站台；\n昌平线：开往蓟门桥方向，有站台到站厅；\n昌平线：开往昌平西山口方向，有站台到站厅；\n昌平线：开往昌平西山口方向，有站厅到站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "15号线：无\n昌平线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "15号线：无\n昌平线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "15号线：东厅进出站闸机旁立柱（可通话）\n15号线：西厅进出站闸机旁立柱（可通话）                                                                        15号线：东站厅TVM旁立柱（可通话）\n15号线： 西站厅TVM旁立柱（可通话）\n15号线：站台两端侧墙（可通话）\n昌平线：E口通道侧墙（可通话）\n昌平线：F口通道侧墙（可通话）\n昌平线：站厅进出站闸机旁立柱（可通话）\n昌平线： 站台两端侧墙（可通话）\n昌平线：东西换乘通道上下端侧墙（可通话）\n昌平线：站厅TVM旁立柱（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "15号线：站厅东厅，靠近综控室（非付费区）\n昌平线：站厅南端，靠近综控室（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "15号线：C口坡道\n15号线：D口坡道\n昌平线：E口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "15号线：东厅站厅中部（BC口）\n15号线：西厅站厅中部（AD口）\n昌平线：站厅 南厅（E口）\n昌平线：站厅 北厅（D口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "15号线：站厅东厅（BC口）\n昌平线：站厅南厅（F口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A1/A2",
+        "desc": null,
+        "nearby": [
+          "清华东路"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "学清路",
+          "中国农业大学",
+          "BOM嘻番里"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "清华东路",
+          "学院路",
+          "富润家园",
+          "石油大院"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "清华东路",
+          "学院路",
+          "中国矿业大学"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212687,
+      "stationDeviceLocation": 150998811,
+      "stationCode": null,
+      "longitude": 116.35267,
+      "latitude": 40.000958,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1325",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/15号线-六道口站-清华东路西口站方向-工作日.jpg",
+        "stationCode": "1527",
+        "lineCode": "15",
+        "stationNameCn": "六道口"
+      },
+      {
+        "id": "1330",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/15号线-六道口站-清华东路西口站方向-双休日.jpg",
+        "stationCode": "1527",
+        "lineCode": "15",
+        "stationNameCn": "六道口"
+      },
+      {
+        "id": "1326",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/15号线-六道口站-俸伯站方向-工作日.jpg",
+        "stationCode": "1527",
+        "lineCode": "15",
+        "stationNameCn": "六道口"
+      },
+      {
+        "id": "85",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/15号线-六道口站-俸伯站方向-双休日.jpg",
+        "stationCode": "1527",
+        "lineCode": "15",
+        "stationNameCn": "六道口"
+      },
+      {
+        "id": "1538",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-六道口站-蓟门桥站方向-工作日.jpg",
+        "stationCode": "9451",
+        "lineCode": "94",
+        "stationNameCn": "六道口"
+      },
+      {
+        "id": "1536",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-六道口站-蓟门桥站方向-双休日.jpg",
+        "stationCode": "9451",
+        "lineCode": "94",
+        "stationNameCn": "六道口"
+      },
+      {
+        "id": "1377",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-六道口站-昌平西山口站方向-工作日.jpg",
+        "stationCode": "9451",
+        "lineCode": "94",
+        "stationNameCn": "六道口"
+      },
+      {
+        "id": "892",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-六道口站-昌平西山口站方向-双休日.jpg",
+        "stationCode": "9451",
+        "lineCode": "94",
+        "stationNameCn": "六道口"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

@@ -1,0 +1,9 @@
+# Preserve byte-for-byte official source snapshots.
+data/**/raw/** -text
+# Normalize derived text for stable diffs.
+data/**/processed/** text eol=lf
+*.md text eol=lf
+# Preserve hashed analysis artifacts byte-for-byte, including generated text.
+data/**/analysis/** -text
+*.jpg binary
+*.png binary

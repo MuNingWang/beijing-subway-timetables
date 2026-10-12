@@ -1,0 +1,353 @@
+{
+  "lines": [
+    {
+      "lineCode": "08",
+      "lineColor": "009263",
+      "lineId": 8,
+      "lineName": "8号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:26",
+      "lastTime": "23:36",
+      "startStationName": "朱辛庄",
+      "startStationDeviceLocation": 150996997,
+      "terminalStationName": "瀛海",
+      "terminalStationDeviceLocation": 150997065,
+      "sourceStationName": "朱辛庄",
+      "sourceStationDeviceLocation": 150996997,
+      "destStationName": "瀛海",
+      "destStationDeviceLocation": 150997065,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997041,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "08",
+      "lineColor": "009263",
+      "lineId": 8,
+      "lineName": "8号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:36",
+      "lastTime": "23:31",
+      "startStationName": "瀛海",
+      "startStationDeviceLocation": 150997065,
+      "terminalStationName": "朱辛庄",
+      "terminalStationDeviceLocation": 150996997,
+      "sourceStationName": "瀛海",
+      "sourceStationDeviceLocation": 150997065,
+      "destStationName": "朱辛庄",
+      "destStationDeviceLocation": 150996997,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997041,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "07",
+      "lineColor": "F9C374",
+      "lineId": 7,
+      "lineName": "7号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:43",
+      "lastTime": "23:13",
+      "startStationName": "北京西站",
+      "startStationDeviceLocation": 150996757,
+      "terminalStationName": "环球度假区",
+      "terminalStationDeviceLocation": 150996815,
+      "sourceStationName": "北京西站",
+      "sourceStationDeviceLocation": 150996757,
+      "destStationName": "环球度假区",
+      "destStationDeviceLocation": 150996815,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996769,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "07",
+      "lineColor": "F9C374",
+      "lineId": 7,
+      "lineName": "7号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:43",
+      "lastTime": "23:28",
+      "startStationName": "北京西站",
+      "startStationDeviceLocation": 150996757,
+      "terminalStationName": "高楼金",
+      "terminalStationDeviceLocation": 150996811,
+      "sourceStationName": "北京西站",
+      "sourceStationDeviceLocation": 150996757,
+      "destStationName": "高楼金",
+      "destStationDeviceLocation": 150996811,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150996769,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "07",
+      "lineColor": "F9C374",
+      "lineId": 7,
+      "lineName": "7号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:40",
+      "lastTime": "23:54",
+      "startStationName": "环球度假区",
+      "startStationDeviceLocation": 150996815,
+      "terminalStationName": "北京西站",
+      "terminalStationDeviceLocation": 150996757,
+      "sourceStationName": "环球度假区",
+      "sourceStationDeviceLocation": 150996815,
+      "destStationName": "北京西站",
+      "destStationDeviceLocation": 150996757,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996769,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "珠市口",
+    "stationCode": null,
+    "stationDeviceLocation": 150997041,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "7号线：站台开往北京西站方向车头\n8号线：站台开往瀛海方向车头（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "7号线：站台开往北京西站方向车头\n8号线：站台开往瀛海方向车头（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "7号线：站台开往北京西站方向车头\n8号线：站台开往瀛海方向车头（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "7号线：D口\n8号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "7号线：A口（进出站）\n7号线：C口（进出站）\n7号线：D口（进出站）\nE口（出站）F口（进、出站）G口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "7号线：有\n8号线：有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "7号线：开往环球度假区方向，有站厅到站台\n7号线：开往环球度假区方向，有站台到站厅\n7号线：开往北京西站方向，有站厅到站台\n7号线：开往北京西站方向，有站台到站厅\n8号线：开往瀛海方向，有站厅到站台\n8号线：开往朱辛庄方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "7号线：无\n8号线：E口楼梯",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "7号线：无\n8号线：员工休息室（男）（车站已不使用）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "7号线：站台两端（可通话）\n7号线：站厅东厅墙壁靠近C口（可通话）\n7号线：站厅西厅墙壁靠近自助售票机（可通话）\n7号线：AD口人工售票室（可通话），进出站闸机旁\n7号线：C口人工售票室（可通话），进出站闸机旁\n8号线：E口楼梯\n8号线：站厅北侧，靠近E口出站闸机\n8号线：站厅南侧，靠近G口出站闸机\n8号线：E口人工售票厅\n8号线：F、G口人工售票厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "7号线：站厅西厅，靠近综控室（非付费区）\n8号线：站台中部，靠近开往瀛海方向13门（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "7号线：D口坡道\n8号线：E口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "7号线：西厅（A，D口）TVM1、TVM2、TVM3、TVM4、ITVM01东厅（C口）TVM6、TVM7、ITVM02\n8号线：北厅（E口：TVM1、TVM2、TVM3、TVM4、ITVM01  ）\n8号线：南厅（F口、G口：TVM5、TVM6、TVM7、TVM8、ITVM02 ）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "7号线：站厅西侧\n8号线：站厅南侧",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "珠市口西大街，前门大街，粮食店街，煤市街，北京坊"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "珠市口东大街，北京市基督教会珠市口堂，南京银行北京分行"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "珠市口西大街，前门大街，北京市基督教会珠市口堂"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "前门大街（西侧）",
+          "珠市口西大街（南侧）",
+          "北京市基督教会珠市口堂"
+        ]
+      },
+      {
+        "name": "F",
+        "desc": null,
+        "nearby": [
+          "前门大街（东侧）",
+          "天坛路（北侧）",
+          "精忠街小学",
+          "天坛公园",
+          "北京市第十一中学"
+        ]
+      },
+      {
+        "name": "G",
+        "desc": null,
+        "nearby": [
+          "前门大街（西侧）",
+          "永安路（北侧）"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212680,
+      "stationDeviceLocation": 150997041,
+      "stationCode": null,
+      "longitude": 116.398372,
+      "latitude": 39.891334,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1130",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/7号线-珠市口站-环球度假区站方向-工作日.jpg",
+        "stationCode": "0733",
+        "lineCode": "07",
+        "stationNameCn": "珠市口"
+      },
+      {
+        "id": "1161",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/7号线-珠市口站-环球度假区站方向-双休日.jpg",
+        "stationCode": "0733",
+        "lineCode": "07",
+        "stationNameCn": "珠市口"
+      },
+      {
+        "id": "262",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/7号线-珠市口站-北京西站方向-工作日.jpg",
+        "stationCode": "0733",
+        "lineCode": "07",
+        "stationNameCn": "珠市口"
+      },
+      {
+        "id": "731",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/7号线-珠市口站-北京西站方向-双休日.jpg",
+        "stationCode": "0733",
+        "lineCode": "07",
+        "stationNameCn": "珠市口"
+      },
+      {
+        "id": "463",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/8号线-珠市口站-瀛海站方向-工作日.jpg",
+        "stationCode": "0849",
+        "lineCode": "08",
+        "stationNameCn": "珠市口"
+      },
+      {
+        "id": "492",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/8号线-珠市口站-瀛海站方向-双休日.jpg",
+        "stationCode": "0849",
+        "lineCode": "08",
+        "stationNameCn": "珠市口"
+      },
+      {
+        "id": "811",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/8号线-珠市口站-朱辛庄站方向-工作日.jpg",
+        "stationCode": "0849",
+        "lineCode": "08",
+        "stationNameCn": "珠市口"
+      },
+      {
+        "id": "957",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/8号线-珠市口站-朱辛庄站方向-双休日.jpg",
+        "stationCode": "0849",
+        "lineCode": "08",
+        "stationNameCn": "珠市口"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

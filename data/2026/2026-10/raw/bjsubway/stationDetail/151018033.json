@@ -1,0 +1,306 @@
+{
+  "lines": [
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:31",
+      "lastTime": "22:06",
+      "startStationName": "丰台站",
+      "startStationDeviceLocation": 151018031,
+      "terminalStationName": "西局",
+      "terminalStationDeviceLocation": 151018035,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151018033,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:31",
+      "lastTime": "23:50",
+      "startStationName": "丰台站",
+      "startStationDeviceLocation": 151018031,
+      "terminalStationName": "西局",
+      "terminalStationDeviceLocation": 151018035,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151018033,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:31",
+      "lastTime": "22:30",
+      "startStationName": "丰台站",
+      "startStationDeviceLocation": 151018031,
+      "terminalStationName": "西局",
+      "terminalStationDeviceLocation": 151018035,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "成寿寺",
+      "destStationDeviceLocation": 151018013,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151018033,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:14",
+      "lastTime": "21:14",
+      "startStationName": "西局",
+      "startStationDeviceLocation": 151018035,
+      "terminalStationName": "丰台站",
+      "terminalStationDeviceLocation": 151018031,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151018033,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:14",
+      "lastTime": "22:59",
+      "startStationName": "西局",
+      "startStationDeviceLocation": 151018035,
+      "terminalStationName": "丰台站",
+      "terminalStationDeviceLocation": 151018031,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151018033,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "泥洼",
+    "stationCode": null,
+    "stationDeviceLocation": 151018033,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "开往西局方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "开往西局方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "开往西局方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "A1口 、A2口、C口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "A2口（进、出站）\nB口（进、出站）\nC1口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往丰台方向，有站台到站厅\n开往西局方，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "C口人工售票厅（可通话）\nA、B口人工售票厅（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站厅中部，靠近C口进站闸机（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "A口直梯坡道\nC口直梯坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "南厅（C口)  北厅（A、B口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "北厅 办公区",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A1",
+        "desc": null,
+        "nearby": [
+          "无"
+        ]
+      },
+      {
+        "name": "A2",
+        "desc": null,
+        "nearby": [
+          "盛鑫嘉园",
+          "国家税务总局北京市丰台区税务局；"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "丰台区第一小学（丰益校区）；"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "丰管路",
+          "前泥洼一区；"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212762,
+      "stationDeviceLocation": 151018033,
+      "stationCode": null,
+      "longitude": 116.304173,
+      "latitude": 39.858609,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1568",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-泥洼站-西局站方向-工作日.jpg",
+        "stationCode": "9049",
+        "lineCode": "10",
+        "stationNameCn": "泥洼"
+      },
+      {
+        "id": "2053",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-泥洼站-西局站方向-双休日.jpg",
+        "stationCode": "9049",
+        "lineCode": "10",
+        "stationNameCn": "泥洼"
+      },
+      {
+        "id": "335",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-泥洼站-丰台站方向-工作日.jpg",
+        "stationCode": "9049",
+        "lineCode": "10",
+        "stationNameCn": "泥洼"
+      },
+      {
+        "id": "2054",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-泥洼站-丰台站方向-双休日.jpg",
+        "stationCode": "9049",
+        "lineCode": "10",
+        "stationNameCn": "泥洼"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

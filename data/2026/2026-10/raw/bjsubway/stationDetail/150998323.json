@@ -1,0 +1,489 @@
+{
+  "lines": [
+    {
+      "lineCode": "13",
+      "lineColor": "F8E114",
+      "lineId": 13,
+      "lineName": "13号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": null,
+      "lastTime": null,
+      "startStationName": "西直门",
+      "startStationDeviceLocation": 150998293,
+      "terminalStationName": "东直门",
+      "terminalStationDeviceLocation": 150998323,
+      "sourceStationName": "西直门",
+      "sourceStationDeviceLocation": 150998293,
+      "destStationName": "东直门",
+      "destStationDeviceLocation": 150998323,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998323,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "13",
+      "lineColor": "F8E114",
+      "lineId": 13,
+      "lineName": "13号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": null,
+      "lastTime": null,
+      "startStationName": "西直门",
+      "startStationDeviceLocation": 150998293,
+      "terminalStationName": "霍营",
+      "terminalStationDeviceLocation": 150998309,
+      "sourceStationName": "西直门",
+      "sourceStationDeviceLocation": 150998293,
+      "destStationName": "霍营",
+      "destStationDeviceLocation": 150998309,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150998323,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "13",
+      "lineColor": "F8E114",
+      "lineId": 13,
+      "lineName": "13号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:34",
+      "lastTime": "22:49",
+      "startStationName": "东直门",
+      "startStationDeviceLocation": 150998323,
+      "terminalStationName": "西直门",
+      "terminalStationDeviceLocation": 150998293,
+      "sourceStationName": "东直门",
+      "sourceStationDeviceLocation": 150998323,
+      "destStationName": "西直门",
+      "destStationDeviceLocation": 150998293,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998323,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "13",
+      "lineColor": "F8E114",
+      "lineId": 13,
+      "lineName": "13号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:34",
+      "lastTime": "23:44",
+      "startStationName": "东直门",
+      "startStationDeviceLocation": 150998323,
+      "terminalStationName": "回龙观",
+      "terminalStationDeviceLocation": 150998307,
+      "sourceStationName": "东直门",
+      "sourceStationDeviceLocation": 150998323,
+      "destStationName": "回龙观",
+      "destStationDeviceLocation": 150998307,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150998323,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "02",
+      "lineColor": "0F6192",
+      "lineId": 2,
+      "lineName": "2号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:23",
+      "lastTime": "22:44",
+      "startStationName": "东四十条",
+      "startStationDeviceLocation": 150995469,
+      "terminalStationName": "雍和宫",
+      "terminalStationDeviceLocation": 150995471,
+      "sourceStationName": "西直门",
+      "sourceStationDeviceLocation": 150995457,
+      "destStationName": "西直门",
+      "destStationDeviceLocation": 150995457,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995470,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "02",
+      "lineColor": "0F6192",
+      "lineId": 2,
+      "lineName": "2号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:23",
+      "lastTime": "23:29",
+      "startStationName": "东四十条",
+      "startStationDeviceLocation": 150995469,
+      "terminalStationName": "雍和宫",
+      "terminalStationDeviceLocation": 150995471,
+      "sourceStationName": "西直门",
+      "sourceStationDeviceLocation": 150995457,
+      "destStationName": "积水潭",
+      "destStationDeviceLocation": 150995474,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150995470,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "02",
+      "lineColor": "0F6192",
+      "lineId": 2,
+      "lineName": "2号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:13",
+      "lastTime": "22:28",
+      "startStationName": "雍和宫",
+      "startStationDeviceLocation": 150995471,
+      "terminalStationName": "东四十条",
+      "terminalStationDeviceLocation": 150995469,
+      "sourceStationName": "积水潭",
+      "sourceStationDeviceLocation": 150995474,
+      "destStationName": "积水潭",
+      "destStationDeviceLocation": 150995474,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995470,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "02",
+      "lineColor": "0F6192",
+      "lineId": 2,
+      "lineName": "2号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:13",
+      "lastTime": "23:13",
+      "startStationName": "雍和宫",
+      "startStationDeviceLocation": 150995471,
+      "terminalStationName": "东四十条",
+      "terminalStationDeviceLocation": 150995469,
+      "sourceStationName": "积水潭",
+      "sourceStationDeviceLocation": 150995474,
+      "destStationName": "西直门",
+      "destStationDeviceLocation": 150995457,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150995470,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "98",
+      "lineColor": "A09AB8",
+      "lineId": 98,
+      "lineName": "首都机场线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "6:00",
+      "lastTime": "22:30",
+      "startStationName": "北新桥",
+      "startStationDeviceLocation": 151020051,
+      "terminalStationName": "2号航站楼",
+      "terminalStationDeviceLocation": 151020057,
+      "sourceStationName": "北新桥",
+      "sourceStationDeviceLocation": 151020051,
+      "destStationName": "2号航站楼",
+      "destStationDeviceLocation": 151020057,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151020053,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "98",
+      "lineColor": "A09AB8",
+      "lineId": 98,
+      "lineName": "首都机场线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "7:01",
+      "lastTime": "23:34",
+      "startStationName": "2号航站楼",
+      "startStationDeviceLocation": 151020057,
+      "terminalStationName": "北新桥",
+      "terminalStationDeviceLocation": 151020051,
+      "sourceStationName": "2号航站楼",
+      "sourceStationDeviceLocation": 151020057,
+      "destStationName": "北新桥",
+      "destStationDeviceLocation": 151020051,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151020053,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "东直门",
+    "stationCode": null,
+    "stationDeviceLocation": 150998323,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "2号线：开往雍和宫方向车尾\n13号线：开往西直门方向列车中部\n13号线：开往东直门方向车头\n首都机场线：B4层站台开往北新桥方向车头(上行）\n首都机场线：B4层站台开往3号航站楼方向车尾(下行）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "2号线：开往雍和宫方向车尾\n13号线：开往西直门方向列车中部\n13号线：开往东直门方向车头\n首都机场线：B4层站台开往北新桥方向车头(上行)\n首都机场线：B4层站台开往3号航站楼方向车尾(下行)",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "2号线：开往雍和宫方向车尾\n13号线：开往东直门方向车头\n首都机场线：B4层站台开往北新桥方向车头(上行)\n首都机场线：B4层站台开往3号航站楼方向车尾(下行)",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "2号线：无\n13号线：H口\n首都机场线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "2号线：A口（出站）\n2号线：B口（出站）\n2号线：C口（出站）\n2号线：D口（出站）\n13号线：G口（进站）\n首都机场线：E口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "2号线：无\n13号线：无\n首都机场线：开往北新桥站方向有\n首都机场线：开往首都机场方向有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "2号线：无\n13号线：开往西直门方向，有站厅到站台\n13号线：开往西直门方向，无站台到站厅\n13号线：开往东直门方向，有站台到站厅\n13号线：开往东直门方向，无站厅到站台\n首都机场线：开往北新桥方向，有站台到站厅\n首都机场线：开往北新桥方向，有站厅到站台\n首都机场线：开往首都机场方向，有站厅到站台\n首都机场线：开往首都机场方向，有站台到站厅，",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "2号线：D口楼梯\n13号线：G口楼梯\n13号线：H口楼梯\n13号线：13号线-2号线换乘通道\n首都机场线：E口楼梯",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "2号线：站厅南厅，靠近D口通道\n13号线：无\n首都机场线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "2号线：A口（可通话）\n2号线：D口（可通话）\n2号线：站台北侧（可通话）                                                  2号线：残卫      （仅呼叫）\n13号线：无\n首都机场线：上行站台，靠近扶梯下方（未启用）\n首都机场线：下行站台，靠近扶梯下方（未启用）\n首都机场线：B1层站厅，靠近售票机\n首都机场线：B1层站厅，靠近下行厅台直梯\n首都机场线：B1层站厅，靠近上行厅台直梯\n首都机场线：站厅南厅，B2层西南角楼梯下方（故障）\n首都机场线：站厅南厅，靠近自助售票机",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "2号线：站厅南厅，靠近C口通道（付费区）\n13号线：站厅中部，靠近H口人工售票厅（付费区）\n首都机场线：站厅北厅，靠近综控室（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "2号线：D口坡道\n13号线：G口坡道\n首都机场线：E口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "2号线：南厅（D口）\n2号线：北厅   (A口)\n2号线：南上   (C口)\n2号线：北上 （B口）                            2号线：银座口\n13号线：开往西直门方向站台\n13号线：开往东直门方向站台\n首都机场线：B1层西厅（E口），B2层西厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "2号线：南厅（D口）\n13号线：开往东直门方向站台\n首都机场线：B1层东厅D区",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "东直门内大街北侧",
+          "胡大饭馆东直门店",
+          "格鲁秀色西餐厅"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "东直门外大街北侧",
+          "东直门交通枢纽"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "东直门外大街南侧",
+          "银座MALL"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "东直门内大街南侧",
+          "北京中医药大学东直门医院",
+          "中国中医科学院针灸医院",
+          "北京来福士中心"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "东直门外大街"
+        ]
+      },
+      {
+        "name": "G",
+        "desc": null,
+        "nearby": [
+          "东直门交通枢纽"
+        ]
+      },
+      {
+        "name": "H",
+        "desc": null,
+        "nearby": [
+          "东直门交通枢纽"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212685,
+      "stationDeviceLocation": 150998323,
+      "stationCode": null,
+      "longitude": 116.435842,
+      "latitude": 39.941626,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "672",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/2号线-东直门站-雍和宫站方向-工作日.jpg",
+        "stationCode": "0214",
+        "lineCode": "02",
+        "stationNameCn": "东直门"
+      },
+      {
+        "id": "352",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/2号线-东直门站-雍和宫站方向-双休日.jpg",
+        "stationCode": "0214",
+        "lineCode": "02",
+        "stationNameCn": "东直门"
+      },
+      {
+        "id": "805",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/2号线-东直门站-东四十条站方向-工作日.jpg",
+        "stationCode": "0214",
+        "lineCode": "02",
+        "stationNameCn": "东直门"
+      },
+      {
+        "id": "1218",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/2号线-东直门站-东四十条站方向-双休日.jpg",
+        "stationCode": "0214",
+        "lineCode": "02",
+        "stationNameCn": "东直门"
+      },
+      {
+        "id": "504",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/13号线-东直门站-西直门站方向-工作日.jpg",
+        "stationCode": "1351",
+        "lineCode": "13",
+        "stationNameCn": "东直门"
+      },
+      {
+        "id": "69",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/13号线-东直门站-西直门站方向-双休日.jpg",
+        "stationCode": "1351",
+        "lineCode": "13",
+        "stationNameCn": "东直门"
+      },
+      {
+        "id": "2079",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/首都机场线-东直门站-首都机场方向.jpg",
+        "stationCode": "9821",
+        "lineCode": "98",
+        "stationNameCn": "东直门"
+      },
+      {
+        "id": "2016",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/首都机场线-东直门站-首都机场方向-周五.jpg",
+        "stationCode": "9821",
+        "lineCode": "98",
+        "stationNameCn": "东直门"
+      },
+      {
+        "id": "2077",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/首都机场线-东直门站-北新桥方向.jpg",
+        "stationCode": "9821",
+        "lineCode": "98",
+        "stationNameCn": "东直门"
+      },
+      {
+        "id": "2022",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/首都机场线-东直门站-北新桥方向-周五.jpg",
+        "stationCode": "9821",
+        "lineCode": "98",
+        "stationNameCn": "东直门"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

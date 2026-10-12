@@ -1,0 +1,297 @@
+{
+  "lines": [
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:25",
+      "lastTime": "21:35",
+      "startStationName": "劲松",
+      "startStationDeviceLocation": 150997547,
+      "terminalStationName": "十里河",
+      "terminalStationDeviceLocation": 151018009,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151018007,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:25",
+      "lastTime": "23:43",
+      "startStationName": "劲松",
+      "startStationDeviceLocation": 150997547,
+      "terminalStationName": "十里河",
+      "terminalStationDeviceLocation": 151018009,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "成寿寺",
+      "destStationDeviceLocation": 151018013,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151018007,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:25",
+      "lastTime": "23:19",
+      "startStationName": "劲松",
+      "startStationDeviceLocation": 150997547,
+      "terminalStationName": "十里河",
+      "terminalStationDeviceLocation": 151018009,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151018007,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:33",
+      "lastTime": "21:46",
+      "startStationName": "十里河",
+      "startStationDeviceLocation": 151018009,
+      "terminalStationName": "劲松",
+      "terminalStationDeviceLocation": 150997547,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151018007,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:33",
+      "lastTime": "23:31",
+      "startStationName": "十里河",
+      "startStationDeviceLocation": 151018009,
+      "terminalStationName": "劲松",
+      "terminalStationDeviceLocation": 150997547,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151018007,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "潘家园",
+    "stationCode": null,
+    "stationDeviceLocation": 151018007,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "开往劲松方向车尾（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "开往十里河方向车头（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "开往十里河方向车头（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "A口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "A口（进、出站）\nB口（出站）\nC1口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往十里河方向，有站台到站厅\n开往十里河方向，有站厅到站台\n开往劲松方向，有站台到站厅\n开往劲松方向，有站厅到站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "C2口楼梯",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "C2口楼梯（可通话）\nA、B口售票室（可通话）\nC口售票室（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站厅南侧（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "A口坡道\nC2口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "北厅（A口、B口）\n南厅（C口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "南厅（C口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "东三环，北京眼镜城，朱振宣配镜中心，爱目阁眼镜精准验配中心，润智配镜中心，大视明倪庆雷店，慈铭体检潘家园分院"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "东三环，潘家园路（南侧），松榆西里，潘家园旧货市场"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "潘家园路（南侧），华威南路（北侧），潘家园旧货市场"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212762,
+      "stationDeviceLocation": 151018007,
+      "stationCode": null,
+      "longitude": 116.460926,
+      "latitude": 39.875387,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1163",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-潘家园站-十里河站方向-工作日.jpg",
+        "stationCode": "9023",
+        "lineCode": "10",
+        "stationNameCn": "潘家园"
+      },
+      {
+        "id": "2057",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-潘家园站-十里河站方向-双休日.jpg",
+        "stationCode": "9023",
+        "lineCode": "10",
+        "stationNameCn": "潘家园"
+      },
+      {
+        "id": "261",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-潘家园站-劲松站方向-工作日.jpg",
+        "stationCode": "9023",
+        "lineCode": "10",
+        "stationNameCn": "潘家园"
+      },
+      {
+        "id": "382",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-潘家园站-劲松站方向-双休日.jpg",
+        "stationCode": "9023",
+        "lineCode": "10",
+        "stationNameCn": "潘家园"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

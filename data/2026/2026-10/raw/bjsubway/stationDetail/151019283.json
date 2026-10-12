@@ -1,0 +1,234 @@
+{
+  "lines": [
+    {
+      "lineCode": "95",
+      "lineColor": "E15C28",
+      "lineId": 95,
+      "lineName": "房山线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:54",
+      "lastTime": "23:21",
+      "startStationName": "东管头南",
+      "startStationDeviceLocation": 151019277,
+      "terminalStationName": "阎村东",
+      "terminalStationDeviceLocation": 151019307,
+      "sourceStationName": "东管头南",
+      "sourceStationDeviceLocation": 151019277,
+      "destStationName": "阎村东",
+      "destStationDeviceLocation": 151019307,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019283,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "95",
+      "lineColor": "E15C28",
+      "lineId": 95,
+      "lineName": "房山线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:35",
+      "lastTime": "22:57",
+      "startStationName": "阎村东",
+      "startStationDeviceLocation": 151019307,
+      "terminalStationName": "东管头南",
+      "terminalStationDeviceLocation": 151019277,
+      "sourceStationName": "阎村东",
+      "sourceStationDeviceLocation": 151019307,
+      "destStationName": "东管头南",
+      "destStationDeviceLocation": 151019277,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019283,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "白盆窑",
+    "stationCode": null,
+    "stationDeviceLocation": 151019283,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "站台开往东管头南方向车头（上行）\n站台开往阎村东方向车头（下行）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "站台开往东管头南方向车头（上行）\n站台开往阎村东方向车头（下行）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "站台开往东管头南方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "B口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "A口（进站、出站）\nB口（进站、出站）\nD口（进站、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "厅台中部开往阎村东方向14门（下行）\n厅台中部开往东管头南方向11门（上行）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往东管头南方向，有站厅到站台\n开往东管头南方向，有站台到站厅\n开往阎村东方向，有站厅到站台\n开往阎村东方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "B口人工售票厅（可通话）\nA、D口人工售票厅（可通话）\n1 站厅自动售票机（仅呼叫）\n2 站厅网络取票机（仅呼叫）\n3 站台无障碍卫生间（仅呼叫）\n4 上下行站台直梯内（可通话）\n5 B口直梯外（可通话）\n6 B口直梯内（可通话）\n7 南厅直梯外（可通话）\n8 站台两端（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站厅中部，靠近上行中部楼梯（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "A口坡道\nB口坡道\nD口坡道\nB口直梯坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "东厅（B口）\n西厅（A、D口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "站厅东侧",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "六圈路（北侧）",
+          "樊羊路（西侧）",
+          "亿城天筑",
+          "丰台创新中心"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "六圈路（北侧）",
+          "樊羊路（东侧）；"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "樊羊路（西侧）",
+          "郭公庄北街",
+          "幸福家园东区；"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212767,
+      "stationDeviceLocation": 151019283,
+      "stationCode": null,
+      "longitude": 116.314327,
+      "latitude": 39.819561,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1008",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/房山线-白盆窑站-阎村东站方向-工作日.jpg",
+        "stationCode": "9519",
+        "lineCode": "95",
+        "stationNameCn": "白盆窑"
+      },
+      {
+        "id": "1038",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/房山线-白盆窑站-阎村东站方向-双休日.jpg",
+        "stationCode": "9519",
+        "lineCode": "95",
+        "stationNameCn": "白盆窑"
+      },
+      {
+        "id": "1007",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/房山线-白盆窑站-东管头南站方向-工作日.jpg",
+        "stationCode": "9519",
+        "lineCode": "95",
+        "stationNameCn": "白盆窑"
+      },
+      {
+        "id": "1037",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/房山线-白盆窑站-东管头南站方向-双休日.jpg",
+        "stationCode": "9519",
+        "lineCode": "95",
+        "stationNameCn": "白盆窑"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

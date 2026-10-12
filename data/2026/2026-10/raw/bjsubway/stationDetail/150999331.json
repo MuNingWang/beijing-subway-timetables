@@ -1,0 +1,301 @@
+{
+  "lines": [
+    {
+      "lineCode": "17",
+      "lineColor": "00A9A9",
+      "lineId": 17,
+      "lineName": "17号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:32",
+      "lastTime": "22:54",
+      "startStationName": "未来科学城北",
+      "startStationDeviceLocation": 150999317,
+      "terminalStationName": "嘉会湖",
+      "terminalStationDeviceLocation": 150999357,
+      "sourceStationName": "未来科学城北",
+      "sourceStationDeviceLocation": 150999317,
+      "destStationName": "嘉会湖",
+      "destStationDeviceLocation": 150999357,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150999331,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "17",
+      "lineColor": "00A9A9",
+      "lineId": 17,
+      "lineName": "17号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "6:00",
+      "lastTime": "23:12",
+      "startStationName": "嘉会湖",
+      "startStationDeviceLocation": 150999357,
+      "terminalStationName": "未来科学城北",
+      "terminalStationDeviceLocation": 150999317,
+      "sourceStationName": "嘉会湖",
+      "sourceStationDeviceLocation": 150999357,
+      "destStationName": "未来科学城北",
+      "destStationDeviceLocation": 150999317,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150999331,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "12",
+      "lineColor": "C56B00",
+      "lineId": 12,
+      "lineName": "12号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "6:25",
+      "lastTime": "23:58",
+      "startStationName": "四季青桥",
+      "startStationDeviceLocation": 150998037,
+      "terminalStationName": "东坝北",
+      "terminalStationDeviceLocation": 150998075,
+      "sourceStationName": "四季青桥",
+      "sourceStationDeviceLocation": 150998037,
+      "destStationName": "东坝北",
+      "destStationDeviceLocation": 150998075,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998063,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "12",
+      "lineColor": "C56B00",
+      "lineId": 12,
+      "lineName": "12号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:15",
+      "lastTime": "22:48",
+      "startStationName": "东坝北",
+      "startStationDeviceLocation": 150998075,
+      "terminalStationName": "四季青桥",
+      "terminalStationDeviceLocation": 150998037,
+      "sourceStationName": "东坝北",
+      "sourceStationDeviceLocation": 150998075,
+      "destStationName": "四季青桥",
+      "destStationDeviceLocation": 150998037,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998063,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "西坝河",
+    "stationCode": null,
+    "stationDeviceLocation": 150999331,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "12号线：开往东坝北方向车头\n开往未来科学城北方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "12号线：开往四季青桥方向车尾\n开往未来科学城北方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "12号线：开往东坝北方向车头\n开往未来科学城北方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "12号线：B口\n12号线：D口\nE口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "12号线：B口（进出站）\n12号线：C 口（进出站）\n12号线：D 口（进出站\nA口（进、出站）\nE口（进、出站\nF1口（出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "12号线：有\n有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "12号线：开往四季青方向有站厅到站台，有站台到站厅\n12号线：开往东坝北方向有站厅到站台，有站台到站厅\n开往未来科学城北，有站厅到站台\n开往未来科学城北，有站台到站厅\n开往嘉会湖方向，有站厅到站台\n开往嘉会湖方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "12号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "12号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "12号线：东厅售补票厅非付费区（可通话）\n12号线：东厅售补票厅付费区（可通话）\n12号线：西厅售补票厅非付费区（可通话）\n12号线：西厅售补票厅付费区（可通话）\n12号线：站台无障碍卫生间（可通话）                                               12号线：站台换乘通道（可通话）                                                                       12号线：站台上下行两端（可通话）\n站台两端（可通话）\n站厅南侧墙壁，靠近综控室（可通话）\n无障碍卫生间招援（可通话）\n母婴室（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "12号线：站厅东厅，综控室玻璃（非付费区）\n站台开往未来科学城北方向第24门",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "12号线：B口坡道\n12号线：C口坡道\n12号线：D口坡道\nE口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "12号线：西厅\n12号线：东厅\n南厅（E口、F口）\n北厅（A口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "12号线：东厅（C口）\n南厅（E口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "西坝河南路",
+          "北三环东路"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "西坝河南路",
+          "金色怡人公园"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "西坝河南路"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "北三环东路",
+          "香河园派出所",
+          "中国国际展览中心（朝阳馆）"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "西坝河南路",
+          "北京市朝阳区中小学卫生保健所",
+          "应急总医院"
+        ]
+      },
+      {
+        "name": "F",
+        "desc": null,
+        "nearby": [
+          "西坝河南路"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212689,
+      "stationDeviceLocation": 150999331,
+      "stationCode": null,
+      "longitude": 116.442113,
+      "latitude": 39.965794,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1484",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/12号线-西坝河站-四季青桥站方向-工作日.jpg",
+        "stationCode": "1247",
+        "lineCode": "12",
+        "stationNameCn": "西坝河"
+      },
+      {
+        "id": "1520",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/12号线-西坝河站-四季青桥站方向-双休日.jpg",
+        "stationCode": "1247",
+        "lineCode": "12",
+        "stationNameCn": "西坝河"
+      },
+      {
+        "id": "1481",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/12号线-西坝河站-东坝北站方向-工作日.jpg",
+        "stationCode": "1247",
+        "lineCode": "12",
+        "stationNameCn": "西坝河"
+      },
+      {
+        "id": "1521",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/12号线-西坝河站-东坝北站方向-双休日.jpg",
+        "stationCode": "1247",
+        "lineCode": "12",
+        "stationNameCn": "西坝河"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

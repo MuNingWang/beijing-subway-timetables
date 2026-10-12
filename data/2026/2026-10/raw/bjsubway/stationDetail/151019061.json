@@ -1,0 +1,267 @@
+{
+  "lines": [
+    {
+      "lineCode": "94",
+      "lineColor": "DD83B0",
+      "lineId": 94,
+      "lineName": "昌平线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:30",
+      "lastTime": "23:46",
+      "startStationName": "昌平西山口",
+      "startStationDeviceLocation": 151019027,
+      "terminalStationName": "蓟门桥",
+      "terminalStationDeviceLocation": 151019065,
+      "sourceStationName": "昌平西山口",
+      "sourceStationDeviceLocation": 151019027,
+      "destStationName": "蓟门桥",
+      "destStationDeviceLocation": 151019065,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019061,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "94",
+      "lineColor": "DD83B0",
+      "lineId": 94,
+      "lineName": "昌平线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:30",
+      "lastTime": null,
+      "startStationName": "昌平西山口",
+      "startStationDeviceLocation": 151019027,
+      "terminalStationName": "朱辛庄",
+      "terminalStationDeviceLocation": 151019045,
+      "sourceStationName": "昌平西山口",
+      "sourceStationDeviceLocation": 151019027,
+      "destStationName": "朱辛庄",
+      "destStationDeviceLocation": 151019045,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151019061,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "94",
+      "lineColor": "DD83B0",
+      "lineId": 94,
+      "lineName": "昌平线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:24",
+      "lastTime": "23:25",
+      "startStationName": "蓟门桥",
+      "startStationDeviceLocation": 151019065,
+      "terminalStationName": "昌平西山口",
+      "terminalStationDeviceLocation": 151019027,
+      "sourceStationName": "蓟门桥",
+      "sourceStationDeviceLocation": 151019065,
+      "destStationName": "昌平西山口",
+      "destStationDeviceLocation": 151019027,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019061,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "学院桥",
+    "stationCode": null,
+    "stationDeviceLocation": 151019061,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "开往蓟门桥方向车尾站台\n开往昌平西山口方向车头站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "开往蓟门桥方向车尾站台\n开往昌平西山口方向车头站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "开往蓟门桥方向车尾站台\n开往昌平西山口方向车头站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "B口\nD2口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "A口（进出站）\nB口（进出站）\nC1口（进出站）\nC2口（进出站）\nD1口（进出站）\nD2口（进出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "开往蓟门桥方向，有\n开往昌平西山口方向，有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往昌平西山口方向，有站厅到站台\n开往昌平西山口方向，有站台到站厅\n开往蓟门桥方向，有站厅到站台\n开往蓟门桥方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "站厅北侧付费区，靠近A、B口出站闸机（可通话）\n站厅南侧付费区，靠近C、D口出站闸机（可通话）\n站厅中部非付费区，靠近北侧进站闸机（可通话）\n站厅中部非付费区，靠近TVM（可通话）\n站厅中部非付费区，靠近南侧进站闸机（可通话）\nA、B口人工售票厅（可通话）\nC、D口人工售票厅（可通话）\n站台北侧，残卫（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站厅中部（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "B口坡道\nD2口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "站厅中部",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "北厅（B口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "学院路",
+          "地大南路",
+          "中国地质大学"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "学院路",
+          "北京科技大学"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "北四环路",
+          "学院路",
+          "北京大学第三医院",
+          "北京大学医学部",
+          "北京大学第六医院"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "北四环路",
+          "学院路",
+          "世宁大厦"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212766,
+      "stationDeviceLocation": 151019061,
+      "stationCode": null,
+      "longitude": 116.353438,
+      "latitude": 39.988206,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1553",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-学院桥站-蓟门桥站方向-工作日.jpg",
+        "stationCode": "9453",
+        "lineCode": "94",
+        "stationNameCn": "学院桥"
+      },
+      {
+        "id": "1554",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-学院桥站-蓟门桥站方向-双休日.jpg",
+        "stationCode": "9453",
+        "lineCode": "94",
+        "stationNameCn": "学院桥"
+      },
+      {
+        "id": "1352",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-学院桥站-昌平西山口站方向-工作日.jpg",
+        "stationCode": "9453",
+        "lineCode": "94",
+        "stationNameCn": "学院桥"
+      },
+      {
+        "id": "896",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-学院桥站-昌平西山口站方向-双休日.jpg",
+        "stationCode": "9453",
+        "lineCode": "94",
+        "stationNameCn": "学院桥"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

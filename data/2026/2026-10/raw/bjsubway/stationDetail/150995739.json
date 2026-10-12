@@ -1,0 +1,322 @@
+{
+  "lines": [
+    {
+      "lineCode": "03",
+      "lineColor": "E50033",
+      "lineId": 3,
+      "lineName": "3号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:42",
+      "lastTime": "23:32",
+      "startStationName": "东四十条",
+      "startStationDeviceLocation": 150995733,
+      "terminalStationName": "东坝北",
+      "terminalStationDeviceLocation": 150995751,
+      "sourceStationName": "东四十条",
+      "sourceStationDeviceLocation": 150995733,
+      "destStationName": "东坝北",
+      "destStationDeviceLocation": 150995751,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995739,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "03",
+      "lineColor": "E50033",
+      "lineId": 3,
+      "lineName": "3号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:21",
+      "lastTime": "23:06",
+      "startStationName": "东坝北",
+      "startStationDeviceLocation": 150995751,
+      "terminalStationName": "东四十条",
+      "terminalStationDeviceLocation": 150995733,
+      "sourceStationName": "东坝北",
+      "sourceStationDeviceLocation": 150995751,
+      "destStationName": "东四十条",
+      "destStationDeviceLocation": 150995733,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995739,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "14",
+      "lineColor": "D4A7A1",
+      "lineId": 14,
+      "lineName": "14号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:57",
+      "lastTime": "23:42",
+      "startStationName": "张郭庄",
+      "startStationDeviceLocation": 150998549,
+      "terminalStationName": "善各庄",
+      "terminalStationDeviceLocation": 150998621,
+      "sourceStationName": "张郭庄",
+      "sourceStationDeviceLocation": 150998549,
+      "destStationName": "善各庄",
+      "destStationDeviceLocation": 150998621,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998601,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "14",
+      "lineColor": "D4A7A1",
+      "lineId": 14,
+      "lineName": "14号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:17",
+      "lastTime": "23:03",
+      "startStationName": "善各庄",
+      "startStationDeviceLocation": 150998621,
+      "terminalStationName": "张郭庄",
+      "terminalStationDeviceLocation": 150998549,
+      "sourceStationName": "善各庄",
+      "sourceStationDeviceLocation": 150998621,
+      "destStationName": "张郭庄",
+      "destStationDeviceLocation": 150998549,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998601,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "朝阳公园",
+    "stationCode": null,
+    "stationDeviceLocation": 150995739,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "3号线：付费区开往东四十条方向车尾\n开往张郭庄站方向车尾\n开往善各庄方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "3号线：付费区开往东四十条方向车尾\n开往张郭庄方向车尾\n开往善各庄方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "3号线：付费区开往东四十条方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "3号线：G2口\n3号线：F口\nD2口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "3号线：G1口（进、出站）\n3号线：E口（进、出站）\n3号线：F口（进、出站）\n3号线：D2口（进、出站）\nA口（进、出站）              B口（进、出站）           D1口（进、出站）             D2口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "3号线：厅台中部、换乘厅扶梯旁\n有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "3号线：开往东四十条方向，有站厅到站台\n3号线：开往东四十条方向，有站台到站厅\n3号线：开往东坝北方向，有站厅到站台\n3号线：开往东坝北方向，有站台到站厅\n开往善各庄方向，有站厅到站台\n开往善各庄方向，有站台到站厅\n开往张郭庄方向，有站厅到站台\n开往张郭庄方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "3号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "3号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "3号线：站台两端（可通话）\n3号线：东厅人工售票厅（可通话）\n3号线：西厅人工售票厅（可通话）\n3号线：G2口、E口、F口步梯、3号线换14号线通道墙壁（可通话）\nB口（可通话）\n站台两端（可通话）\n站厅北厅墙壁，靠近综控室（可通话）\n无障碍卫生间招援(仅呼叫)",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "3号线：站厅东厅，靠近综控室（非付费区）\n站台开往张郭庄方向第6门",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "3号线：G2口直梯坡道\n3号线：F口直梯坡道\nD2口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "3号线：东厅（F口）\n3号线：西厅（E口）\n南厅（D1口、D2口）                     北厅（A口、B口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "3号线：东厅（F口）\n北厅（A口、B口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "朝阳公园南路北侧",
+          "金台艺术馆",
+          "凤凰国际传媒中心",
+          "佳隆国际大厦"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "朝阳公园南路北侧",
+          "朝阳公园"
+        ]
+      },
+      {
+        "name": "D1",
+        "desc": null,
+        "nearby": [
+          "甜水园街西侧",
+          "棕榈泉生活广场",
+          "北京市东方德才学校",
+          "呼家楼中心小学团结湖分校",
+          "水碓北里幼儿园",
+          "中国海关\n",
+          "中央公园广场",
+          "元美术馆"
+        ]
+      },
+      {
+        "name": "D2",
+        "desc": null,
+        "nearby": [
+          "朝阳公园南路南侧",
+          "北京画院美术馆",
+          "朝阳体育馆北京妇产医院东院区",
+          "朝阳区人民法院",
+          "朝阳区司法局",
+          "北京京师中医医院"
+        ]
+      },
+      {
+        "name": "E口",
+        "desc": null,
+        "nearby": [
+          "朝阳公园南路"
+        ]
+      },
+      {
+        "name": "F口",
+        "desc": null,
+        "nearby": [
+          "朝阳公园南路",
+          "朝阳公园"
+        ]
+      },
+      {
+        "name": "G口",
+        "desc": null,
+        "nearby": [
+          "朝阳公园南路",
+          "六里屯中街",
+          "棕榈泉生活广场",
+          "棕榈泉北京中心"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212675,
+      "stationDeviceLocation": 150995739,
+      "stationCode": null,
+      "longitude": 116.479306,
+      "latitude": 39.933736,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1412",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/3号线-朝阳公园站-东坝北站方向-工作日.jpg",
+        "stationCode": "0327",
+        "lineCode": "03",
+        "stationNameCn": "朝阳公园"
+      },
+      {
+        "id": "1430",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/3号线-朝阳公园站-东坝北站方向-双休日.jpg",
+        "stationCode": "0327",
+        "lineCode": "03",
+        "stationNameCn": "朝阳公园"
+      },
+      {
+        "id": "1413",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/3号线-朝阳公园站-东四十条站方向-工作日.jpg",
+        "stationCode": "0327",
+        "lineCode": "03",
+        "stationNameCn": "朝阳公园"
+      },
+      {
+        "id": "1436",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/3号线-朝阳公园站-东四十条站方向-双休日.jpg",
+        "stationCode": "0327",
+        "lineCode": "03",
+        "stationNameCn": "朝阳公园"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": "https://dtdata.bjsubway.com/map25d/chaoyanggongyuan.png"
+}

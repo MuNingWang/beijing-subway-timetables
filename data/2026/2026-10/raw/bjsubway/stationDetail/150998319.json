@@ -1,0 +1,362 @@
+{
+  "lines": [
+    {
+      "lineCode": "13",
+      "lineColor": "F8E114",
+      "lineId": 13,
+      "lineName": "13号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:21",
+      "lastTime": "23:34",
+      "startStationName": "西直门",
+      "startStationDeviceLocation": 150998293,
+      "terminalStationName": "东直门",
+      "terminalStationDeviceLocation": 150998323,
+      "sourceStationName": "西直门",
+      "sourceStationDeviceLocation": 150998293,
+      "destStationName": "东直门",
+      "destStationDeviceLocation": 150998323,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998319,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "13",
+      "lineColor": "F8E114",
+      "lineId": 13,
+      "lineName": "13号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:21",
+      "lastTime": null,
+      "startStationName": "西直门",
+      "startStationDeviceLocation": 150998293,
+      "terminalStationName": "霍营",
+      "terminalStationDeviceLocation": 150998309,
+      "sourceStationName": "西直门",
+      "sourceStationDeviceLocation": 150998293,
+      "destStationName": "霍营",
+      "destStationDeviceLocation": 150998309,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150998319,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "13",
+      "lineColor": "F8E114",
+      "lineId": 13,
+      "lineName": "13号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:39",
+      "lastTime": "22:54",
+      "startStationName": "东直门",
+      "startStationDeviceLocation": 150998323,
+      "terminalStationName": "西直门",
+      "terminalStationDeviceLocation": 150998293,
+      "sourceStationName": "东直门",
+      "sourceStationDeviceLocation": 150998323,
+      "destStationName": "西直门",
+      "destStationDeviceLocation": 150998293,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998319,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "13",
+      "lineColor": "F8E114",
+      "lineId": 13,
+      "lineName": "13号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:39",
+      "lastTime": "23:49",
+      "startStationName": "东直门",
+      "startStationDeviceLocation": 150998323,
+      "terminalStationName": "回龙观",
+      "terminalStationDeviceLocation": 150998307,
+      "sourceStationName": "东直门",
+      "sourceStationDeviceLocation": 150998323,
+      "destStationName": "回龙观",
+      "destStationDeviceLocation": 150998307,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150998319,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "12",
+      "lineColor": "C56B00",
+      "lineId": 12,
+      "lineName": "12号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "6:23",
+      "lastTime": "23:56",
+      "startStationName": "四季青桥",
+      "startStationDeviceLocation": 150998037,
+      "terminalStationName": "东坝北",
+      "terminalStationDeviceLocation": 150998075,
+      "sourceStationName": "四季青桥",
+      "sourceStationDeviceLocation": 150998037,
+      "destStationName": "东坝北",
+      "destStationDeviceLocation": 150998075,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998061,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "12",
+      "lineColor": "C56B00",
+      "lineId": 12,
+      "lineName": "12号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:17",
+      "lastTime": "22:51",
+      "startStationName": "东坝北",
+      "startStationDeviceLocation": 150998075,
+      "terminalStationName": "四季青桥",
+      "terminalStationDeviceLocation": 150998037,
+      "sourceStationName": "东坝北",
+      "sourceStationDeviceLocation": 150998075,
+      "destStationName": "四季青桥",
+      "destStationDeviceLocation": 150998037,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998061,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "光熙门",
+    "stationCode": null,
+    "stationDeviceLocation": 150998319,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "开往东坝北方向车尾\n13号线：南侧站厅（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "开往四季青桥方向车头\n13号线：南侧站厅（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "开往东坝北方向车尾\n13号线：南侧站厅（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "13号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "E口（进出站）\nD2口（出站）\n13号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "有\n13号线：开往西直门方向，有\n13号线：开往东直门方向，有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往四季青方向有站厅到站台，有站台到站厅\n开往东坝北方向有站厅到站台，有站台到站厅\n13号线：开往西直门方向，有站厅到站台\n13号线：开往西直门方向，无站台到站厅\n13号线：开往东直门方向，有站厅到站台\n13号线：开往东直门方向，无站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "13号线：A口楼梯",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "13号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "东厅售补票厅非付费区（可通话）\n东厅售补票厅付费区（可通话）\n西厅售补票厅非付费区（可通话）\n西厅售补票厅付费区（可通话）\n站台无障碍卫生间（可通话）\n站台下行10、32门（可通话）\n站台上行10、32门（可通话）\n换乘通道入口（可通话）\n换乘通道扶梯附近（可通话）\n13号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站厅西厅，综控室玻璃下方（非付费区）\n13号线：站厅南侧，靠近B口安检点（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "E口坡道\n13号线：A口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "西北厅（E口）\n东北厅（D口）\n13号线：西厅（B口）\n13号线：东厅（A口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "西厅（E口）\n13号线：西厅（B口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "青年沟路"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "江苏银行大厦"
+        ]
+      },
+      {
+        "name": "D1",
+        "desc": null,
+        "nearby": [
+          "京承高速辅路，北京中医药大学（和平街校区）"
+        ]
+      },
+      {
+        "name": "D2",
+        "desc": null,
+        "nearby": [
+          "京承高速辅路，北京中医药大学（和平街校区）"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "青年沟路，中国石化北京化工研究院"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212685,
+      "stationDeviceLocation": 150998319,
+      "stationCode": null,
+      "longitude": 116.431761,
+      "latitude": 39.968337,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1457",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/12号线-光熙门站-四季青桥站方向-工作日.jpg",
+        "stationCode": "1245",
+        "lineCode": "12",
+        "stationNameCn": "光熙门"
+      },
+      {
+        "id": "1496",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/12号线-光熙门站-四季青桥站方向-双休日.jpg",
+        "stationCode": "1245",
+        "lineCode": "12",
+        "stationNameCn": "光熙门"
+      },
+      {
+        "id": "1460",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/12号线-光熙门站-东坝北站方向-工作日.jpg",
+        "stationCode": "1245",
+        "lineCode": "12",
+        "stationNameCn": "光熙门"
+      },
+      {
+        "id": "1495",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/12号线-光熙门站-东坝北站方向-双休日.jpg",
+        "stationCode": "1245",
+        "lineCode": "12",
+        "stationNameCn": "光熙门"
+      },
+      {
+        "id": "1292",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/13号线-光熙门站-西直门站方向-工作日.jpg",
+        "stationCode": "1347",
+        "lineCode": "13",
+        "stationNameCn": "光熙门"
+      },
+      {
+        "id": "1258",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/13号线-光熙门站-西直门站方向-双休日.jpg",
+        "stationCode": "1347",
+        "lineCode": "13",
+        "stationNameCn": "光熙门"
+      },
+      {
+        "id": "430",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/13号线-光熙门站-东直门站方向-工作日.jpg",
+        "stationCode": "1347",
+        "lineCode": "13",
+        "stationNameCn": "光熙门"
+      },
+      {
+        "id": "376",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/13号线-光熙门站-东直门站方向-双休日.jpg",
+        "stationCode": "1347",
+        "lineCode": "13",
+        "stationNameCn": "光熙门"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

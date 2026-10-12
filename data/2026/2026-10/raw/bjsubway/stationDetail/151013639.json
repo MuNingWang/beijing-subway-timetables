@@ -1,0 +1,250 @@
+{
+  "lines": [
+    {
+      "lineCode": "73",
+      "lineColor": "665794",
+      "lineId": 73,
+      "lineName": "18号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:09",
+      "lastTime": "22:50",
+      "startStationName": "天通苑东",
+      "startStationDeviceLocation": 151013633,
+      "terminalStationName": "马连洼",
+      "terminalStationDeviceLocation": 151013653,
+      "sourceStationName": "天通苑东",
+      "sourceStationDeviceLocation": 151013633,
+      "destStationName": "马连洼",
+      "destStationDeviceLocation": 151013653,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151013639,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "73",
+      "lineColor": "665794",
+      "lineId": 73,
+      "lineName": "18号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:11",
+      "lastTime": "23:11",
+      "startStationName": "马连洼",
+      "startStationDeviceLocation": 151013653,
+      "terminalStationName": "天通苑东",
+      "terminalStationDeviceLocation": 151013633,
+      "sourceStationName": "马连洼",
+      "sourceStationDeviceLocation": 151013653,
+      "destStationName": "天通苑东",
+      "destStationDeviceLocation": 151013633,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151013639,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "73",
+      "lineColor": "665794",
+      "lineId": 73,
+      "lineName": "18号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:11",
+      "lastTime": null,
+      "startStationName": "马连洼",
+      "startStationDeviceLocation": 151013653,
+      "terminalStationName": "霍营东",
+      "terminalStationDeviceLocation": 151013639,
+      "sourceStationName": "马连洼",
+      "sourceStationDeviceLocation": 151013653,
+      "destStationName": "霍营东",
+      "destStationDeviceLocation": 151013639,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151013639,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "霍营东",
+    "stationCode": null,
+    "stationDeviceLocation": 151013639,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "站台开往马连洼方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "站台开往马连洼方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "站台开往马连洼方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "A2口，C口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "A1口（出站，进站）\nB口（出站，进站）\nC口（出站，进站）\nD1口（出站，进站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往马连洼方向，有站厅到站台\n开往天通苑东方向，有站厅到站台\n开往马连洼方向，有站台到站厅\n开往天通苑东方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "A1口通道（可通话）\nD1口通道（可通话）\nB口通道（可通话）\nC口通道（可通话）\n站厅中部人工售票厅（可通话）\n站厅东侧，靠近公安厅（可通话）\n站厅东侧，靠近C口出站闸机（可通话）\n站厅西侧，靠近D口出站闸机（可通话）\nC口直梯地面层靠近直梯门墙壁（可通话）\nC口直梯站厅层靠近直梯门侧墙（可通话）\nA2口直梯地面层靠近直梯门墙壁（可通话）\nA2口直梯站厅层靠近直梯门墙壁（可通话）\n站厅直梯靠近直梯门墙壁（可通话）\n站台直梯靠近直梯门墙壁（可通话）\n家庭卫生间内马桶旁（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站厅中部，靠近自助售水机（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "A2口坡道\nC口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "站厅中部",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "东厅（C口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "回龙观东大街（北侧）",
+          "霍营东路（西侧）首开LONG街商业街区"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "回龙观东大街（北侧）",
+          "霍营东路（东侧）",
+          "霍营公园"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "回龙观东大街（南侧）",
+          "霍营东路（东侧）",
+          "霍营公园"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "回龙观东大街（南侧）",
+          "霍营东路（西侧）"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212745,
+      "stationDeviceLocation": 151013639,
+      "stationCode": null,
+      "longitude": 116.376549,
+      "latitude": 40.082034,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1874",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/18号线-霍营东站-马连洼站方向.jpg",
+        "stationCode": "7307",
+        "lineCode": "73",
+        "stationNameCn": "霍营东"
+      },
+      {
+        "id": "1875",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/18号线-霍营东站-天通苑东站方向.jpg",
+        "stationCode": "7307",
+        "lineCode": "73",
+        "stationNameCn": "霍营东"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

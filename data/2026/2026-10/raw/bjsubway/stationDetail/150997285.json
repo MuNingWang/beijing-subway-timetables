@@ -1,0 +1,228 @@
+{
+  "lines": [
+    {
+      "lineCode": "09",
+      "lineColor": "96BE0B",
+      "lineId": 9,
+      "lineName": "9号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "6:02",
+      "lastTime": "23:42",
+      "startStationName": "国家图书馆",
+      "startStationDeviceLocation": 150997269,
+      "terminalStationName": "郭公庄",
+      "terminalStationDeviceLocation": 150997293,
+      "sourceStationName": "国家图书馆",
+      "sourceStationDeviceLocation": 150997269,
+      "destStationName": "郭公庄",
+      "destStationDeviceLocation": 150997293,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997285,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "09",
+      "lineColor": "96BE0B",
+      "lineId": 9,
+      "lineName": "9号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:07",
+      "lastTime": "22:47",
+      "startStationName": "郭公庄",
+      "startStationDeviceLocation": 150997293,
+      "terminalStationName": "国家图书馆",
+      "terminalStationDeviceLocation": 150997269,
+      "sourceStationName": "郭公庄",
+      "sourceStationDeviceLocation": 150997293,
+      "destStationName": "国家图书馆",
+      "destStationDeviceLocation": 150997269,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997285,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "丰台东大街",
+    "stationCode": null,
+    "stationDeviceLocation": 150997285,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "站台开往国家图书馆方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "站台开往国家图书馆方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "站台开往国家图书馆方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "C口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "A口（出站）\nC口（出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "厅台中部开往国家图书馆方向14门",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往郭公庄方向，有站厅到站台\n开往郭公庄方向，有站台到站厅\n开往国家图书馆方向，有站厅到站台\n开往国家图书馆方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "A口人工售票厅（可通话）\nC口人工售票厅（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站厅中部，靠近C口进站闸机（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "C口直梯、坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "北厅（A口）\n南厅（C口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "东大街（西侧）",
+          "丰管路",
+          "七里庄路",
+          "丰台区公安局",
+          "丰台第一幼儿园",
+          "北京京中中西医结合医院；"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "东南口：东大街（东侧）",
+          "东货场路",
+          "东营里小区；"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212681,
+      "stationDeviceLocation": 150997285,
+      "stationCode": null,
+      "longitude": 116.293857,
+      "latitude": 39.855111,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1273",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/9号线-丰台东大街站-郭公庄站方向-双休日.jpg",
+        "stationCode": "0937",
+        "lineCode": "09",
+        "stationNameCn": "丰台东大街"
+      },
+      {
+        "id": "836",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/9号线-丰台东大街站-郭公庄站、阎村东站方向-工作日.jpg",
+        "stationCode": "0937",
+        "lineCode": "09",
+        "stationNameCn": "丰台东大街"
+      },
+      {
+        "id": "305",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/9号线-丰台东大街站-国家图书馆站方向-工作日.jpg",
+        "stationCode": "0937",
+        "lineCode": "09",
+        "stationNameCn": "丰台东大街"
+      },
+      {
+        "id": "675",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/9号线-丰台东大街站-国家图书馆站方向-双休日.jpg",
+        "stationCode": "0937",
+        "lineCode": "09",
+        "stationNameCn": "丰台东大街"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

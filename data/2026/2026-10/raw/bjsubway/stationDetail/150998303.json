@@ -1,0 +1,398 @@
+{
+  "lines": [
+    {
+      "lineCode": "13",
+      "lineColor": "F8E114",
+      "lineId": 13,
+      "lineName": "13号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:54",
+      "lastTime": "23:01",
+      "startStationName": "西直门",
+      "startStationDeviceLocation": 150998293,
+      "terminalStationName": "东直门",
+      "terminalStationDeviceLocation": 150998323,
+      "sourceStationName": "西直门",
+      "sourceStationDeviceLocation": 150998293,
+      "destStationName": "东直门",
+      "destStationDeviceLocation": 150998323,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998303,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "13",
+      "lineColor": "F8E114",
+      "lineId": 13,
+      "lineName": "13号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:54",
+      "lastTime": "0:14",
+      "startStationName": "西直门",
+      "startStationDeviceLocation": 150998293,
+      "terminalStationName": "霍营",
+      "terminalStationDeviceLocation": 150998309,
+      "sourceStationName": "西直门",
+      "sourceStationDeviceLocation": 150998293,
+      "destStationName": "霍营",
+      "destStationDeviceLocation": 150998309,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150998303,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "13",
+      "lineColor": "F8E114",
+      "lineId": 13,
+      "lineName": "13号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:10",
+      "lastTime": "23:26",
+      "startStationName": "东直门",
+      "startStationDeviceLocation": 150998323,
+      "terminalStationName": "西直门",
+      "terminalStationDeviceLocation": 150998293,
+      "sourceStationName": "东直门",
+      "sourceStationDeviceLocation": 150998323,
+      "destStationName": "西直门",
+      "destStationDeviceLocation": 150998293,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998303,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "13",
+      "lineColor": "F8E114",
+      "lineId": 13,
+      "lineName": "13号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:10",
+      "lastTime": null,
+      "startStationName": "东直门",
+      "startStationDeviceLocation": 150998323,
+      "terminalStationName": "回龙观",
+      "terminalStationDeviceLocation": 150998307,
+      "sourceStationName": "东直门",
+      "sourceStationDeviceLocation": 150998323,
+      "destStationName": "回龙观",
+      "destStationDeviceLocation": 150998307,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150998303,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "94",
+      "lineColor": "DD83B0",
+      "lineId": 94,
+      "lineName": "昌平线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:13",
+      "lastTime": "23:29",
+      "startStationName": "昌平西山口",
+      "startStationDeviceLocation": 151019027,
+      "terminalStationName": "蓟门桥",
+      "terminalStationDeviceLocation": 151019065,
+      "sourceStationName": "昌平西山口",
+      "sourceStationDeviceLocation": 151019027,
+      "destStationName": "蓟门桥",
+      "destStationDeviceLocation": 151019065,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019049,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "94",
+      "lineColor": "DD83B0",
+      "lineId": 94,
+      "lineName": "昌平线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:13",
+      "lastTime": null,
+      "startStationName": "昌平西山口",
+      "startStationDeviceLocation": 151019027,
+      "terminalStationName": "朱辛庄",
+      "terminalStationDeviceLocation": 151019045,
+      "sourceStationName": "昌平西山口",
+      "sourceStationDeviceLocation": 151019027,
+      "destStationName": "朱辛庄",
+      "destStationDeviceLocation": 151019045,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151019049,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "94",
+      "lineColor": "DD83B0",
+      "lineId": 94,
+      "lineName": "昌平线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:23",
+      "lastTime": "23:41",
+      "startStationName": "蓟门桥",
+      "startStationDeviceLocation": 151019065,
+      "terminalStationName": "昌平西山口",
+      "terminalStationDeviceLocation": 151019027,
+      "sourceStationName": "蓟门桥",
+      "sourceStationDeviceLocation": 151019065,
+      "destStationName": "昌平西山口",
+      "destStationDeviceLocation": 151019027,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019049,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "西二旗",
+    "stationCode": null,
+    "stationDeviceLocation": 150998303,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "13号线：付费区站台开往西直门方向车头\n13号线：付费区站台开往西直门方向车尾\n昌平线：付费区13号线站台开往西直门方向车头\n昌平线：付费区13号线站台开往西直门方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "13号线：付费区站台开往西直门方向车头\n昌平线：付费区13号线站台开往西直门方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "13号线：站台开往西直门方向车头\n昌平线：13号线站台开往西直门方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "13号线：A口\n昌平线：A口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "13号线：A1口（进站）\n13号线：A2口（出站）\n13号线：B1口（出站）\n13号线：B3口（进站）\n昌平线：A1口（进站）\n昌平线：A2口（出站）\n昌平线：B1口（出站）\n昌平线：B3口（进站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "13号线：站台开往西直门方向，有\n13号线：站台开往东直门方向，有\n昌平线：站台开往蓟门桥方向（有）\n昌平线：站台开往昌平西山口方向（有）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "13号线：站台开往西直门方向有站厅到站台\n13号线：站台开往东直门方向无站台到站厅\n昌平线站台开往蓟门桥方向有站厅到站台\n昌平线站台开往昌平西山口方向有站厅到站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "13号线：无\n昌平线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "13号线：无\n昌平线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "13号线：B口-楼梯口（可通话）\n13号线：南BOM-外（可通话）\n13号线：南BOM-内（可通话）\n13号线：出站闸机-南（可通话）\n13号线：北BOM-内（可通话）\n13号线：出站闸机-北（可通话）\n13号线： 北BOM-外（可通话）\n13号线：A口-楼梯口（可通话）\n13号线： 无障碍卫生间内（可通话）\n13号线：北地面厅东侧办公区通道门（可通话）\n13号线：北地面厅西侧办公区通道门（可通话）\n13号线：南地面厅东侧办公区通道门（可通话）\n昌平线：B口-楼梯口（可通话）\n昌平线：南BOM-外（可通话）\n昌平线：南BOM-内（可通话）\n昌平线：出站闸机-南（可通话）\n昌平线：北BOM-内（可通话）\n昌平线：出站闸机-北（可通话）\n昌平线：北BOM-外（可通话）\n昌平线：A口-楼梯口（可通话）\n昌平线：无障碍卫生间内（可通话）\n昌平线：北地面厅东侧办公区通道门（可通话）\n昌平线：北地面厅西侧办公区通道门（可通话）\n昌平线：南地面厅西侧办公区通道门（可通话）\n昌平线：南地面厅东侧办公区通道门（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "13号线：东直门方向站台1门（付费区）\n昌平线：站台北侧，靠近开往蓟门桥方向24门（付费区）\n昌平线：站厅中部，靠近服务台（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "13号线：A1口坡道\n13号线：B3口坡道\n昌平线：A1口坡道\n昌平线：B3口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "13号线：南地面（B3口）\n13号线：北地面（A1口）\n昌平线：南地面（B3口）\n昌平线：北地面（A1口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "13号线：南厅（B口）\n昌平线：南厅（B口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A1",
+        "desc": null,
+        "nearby": [
+          "上地东路",
+          "上地十街",
+          "上地西路"
+        ]
+      },
+      {
+        "name": "A2",
+        "desc": null,
+        "nearby": [
+          "上地东路",
+          "上地十街",
+          "上地西路"
+        ]
+      },
+      {
+        "name": "B1",
+        "desc": null,
+        "nearby": [
+          "西二旗大街",
+          "上地九街",
+          "上地东路",
+          "中关村第一小学西二旗分校"
+        ]
+      },
+      {
+        "name": "B2",
+        "desc": null,
+        "nearby": [
+          "西二旗大街",
+          "上地九街",
+          "上地东路",
+          "中关村第一小学西二旗分校"
+        ]
+      },
+      {
+        "name": "B3",
+        "desc": null,
+        "nearby": [
+          "西二旗大街",
+          "上地九街",
+          "上地东路",
+          "中关村第一小学西二旗分校"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212685,
+      "stationDeviceLocation": 150998303,
+      "stationCode": null,
+      "longitude": 116.306295,
+      "latitude": 40.053034,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1255",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/13号线-西二旗站-西直门站方向-工作日.jpg",
+        "stationCode": "1331",
+        "lineCode": "13",
+        "stationNameCn": "西二旗"
+      },
+      {
+        "id": "1254",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/13号线-西二旗站-西直门站方向-双休日.jpg",
+        "stationCode": "1331",
+        "lineCode": "13",
+        "stationNameCn": "西二旗"
+      },
+      {
+        "id": "575",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/13号线-西二旗站-东直门站方向-工作日.jpg",
+        "stationCode": "1331",
+        "lineCode": "13",
+        "stationNameCn": "西二旗"
+      },
+      {
+        "id": "224",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/13号线-西二旗站-东直门站方向-双休日.jpg",
+        "stationCode": "1331",
+        "lineCode": "13",
+        "stationNameCn": "西二旗"
+      },
+      {
+        "id": "1549",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-西二旗站-蓟门桥站方向-工作日.jpg",
+        "stationCode": "9441",
+        "lineCode": "94",
+        "stationNameCn": "西二旗"
+      },
+      {
+        "id": "1548",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-西二旗站-蓟门桥站方向-双休日.jpg",
+        "stationCode": "9441",
+        "lineCode": "94",
+        "stationNameCn": "西二旗"
+      },
+      {
+        "id": "1362",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-西二旗站-昌平西山口站方向-工作日.jpg",
+        "stationCode": "9441",
+        "lineCode": "94",
+        "stationNameCn": "西二旗"
+      },
+      {
+        "id": "603",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-西二旗站-昌平西山口站方向-双休日.jpg",
+        "stationCode": "9441",
+        "lineCode": "94",
+        "stationNameCn": "西二旗"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

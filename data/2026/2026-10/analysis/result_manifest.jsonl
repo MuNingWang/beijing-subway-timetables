@@ -1,0 +1,17 @@
+{"path":"adjacent_station_checks.jsonl","sha256":"ec073346e0635ec7813c504db5481ae62654320a369deb35942b6732d660c188","bytes":722849}
+{"path":"color_markers.jsonl","sha256":"28338373eba7ebc42b1faf077ce3c7d0c0ae78efe56a203ebdb2acb8dfdec7c4","bytes":14449309}
+{"path":"day_type_comparison.jsonl","sha256":"aefb3dcc63caa8f4c058a181edccebdf38595a6d233d024a405cafa7fb4f1355","bytes":1192755}
+{"path":"figures/line7_hourly_service.png","sha256":"ab234cc12c3eccb6878141f1d5da1f9b8a3af6541e716f2896c261090534c631","bytes":166882}
+{"path":"first_last_service.jsonl","sha256":"f148a34044a9d4f5a6f775571323d8d81b29007be5e180cdbb6f8928dec53bcd","bytes":661351}
+{"path":"hourly_counts.csv","sha256":"44a623805f544f15539ca7ebe18299beba628b3261cc3d7b71e762a848efe9b9","bytes":5769488}
+{"path":"image_catalog.jsonl","sha256":"4b28dc91a095fe74b4f8c21d3d48617d97cf34e0d0a194de25686f16745374ae","bytes":1021167}
+{"path":"image_item_evidence.jsonl","sha256":"dc9f8f047dc16ea2c60a0a9daeba83d9bd46d8317c24997e3d2832a373d95136","bytes":24233040}
+{"path":"README.md","sha256":"786a74c973d0c1f5fab08d3637bda428e2714ed438726dfcb7993943f7de501f","bytes":5366}
+{"path":"representative_sections.jsonl","sha256":"d4ead6439097cabcd57e96dcfc2c12f14a12f9cd24b435356a13ed01df507257","bytes":31445}
+{"path":"review_queue.jsonl","sha256":"9cf1939de82264acaa3bfeb2d7e6dd58c619c594c0f0f864ffcfa165b4192736","bytes":115844}
+{"path":"sample_review.json","sha256":"357f9a841881620d2682f93b6db7307242472618e98e36e9e2b139154c47ae09","bytes":12955}
+{"path":"spatial_comparison.jsonl","sha256":"bd24862d23f68544a20bff67f1c69f6f190bf7097710ab557473b42ba64b6a8b","bytes":648084}
+{"path":"station_periods.csv","sha256":"cffa131de6be0997fc2d782458781db861a9facdfcc9f4bf5a7acb2ea4d49293","bytes":313875}
+{"path":"station_summary.jsonl","sha256":"a5afdffe66743571dc067d8ee274d86113870eddaec211301129d8bee8e80e0d","bytes":1549536}
+{"path":"validation.json","sha256":"115c1e2d340598018608ce7da883ea17c3a4e39498c9505d6f0e8fd0a25283dd","bytes":2381}
+{"path":"version_events.jsonl","sha256":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855","bytes":0}

@@ -1,0 +1,317 @@
+{
+  "lines": [
+    {
+      "lineCode": "05",
+      "lineColor": "A5237A",
+      "lineId": 5,
+      "lineName": "5号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:45",
+      "lastTime": "23:33",
+      "startStationName": "天通苑北",
+      "startStationDeviceLocation": 150996245,
+      "terminalStationName": "宋家庄",
+      "terminalStationDeviceLocation": 150996289,
+      "sourceStationName": "天通苑北",
+      "sourceStationDeviceLocation": 150996245,
+      "destStationName": "宋家庄",
+      "destStationDeviceLocation": 150996289,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996285,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "05",
+      "lineColor": "A5237A",
+      "lineId": 5,
+      "lineName": "5号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:24",
+      "lastTime": "23:15",
+      "startStationName": "宋家庄",
+      "startStationDeviceLocation": 150996289,
+      "terminalStationName": "天通苑北",
+      "terminalStationDeviceLocation": 150996245,
+      "sourceStationName": "宋家庄",
+      "sourceStationDeviceLocation": 150996289,
+      "destStationName": "天通苑北",
+      "destStationDeviceLocation": 150996245,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996285,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "14",
+      "lineColor": "D4A7A1",
+      "lineId": 14,
+      "lineName": "14号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:35",
+      "lastTime": "23:20",
+      "startStationName": "张郭庄",
+      "startStationDeviceLocation": 150998549,
+      "terminalStationName": "善各庄",
+      "terminalStationDeviceLocation": 150998621,
+      "sourceStationName": "张郭庄",
+      "sourceStationDeviceLocation": 150998549,
+      "destStationName": "善各庄",
+      "destStationDeviceLocation": 150998621,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998581,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "14",
+      "lineColor": "D4A7A1",
+      "lineId": 14,
+      "lineName": "14号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:39",
+      "lastTime": "23:25",
+      "startStationName": "善各庄",
+      "startStationDeviceLocation": 150998621,
+      "terminalStationName": "张郭庄",
+      "terminalStationDeviceLocation": 150998549,
+      "sourceStationName": "善各庄",
+      "sourceStationDeviceLocation": 150998621,
+      "destStationName": "张郭庄",
+      "destStationDeviceLocation": 150998549,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998581,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "蒲黄榆",
+    "stationCode": null,
+    "stationDeviceLocation": 150996285,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "（5号线)开往天通苑北方向车尾\n（5号线)站台开往宋家庄方向车头\n开往张郭庄方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "（5号线)开往天通苑北方向车尾\n开往张郭庄方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "（5号线)开往天通苑北方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)无\nF口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)A口（出站）\n（5号线)B口（进、出站，局部设扶梯）\n（5号线)C口 （进、出站）\n（5号线)D口 （进、出站）\nE口（出站）\nF口（进、出站）\nG口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)有\n有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)开往天通苑北方向，有站台到站厅\n（5号线)开往天通苑北方向，无站厅到站台\n（5号线)开往宋家庄方向，有站台到站厅\n（5号线)开往宋家庄方向，无站厅到站台\n开往张郭庄方向，有站厅到站台\n开往张郭庄方向，有站台到站厅\n开往善各庄方向，有站厅到站台\n开往善各庄方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "（5号线)C口楼梯",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "（5号线)无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "（5号线)直梯外站厅层、站台层、直梯内            （5号线)南、北厅TVM\n（5号线)南、北厅ITVM\nG口外侧墙（可通话）\n站台东侧（可通话）\n站台中部（可通话）\n站台西部（可通话）\n站厅东侧墙壁，靠近综控室（可通话）\n无障碍卫生间招援(仅呼叫)",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "（5号线)站厅中部（付费区）\n站台开往张郭庄方向第4门",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "（5号线)C口坡道\nF口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "（5号线)南厅（非付费区）\n（5号线)北厅（非付费区）\n西厅（E口）\n东厅（F口、G口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "（5号线)南厅办公区\n东厅（G口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "蒲黄榆路",
+          "蒲安北里",
+          "蒲黄榆派出所",
+          "北京联合大学特殊教育学院"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "蒲芳路",
+          "芳古园一区",
+          "方庄体育园",
+          "NTP新城广场",
+          "恒丰银行北京方庄支行"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "蒲黄榆路",
+          "芳群园一区"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "安乐林路",
+          "北京市丰台区芳古园小学（西校区）",
+          "蒲安里",
+          "景泰蓝艺术博物馆"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "蒲黄榆路东侧",
+          "NTP新城广场"
+        ]
+      },
+      {
+        "name": "F",
+        "desc": null,
+        "nearby": [
+          "蒲方路北侧",
+          "方庄体育公园"
+        ]
+      },
+      {
+        "name": "G",
+        "desc": null,
+        "nearby": [
+          "蒲方路南侧",
+          "中央音乐学院附中",
+          "芳群园第一小学"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212677,
+      "stationDeviceLocation": 150996285,
+      "stationCode": null,
+      "longitude": 116.42372,
+      "latitude": 39.865621,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "618",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-蒲黄榆站-宋家庄站方向-工作日.jpg",
+        "stationCode": "0561",
+        "lineCode": "05",
+        "stationNameCn": "蒲黄榆"
+      },
+      {
+        "id": "428",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-蒲黄榆站-宋家庄站方向-双休日.jpg",
+        "stationCode": "0561",
+        "lineCode": "05",
+        "stationNameCn": "蒲黄榆"
+      },
+      {
+        "id": "1197",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-蒲黄榆站-天通苑北站方向-工作日.jpg",
+        "stationCode": "0561",
+        "lineCode": "05",
+        "stationNameCn": "蒲黄榆"
+      },
+      {
+        "id": "1246",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-蒲黄榆站-天通苑北站方向-双休日.jpg",
+        "stationCode": "0561",
+        "lineCode": "05",
+        "stationNameCn": "蒲黄榆"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

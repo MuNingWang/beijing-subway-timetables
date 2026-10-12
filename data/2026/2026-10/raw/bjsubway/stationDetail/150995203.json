@@ -1,0 +1,486 @@
+{
+  "lines": [
+    {
+      "lineCode": "01",
+      "lineColor": "BE3631",
+      "lineId": 1,
+      "lineName": "1号线八通线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:09",
+      "lastTime": "22:47",
+      "startStationName": "古城",
+      "startStationDeviceLocation": 150995204,
+      "terminalStationName": "环球度假区",
+      "terminalStationDeviceLocation": 151019792,
+      "sourceStationName": "古城",
+      "sourceStationDeviceLocation": 150995204,
+      "destStationName": "环球度假区",
+      "destStationDeviceLocation": 151019792,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995203,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "01",
+      "lineColor": "BE3631",
+      "lineId": 1,
+      "lineName": "1号线八通线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:09",
+      "lastTime": "23:29",
+      "startStationName": "古城",
+      "startStationDeviceLocation": 150995204,
+      "terminalStationName": "四惠东",
+      "terminalStationDeviceLocation": 150995225,
+      "sourceStationName": "古城",
+      "sourceStationDeviceLocation": 150995204,
+      "destStationName": "四惠东",
+      "destStationDeviceLocation": 150995225,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150995203,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "01",
+      "lineColor": "BE3631",
+      "lineId": 1,
+      "lineName": "1号线八通线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": null,
+      "lastTime": null,
+      "startStationName": "环球度假区",
+      "startStationDeviceLocation": 151019792,
+      "terminalStationName": "苹果园",
+      "terminalStationDeviceLocation": 150995203,
+      "sourceStationName": "环球度假区",
+      "sourceStationDeviceLocation": 151019792,
+      "destStationName": "苹果园",
+      "destStationDeviceLocation": 150995203,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995203,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "01",
+      "lineColor": "BE3631",
+      "lineId": 1,
+      "lineName": "1号线八通线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": null,
+      "lastTime": null,
+      "startStationName": "环球度假区",
+      "startStationDeviceLocation": 151019792,
+      "terminalStationName": "古城",
+      "terminalStationDeviceLocation": 150995204,
+      "sourceStationName": "环球度假区",
+      "sourceStationDeviceLocation": 151019792,
+      "destStationName": "古城",
+      "destStationDeviceLocation": 150995204,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150995203,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "06",
+      "lineColor": "D29404",
+      "lineId": 6,
+      "lineName": "6号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:08",
+      "lastTime": "22:26",
+      "startStationName": "金安桥",
+      "startStationDeviceLocation": 150996489,
+      "terminalStationName": "潞阳",
+      "terminalStationDeviceLocation": 150996559,
+      "sourceStationName": "金安桥",
+      "sourceStationDeviceLocation": 150996489,
+      "destStationName": "潞阳",
+      "destStationDeviceLocation": 150996559,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996491,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "06",
+      "lineColor": "D29404",
+      "lineId": 6,
+      "lineName": "6号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:08",
+      "lastTime": "23:37",
+      "startStationName": "金安桥",
+      "startStationDeviceLocation": 150996489,
+      "terminalStationName": "草房",
+      "terminalStationDeviceLocation": 150996541,
+      "sourceStationName": "金安桥",
+      "sourceStationDeviceLocation": 150996489,
+      "destStationName": "草房",
+      "destStationDeviceLocation": 150996541,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150996491,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "06",
+      "lineColor": "D29404",
+      "lineId": 6,
+      "lineName": "6号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "4:59",
+      "lastTime": "0:13",
+      "startStationName": "潞阳",
+      "startStationDeviceLocation": 150996559,
+      "terminalStationName": "金安桥",
+      "terminalStationDeviceLocation": 150996489,
+      "sourceStationName": "潞阳",
+      "sourceStationDeviceLocation": 150996559,
+      "destStationName": "金安桥",
+      "destStationDeviceLocation": 150996489,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996491,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "06",
+      "lineColor": "D29404",
+      "lineId": 6,
+      "lineName": "6号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "4:59",
+      "lastTime": null,
+      "startStationName": "潞阳",
+      "startStationDeviceLocation": 150996559,
+      "terminalStationName": "海淀五路居",
+      "terminalStationDeviceLocation": 150996501,
+      "sourceStationName": "潞阳",
+      "sourceStationDeviceLocation": 150996559,
+      "destStationName": "海淀五路居",
+      "destStationDeviceLocation": 150996501,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150996491,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "91",
+      "lineColor": "B0561F",
+      "lineId": 91,
+      "lineName": "S1线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:51",
+      "lastTime": "23:32",
+      "startStationName": "苹果园",
+      "startStationDeviceLocation": 151018275,
+      "terminalStationName": "石厂",
+      "terminalStationDeviceLocation": 151018261,
+      "sourceStationName": "苹果园",
+      "sourceStationDeviceLocation": 151018275,
+      "destStationName": "石厂",
+      "destStationDeviceLocation": 151018261,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151018275,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "苹果园",
+    "stationCode": null,
+    "stationDeviceLocation": 150995203,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：东厅\n1号线八通线：西厅\n6号线：站台开往金安桥方向车尾（男卫）\n6号线：站台开往潞城方向车头（女卫）\nS1线：站台开往石厂方向车尾\nS1线：站台开往苹果园方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：东厅\n1号线八通线：西厅\n6号线：站台开往金安桥方向车尾\nS1线：站台开往石厂方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：东厅\n6号线：站台开往金安桥方向车尾\nS1线：站台开往石厂方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：A口\n1号线八通线：B口\n6号线：G口\nS1线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：A口（进、出站）\n1号线八通线：B口（进、出站）\n1号线八通线：C口（进、出站）\n1号线八通线：D口（进、出站）\n6号线：H口（进、出站）\n6号线：E口（进、出站）\n6号线：F口（进、出站）\n6号线：G口（进、出站）\nS1线：J口（进、出站）\nS1线：I口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：无\n6号线：厅台中部开往金安桥方向19门\nS1线：厅台东端开往石厂方向车尾\nS1线：厅台中部开往苹果园方向",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：无\n6号线：开往金安桥方向，有站厅到站台\n6号线：开往金安桥方向，有站台到站厅\n6号线：开往潞阳方向，有站厅到站台\n6号线：开往潞阳方向，有站台到站厅\nS1线：开往苹果园方向，有站厅到站台\nS1线：开往苹果园方向，有站台到站厅\nS1线：开往石厂方向，有站厅到站台\nS1线：开往石厂方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：无\n6号线：无\nS1线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：无\n6号线：站厅东厅，靠近综控室\nS1线：站厅东厅，靠近综控室\nS1线：J口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：东厅人工售票厅（可通话）、残卫（仅呼叫）\n1号线八通线：西厅人工售票厅（可通话）、残卫（仅呼叫）\n6号线：E、H口人工售票厅（可通话）\n6号线：F、G口人工售票厅（可通话）\n残卫（仅呼叫）\nS1线：站台两端（可通话）\nS1线：I口人工售票厅（可通话）\nS1线：J口人工售票厅（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：站厅西厅\n6号线：站厅中部，靠近楼梯（付费区）\nS1线：站厅中部，靠近安检休息室（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：A口、B口、苹果汇\n6号线：G口坡道\nS1线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：东厅（B口/C口）\n1号线八通线：西厅（A口/D口）\n6号线：东厅\n6号线：西厅\n站厅（J口/I口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：东厅\n6号线：东厅\n东厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "苹果园中街",
+          "苹果园路",
+          "金顶山公园；"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "苹果园中街",
+          "苹果园路",
+          "金顶山公园；"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "苹果园交通枢纽；"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "苹果园交通枢纽。"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "苹果园南路",
+          "前海人寿大厦"
+        ]
+      },
+      {
+        "name": "F",
+        "desc": null,
+        "nearby": [
+          "苹果园南路",
+          "琅山南街",
+          "苹果园公园"
+        ]
+      },
+      {
+        "name": "G",
+        "desc": null,
+        "nearby": [
+          "苹果园南路",
+          "阜石路",
+          "琅山南街",
+          "苹果园公园。"
+        ]
+      },
+      {
+        "name": "H",
+        "desc": null,
+        "nearby": [
+          "苹果园南路",
+          "阜石路",
+          "苹果园交通枢纽",
+          "喜隆多购物中心"
+        ]
+      },
+      {
+        "name": "I",
+        "desc": null,
+        "nearby": [
+          "阜石路（北侧）"
+        ]
+      },
+      {
+        "name": "J",
+        "desc": null,
+        "nearby": [
+          "阜石路（北侧）"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212673,
+      "stationDeviceLocation": 150995203,
+      "stationCode": null,
+      "longitude": 116.177388,
+      "latitude": 39.926727,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "2126",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/1号线-苹果园站-环球度假区站方向-工作日.jpg",
+        "stationCode": "0103",
+        "lineCode": "01",
+        "stationNameCn": "苹果园"
+      },
+      {
+        "id": "2125",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/1号线-苹果园站-环球度假区站方向-双休日.jpg",
+        "stationCode": "0103",
+        "lineCode": "01",
+        "stationNameCn": "苹果园"
+      },
+      {
+        "id": "1799",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/6号线-苹果园站-金安桥站方向-工作日.jpg",
+        "stationCode": "0611",
+        "lineCode": "06",
+        "stationNameCn": "苹果园"
+      },
+      {
+        "id": "1800",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/6号线-苹果园站-金安桥站方向-双休日.jpg",
+        "stationCode": "0611",
+        "lineCode": "06",
+        "stationNameCn": "苹果园"
+      },
+      {
+        "id": "1804",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/6号线-苹果园站-潞阳站方向-工作日.jpg",
+        "stationCode": "0611",
+        "lineCode": "06",
+        "stationNameCn": "苹果园"
+      },
+      {
+        "id": "1798",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/6号线-苹果园站-潞阳站方向-双休日.jpg",
+        "stationCode": "0611",
+        "lineCode": "06",
+        "stationNameCn": "苹果园"
+      },
+      {
+        "id": "404",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/S1线-苹果园站-石厂站方向-工作日.jpg",
+        "stationCode": "9135",
+        "lineCode": "91",
+        "stationNameCn": "苹果园"
+      },
+      {
+        "id": "526",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/S1线-苹果园站-石厂站方向-双休日.jpg",
+        "stationCode": "9135",
+        "lineCode": "91",
+        "stationNameCn": "苹果园"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [
+    {
+      "lineCode": null,
+      "lineId": 1,
+      "type": "02",
+      "contentDesc": "06月22日 19:00"
+    }
+  ],
+  "guideUrl": null
+}

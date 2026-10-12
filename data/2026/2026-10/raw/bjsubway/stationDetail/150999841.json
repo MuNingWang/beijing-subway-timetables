@@ -1,0 +1,252 @@
+{
+  "lines": [
+    {
+      "lineCode": "19",
+      "lineColor": "D6ABC1",
+      "lineId": 19,
+      "lineName": "19号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:47",
+      "lastTime": "23:27",
+      "startStationName": "牡丹园",
+      "startStationDeviceLocation": 150999829,
+      "terminalStationName": "新宫",
+      "terminalStationDeviceLocation": 150999847,
+      "sourceStationName": "牡丹园",
+      "sourceStationDeviceLocation": 150999829,
+      "destStationName": "新宫",
+      "destStationDeviceLocation": 150999847,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150999841,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "19",
+      "lineColor": "D6ABC1",
+      "lineId": 19,
+      "lineName": "19号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:39",
+      "lastTime": "23:34",
+      "startStationName": "新宫",
+      "startStationDeviceLocation": 150999847,
+      "terminalStationName": "牡丹园",
+      "terminalStationDeviceLocation": 150999829,
+      "sourceStationName": "新宫",
+      "sourceStationDeviceLocation": 150999847,
+      "destStationName": "牡丹园",
+      "destStationDeviceLocation": 150999829,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150999841,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "14",
+      "lineColor": "D4A7A1",
+      "lineId": 14,
+      "lineName": "14号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:24",
+      "lastTime": "23:10",
+      "startStationName": "张郭庄",
+      "startStationDeviceLocation": 150998549,
+      "terminalStationName": "善各庄",
+      "terminalStationDeviceLocation": 150998621,
+      "sourceStationName": "张郭庄",
+      "sourceStationDeviceLocation": 150998549,
+      "destStationName": "善各庄",
+      "destStationDeviceLocation": 150998621,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998571,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "14",
+      "lineColor": "D4A7A1",
+      "lineId": 14,
+      "lineName": "14号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:51",
+      "lastTime": "23:35",
+      "startStationName": "善各庄",
+      "startStationDeviceLocation": 150998621,
+      "terminalStationName": "张郭庄",
+      "terminalStationDeviceLocation": 150998549,
+      "sourceStationName": "善各庄",
+      "sourceStationDeviceLocation": 150998621,
+      "destStationName": "张郭庄",
+      "destStationDeviceLocation": 150998549,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998571,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "景风门",
+    "stationCode": null,
+    "stationDeviceLocation": 150999841,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "开往善各庄方向车头\n开往新宫方向车尾（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "开往善各庄方向车头\n开往新宫方向车尾（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "D口\nG口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "B口（进、出站）\nD口（进、出站）\nE口（进、出站）\nG口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往张郭庄方向，有站厅到站台\n开往张郭庄方向，有站台到站厅\n开往善各庄方向，有站厅到站台\n开往善各庄方向，有站台到站厅\n开往牡丹园方向，有站厅到站台\n开往牡丹园方向，有站台到站厅\n开往新宫方向，有站厅到站台\n开往新宫方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "车站备品间",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "站台中部（可通话）\n站厅西侧墙壁，靠近综控室（可通话）\n无障碍卫生间招援(仅呼叫)\nE口票亭（可通话）\nG口票亭（可通话）\n上行站台15门旁柱子、下行站台14门旁柱子（可通话）\n无障碍卫生间（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站台开往张郭庄方向第12门\n站厅北厅（靠近综控室，非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "D口坡道\nE口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "东厅（B口）\n地面厅（D口）\n南厅（G口）\n北厅（E口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "站厅中部\n北厅（E口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "右安门外大街北侧",
+          "丰台区妇幼保健院"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "右安门外大街",
+          "北京开阳中医医院",
+          "桔子酒店北京南站北广场店"
+        ]
+      },
+      {
+        "name": "G",
+        "desc": null,
+        "nearby": [
+          "丰台右安门医院",
+          "玉林南路",
+          "如家精选酒店",
+          "右安门外大街",
+          "右安门外大街南侧"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212691,
+      "stationDeviceLocation": 150999841,
+      "stationCode": null,
+      "longitude": 116.365805,
+      "latitude": 39.862723,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": null
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

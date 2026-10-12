@@ -1,0 +1,316 @@
+{
+  "lines": [
+    {
+      "lineCode": "05",
+      "lineColor": "A5237A",
+      "lineId": 5,
+      "lineName": "5号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:28",
+      "lastTime": "23:16",
+      "startStationName": "天通苑北",
+      "startStationDeviceLocation": 150996245,
+      "terminalStationName": "宋家庄",
+      "terminalStationDeviceLocation": 150996289,
+      "sourceStationName": "天通苑北",
+      "sourceStationDeviceLocation": 150996245,
+      "destStationName": "宋家庄",
+      "destStationDeviceLocation": 150996289,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996269,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "05",
+      "lineColor": "A5237A",
+      "lineId": 5,
+      "lineName": "5号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:41",
+      "lastTime": "23:32",
+      "startStationName": "宋家庄",
+      "startStationDeviceLocation": 150996289,
+      "terminalStationName": "天通苑北",
+      "terminalStationDeviceLocation": 150996245,
+      "sourceStationName": "宋家庄",
+      "sourceStationDeviceLocation": 150996289,
+      "destStationName": "天通苑北",
+      "destStationDeviceLocation": 150996245,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996269,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "98",
+      "lineColor": "A09AB8",
+      "lineId": 98,
+      "lineName": "首都机场线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:56",
+      "lastTime": "22:26",
+      "startStationName": "北新桥",
+      "startStationDeviceLocation": 151020051,
+      "terminalStationName": "2号航站楼",
+      "terminalStationDeviceLocation": 151020057,
+      "sourceStationName": "北新桥",
+      "sourceStationDeviceLocation": 151020051,
+      "destStationName": "2号航站楼",
+      "destStationDeviceLocation": 151020057,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151020051,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "98",
+      "lineColor": "A09AB8",
+      "lineId": 98,
+      "lineName": "首都机场线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": null,
+      "lastTime": null,
+      "startStationName": "2号航站楼",
+      "startStationDeviceLocation": 151020057,
+      "terminalStationName": "北新桥",
+      "terminalStationDeviceLocation": 151020051,
+      "sourceStationName": "2号航站楼",
+      "sourceStationDeviceLocation": 151020057,
+      "destStationName": "北新桥",
+      "destStationDeviceLocation": 151020051,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151020051,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "北新桥",
+    "stationCode": null,
+    "stationDeviceLocation": 150996269,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "（5号线)开往天通苑北方向车头\n首都机场线：B3层站厅北侧综控室左侧通道内",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "（5号线)开往天通苑北方向车头\n首都机场线：B4层上行站台车尾开往北新桥方向",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "（5号线)开往天通苑北方向车头\n首都机场线：B3层站厅北侧综控室左侧",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "首都机场线：A口\n首都机场线：E口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)B(出站,局部设扶梯)\n（5号线)C(出站）\n（5号线)D(出站）\n首都机场线：A口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)有\n首都机场线：开往北新桥站方向有\n首都机场线：开往首都机场方向有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)开往宋家庄车头，有站台到站厅\n（5号线)开往宋家庄车头，无站厅到站台\n（5号线)开往宋家庄方向，有站台到站厅\n（5号线)开往宋家庄方向，无站厅到站台\n首都机场线：开往北新桥站方向，有站台到站厅\n首都机场线：开往首都机场方向，有站厅到站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "（5号线)D口楼梯\n（5号线)D口通道楼梯\n首都机场线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "首都机场线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "（5号线)D口楼梯（可通话）\n（5号线)D口通道楼梯（可通话）\n（5号线)站台直梯处（仅呼叫）；\n（5号线)站厅直梯处（仅呼叫）；\n（5号线)直梯内（可通话）\n首都机场线：\nA口直梯(地面层），A口直梯(B1层北侧)\nB1层直梯(站厅西侧)\nB2层站厅西侧(付费区)，B2层站厅西侧(付费区)，B2层站厅西南侧(非付费区)，B2层站厅出站闸机(付费区)\nB3层站厅母婴室，B3层站厅西北侧墙面，B3层站厅西北侧墙面，B3层站厅直梯处，B3层站厅西北侧墙面(靠近票亭)\nB3层站厅东侧(TVM处)，B3层站厅南侧(E口直梯处)，B3层站厅南侧(E口直梯处)，B3层站厅票厅外(非付费区)，B3层站厅中部直梯(付费区)，B3层站厅出站闸机(付费区)，B3层站厅中部闸机处(非付费区)\nB4层下行站台东侧墙面，B4层下行站台中部直梯处，B4层西行站台西南墙面(未启用) ，B4层下行站台西南墙面，B4层上行站台中部北墙面(未启用)，B4层上行站台东北墙面，B4层上行站台直梯处，B4层上行站台直梯处，B4层上行站台第三卫生间\nE口地面直梯处，E口地面直梯处",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "（5号线)站厅中部，靠近CD口出站闸机（付费区）\n首都机场线：B3层站厅北侧综控室前",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "（5号线)D口坡道\n首都机场线：A口坡道\n首都机场线：E口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "（5号线)北厅（AB口）\n（5号线)南厅（CD口）\n首都机场线：B3层站厅东侧",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "（5号线)无\n首都机场线： B3层站厅南侧",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "A西北口：交道口东大街",
+          "雍和宫大街",
+          "北京第六医院",
+          "北京市第二十二中学",
+          "北京市东城区图书馆",
+          "北京市东城区人民法院",
+          "北京市东城区人民法院调解中心；"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "东直门内大街",
+          "北新桥头条",
+          "簋街",
+          "胡大饭馆簋街总店"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "东直门内大街",
+          "簋街",
+          "胡大饭馆簋街三店"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "东四北大街",
+          "交东小区",
+          "北京市第五中学",
+          "田汉故居"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "E西南口：交道口东大街；"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212677,
+      "stationDeviceLocation": 150996269,
+      "stationCode": null,
+      "longitude": 116.416884,
+      "latitude": 39.940782,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1173",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-北新桥站-宋家庄站方向-工作日.jpg",
+        "stationCode": "0545",
+        "lineCode": "05",
+        "stationNameCn": "北新桥"
+      },
+      {
+        "id": "1223",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-北新桥站-宋家庄站方向-双休日.jpg",
+        "stationCode": "0545",
+        "lineCode": "05",
+        "stationNameCn": "北新桥"
+      },
+      {
+        "id": "1174",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-北新桥站-天通苑北站方向-工作日.jpg",
+        "stationCode": "0545",
+        "lineCode": "05",
+        "stationNameCn": "北新桥"
+      },
+      {
+        "id": "1224",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-北新桥站-天通苑北站方向-双休日.jpg",
+        "stationCode": "0545",
+        "lineCode": "05",
+        "stationNameCn": "北新桥"
+      },
+      {
+        "id": "2075",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/首都机场线-北新桥站-首都机场方向.jpg",
+        "stationCode": "9819",
+        "lineCode": "98",
+        "stationNameCn": "北新桥"
+      },
+      {
+        "id": "2020",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/首都机场线-北新桥站-首都机场方向-周五.jpg",
+        "stationCode": "9819",
+        "lineCode": "98",
+        "stationNameCn": "北新桥"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

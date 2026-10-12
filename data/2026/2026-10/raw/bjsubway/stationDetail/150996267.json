@@ -1,0 +1,382 @@
+{
+  "lines": [
+    {
+      "lineCode": "05",
+      "lineColor": "A5237A",
+      "lineId": 5,
+      "lineName": "5号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:26",
+      "lastTime": "23:14",
+      "startStationName": "天通苑北",
+      "startStationDeviceLocation": 150996245,
+      "terminalStationName": "宋家庄",
+      "terminalStationDeviceLocation": 150996289,
+      "sourceStationName": "天通苑北",
+      "sourceStationDeviceLocation": 150996245,
+      "destStationName": "宋家庄",
+      "destStationDeviceLocation": 150996289,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996267,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "05",
+      "lineColor": "A5237A",
+      "lineId": 5,
+      "lineName": "5号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:43",
+      "lastTime": "23:34",
+      "startStationName": "宋家庄",
+      "startStationDeviceLocation": 150996289,
+      "terminalStationName": "天通苑北",
+      "terminalStationDeviceLocation": 150996245,
+      "sourceStationName": "宋家庄",
+      "sourceStationDeviceLocation": 150996289,
+      "destStationName": "天通苑北",
+      "destStationDeviceLocation": 150996245,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996267,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "02",
+      "lineColor": "0F6192",
+      "lineId": 2,
+      "lineName": "2号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:27",
+      "lastTime": "22:48",
+      "startStationName": "东直门",
+      "startStationDeviceLocation": 150995470,
+      "terminalStationName": "安定门",
+      "terminalStationDeviceLocation": 150995472,
+      "sourceStationName": "西直门",
+      "sourceStationDeviceLocation": 150995457,
+      "destStationName": "西直门",
+      "destStationDeviceLocation": 150995457,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995471,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "02",
+      "lineColor": "0F6192",
+      "lineId": 2,
+      "lineName": "2号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:27",
+      "lastTime": "23:33",
+      "startStationName": "东直门",
+      "startStationDeviceLocation": 150995470,
+      "terminalStationName": "安定门",
+      "terminalStationDeviceLocation": 150995472,
+      "sourceStationName": "西直门",
+      "sourceStationDeviceLocation": 150995457,
+      "destStationName": "积水潭",
+      "destStationDeviceLocation": 150995474,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150995471,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "02",
+      "lineColor": "0F6192",
+      "lineId": 2,
+      "lineName": "2号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:10",
+      "lastTime": "22:25",
+      "startStationName": "安定门",
+      "startStationDeviceLocation": 150995472,
+      "terminalStationName": "东直门",
+      "terminalStationDeviceLocation": 150995470,
+      "sourceStationName": "积水潭",
+      "sourceStationDeviceLocation": 150995474,
+      "destStationName": "积水潭",
+      "destStationDeviceLocation": 150995474,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995471,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "02",
+      "lineColor": "0F6192",
+      "lineId": 2,
+      "lineName": "2号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:10",
+      "lastTime": "23:09",
+      "startStationName": "安定门",
+      "startStationDeviceLocation": 150995472,
+      "terminalStationName": "东直门",
+      "terminalStationDeviceLocation": 150995470,
+      "sourceStationName": "积水潭",
+      "sourceStationDeviceLocation": 150995474,
+      "destStationName": "西直门",
+      "destStationDeviceLocation": 150995457,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150995471,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "雍和宫",
+    "stationCode": null,
+    "stationDeviceLocation": 150996267,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "2号线：开往安定门方向车尾\n（5号线)开往宋家庄方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "2号线：开往安定门方向车尾\n（5号线)开往宋家庄方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "2号线：开往安定门方向车尾\n（5号线)开往宋家庄方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "2号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "2号线：无\n（5号线)E口（出站）                                      （5号线)F口（出站 ）                           （5号线)G口（出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "2号线：无\n（5号线)有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "2号线：无\n（5号线)开往天通苑北方向，有站台到站厅\n（5号线)开往天通苑北方向，有站厅到站台\n（5号线)开往宋家庄方向，有站台到站厅\n（5号线)开往宋家庄方向，有站厅到站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "2号线：C口楼梯\n（5号线)E口楼梯\n（5号线)F口楼梯\n（5号线)站台南侧楼梯（下行）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "2号线：站厅西厅，靠近C口进站闸机\n（5号线)站台中部，靠近扶梯",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "2号线：C口\n2号线：站台西侧，靠近开往东直门方向21门\n（5号线)E口楼梯\n（5号线)F口楼梯\n（5号线)站台南侧楼梯（下行）\n（5号线)站厅直梯处（仅呼叫）\n（5号线)站台直梯处（仅呼叫）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "2号线：站厅西厅，靠近A口安检（非付费区）\n（5号线)站厅北侧，靠近地铁便利店（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "2号线：C口坡道\n（5号线)E口坡道\n（5号线)F口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "2号线：站厅西厅\n（5号线)北厅（非付费区）\n（5号线)南厅（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "2号线：站厅东厅，靠近站厅南侧\n（5号线)北厅办公区",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "安定门东大街北侧",
+          "地坛公园"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "安定门东大街南侧",
+          "北京市公安局入境管理处",
+          "慈铭体检雍和宫分院"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "慈铭体检雍和宫分院",
+          "安定门东大街南侧",
+          "安定门东大街",
+          "雍和宫"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "安定门东大街",
+          "雍和宫桥",
+          "地坛公园"
+        ]
+      },
+      {
+        "name": "F",
+        "desc": null,
+        "nearby": [
+          "雍和宫大街",
+          "北新胡同",
+          "雍和宫"
+        ]
+      },
+      {
+        "name": "G",
+        "desc": null,
+        "nearby": [
+          "雍和宫大街",
+          "五道营胡同",
+          "国子监",
+          "北京国子监中学"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212677,
+      "stationDeviceLocation": 150996267,
+      "stationCode": null,
+      "longitude": 116.417069,
+      "latitude": 39.949336,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "614",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/2号线-雍和宫站-安定门站方向-工作日.jpg",
+        "stationCode": "0215",
+        "lineCode": "02",
+        "stationNameCn": "雍和宫"
+      },
+      {
+        "id": "242",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/2号线-雍和宫站-安定门站方向-双休日.jpg",
+        "stationCode": "0215",
+        "lineCode": "02",
+        "stationNameCn": "雍和宫"
+      },
+      {
+        "id": "793",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/2号线-雍和宫站-东直门站方向-工作日.jpg",
+        "stationCode": "0215",
+        "lineCode": "02",
+        "stationNameCn": "雍和宫"
+      },
+      {
+        "id": "1220",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/2号线-雍和宫站-东直门站方向-双休日.jpg",
+        "stationCode": "0215",
+        "lineCode": "02",
+        "stationNameCn": "雍和宫"
+      },
+      {
+        "id": "1201",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-雍和宫站-宋家庄站方向-工作日.jpg",
+        "stationCode": "0543",
+        "lineCode": "05",
+        "stationNameCn": "雍和宫"
+      },
+      {
+        "id": "1250",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-雍和宫站-宋家庄站方向-双休日.jpg",
+        "stationCode": "0543",
+        "lineCode": "05",
+        "stationNameCn": "雍和宫"
+      },
+      {
+        "id": "1202",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-雍和宫站-天通苑北站方向-工作日.jpg",
+        "stationCode": "0543",
+        "lineCode": "05",
+        "stationNameCn": "雍和宫"
+      },
+      {
+        "id": "1251",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-雍和宫站-天通苑北站方向-双休日.jpg",
+        "stationCode": "0543",
+        "lineCode": "05",
+        "stationNameCn": "雍和宫"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

@@ -1,0 +1,230 @@
+{
+  "lines": [
+    {
+      "lineCode": "96",
+      "lineColor": "E20072",
+      "lineId": 96,
+      "lineName": "亦庄线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "6:18",
+      "lastTime": "23:38",
+      "startStationName": "宋家庄",
+      "startStationDeviceLocation": 151019541,
+      "terminalStationName": "亦庄火车站",
+      "terminalStationDeviceLocation": 151019567,
+      "sourceStationName": "宋家庄",
+      "sourceStationDeviceLocation": 151019541,
+      "destStationName": "亦庄火车站",
+      "destStationDeviceLocation": 151019567,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019555,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "96",
+      "lineColor": "E20072",
+      "lineId": 96,
+      "lineName": "亦庄线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:36",
+      "lastTime": "22:55",
+      "startStationName": "亦庄火车站",
+      "startStationDeviceLocation": 151019567,
+      "terminalStationName": "宋家庄",
+      "terminalStationDeviceLocation": 151019541,
+      "sourceStationName": "亦庄火车站",
+      "sourceStationDeviceLocation": 151019567,
+      "destStationName": "宋家庄",
+      "destStationDeviceLocation": 151019541,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019555,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "荣京东街",
+    "stationCode": null,
+    "stationDeviceLocation": 151019555,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "站厅北厅付费区：\n靠近去往亦庄火车站方向扶梯\n站厅南厅付费区：\n靠近去往亦庄火车站方向步梯",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "站厅北厅付费区：\n靠近去往亦庄火车站方向扶梯",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "站厅北厅付费区：\n靠近去往亦庄火车站方向扶梯",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "站台北侧开往亦庄火车站方向，有\n站台北侧开往宋家庄方向，有\n站厅北厅付费区",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "北厅开往宋家庄方向，有站厅到站台\n北厅开往宋家庄方向，有站台到站厅\n北厅开往亦庄火车站方向，有站厅到站台\n北厅开往亦庄火车站方向，有站台到站厅\n南厅开往宋家庄方向，有站厅到站台\n南厅开往亦庄火车站方向，有站厅到站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "A1口人工售票厅旁\nA1口自助购票机旁\nA1口进站闸机旁\nB1口人工售票厅旁\nB1口自助购票机旁\nB1口进站闸机旁\n站厅北厅，残疾人卫生间内\n上行直梯内\n下行直梯内",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站厅南厅，靠近B1口安检（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "A1口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "北厅非付费区4台（1台暂停使用）\n南厅非付费区4台（1台暂停使用）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "办公区南侧进门处",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A1",
+        "desc": null,
+        "nearby": [
+          "荣京东街",
+          "荣华中路",
+          "荣华南路",
+          "宏达中路",
+          "宏达北路"
+        ]
+      },
+      {
+        "name": "B1",
+        "desc": null,
+        "nearby": [
+          "荣华南路",
+          "兴盛街",
+          "宏达中路",
+          "永昌中路",
+          "大族广场",
+          "北京荣华中西医结合医院"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212768,
+      "stationDeviceLocation": 151019555,
+      "stationCode": null,
+      "longitude": 116.51339,
+      "latitude": 39.793132,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1649",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/亦庄线-荣京东街站-宋家庄站方向-工作日.jpg",
+        "stationCode": "9635",
+        "lineCode": "96",
+        "stationNameCn": "荣京东街"
+      },
+      {
+        "id": "1629",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/亦庄线-荣京东街站-宋家庄站方向-双休日.jpg",
+        "stationCode": "9635",
+        "lineCode": "96",
+        "stationNameCn": "荣京东街"
+      },
+      {
+        "id": "1650",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/亦庄线-荣京东街站-亦庄火车站方向-工作日.jpg",
+        "stationCode": "9635",
+        "lineCode": "96",
+        "stationNameCn": "荣京东街"
+      },
+      {
+        "id": "518",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/亦庄线-荣京东街站-亦庄火车站方向-双休日.jpg",
+        "stationCode": "9635",
+        "lineCode": "96",
+        "stationNameCn": "荣京东街"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

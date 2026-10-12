@@ -1,0 +1,459 @@
+{
+  "lines": [
+    {
+      "lineCode": "17",
+      "lineColor": "00A9A9",
+      "lineId": 17,
+      "lineName": "17号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:53",
+      "lastTime": "23:15",
+      "startStationName": "未来科学城北",
+      "startStationDeviceLocation": 150999317,
+      "terminalStationName": "嘉会湖",
+      "terminalStationDeviceLocation": 150999357,
+      "sourceStationName": "未来科学城北",
+      "sourceStationDeviceLocation": 150999317,
+      "destStationName": "嘉会湖",
+      "destStationDeviceLocation": 150999357,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150999345,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "17",
+      "lineColor": "00A9A9",
+      "lineId": 17,
+      "lineName": "17号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:39",
+      "lastTime": "22:51",
+      "startStationName": "嘉会湖",
+      "startStationDeviceLocation": 150999357,
+      "terminalStationName": "未来科学城北",
+      "terminalStationDeviceLocation": 150999317,
+      "sourceStationName": "嘉会湖",
+      "sourceStationDeviceLocation": 150999357,
+      "destStationName": "未来科学城北",
+      "destStationDeviceLocation": 150999317,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150999345,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:27",
+      "lastTime": "21:37",
+      "startStationName": "潘家园",
+      "startStationDeviceLocation": 151018007,
+      "terminalStationName": "分钟寺",
+      "terminalStationDeviceLocation": 151018011,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151018009,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:27",
+      "lastTime": "23:45",
+      "startStationName": "潘家园",
+      "startStationDeviceLocation": 151018007,
+      "terminalStationName": "分钟寺",
+      "terminalStationDeviceLocation": 151018011,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "成寿寺",
+      "destStationDeviceLocation": 151018013,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151018009,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:27",
+      "lastTime": "23:21",
+      "startStationName": "潘家园",
+      "startStationDeviceLocation": 151018007,
+      "terminalStationName": "分钟寺",
+      "terminalStationDeviceLocation": 151018011,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151018009,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:31",
+      "lastTime": "21:44",
+      "startStationName": "分钟寺",
+      "startStationDeviceLocation": 151018011,
+      "terminalStationName": "潘家园",
+      "terminalStationDeviceLocation": 151018007,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151018009,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:31",
+      "lastTime": "23:29",
+      "startStationName": "分钟寺",
+      "startStationDeviceLocation": 151018011,
+      "terminalStationName": "潘家园",
+      "terminalStationDeviceLocation": 151018007,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151018009,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "14",
+      "lineColor": "D4A7A1",
+      "lineId": 14,
+      "lineName": "14号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:40",
+      "lastTime": "23:25",
+      "startStationName": "张郭庄",
+      "startStationDeviceLocation": 150998549,
+      "terminalStationName": "善各庄",
+      "terminalStationDeviceLocation": 150998621,
+      "sourceStationName": "张郭庄",
+      "sourceStationDeviceLocation": 150998549,
+      "destStationName": "善各庄",
+      "destStationDeviceLocation": 150998621,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998585,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "14",
+      "lineColor": "D4A7A1",
+      "lineId": 14,
+      "lineName": "14号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:34",
+      "lastTime": "23:19",
+      "startStationName": "善各庄",
+      "startStationDeviceLocation": 150998621,
+      "terminalStationName": "张郭庄",
+      "terminalStationDeviceLocation": 150998549,
+      "sourceStationName": "善各庄",
+      "sourceStationDeviceLocation": 150998621,
+      "destStationName": "张郭庄",
+      "destStationDeviceLocation": 150998549,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998585,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "十里河",
+    "stationCode": null,
+    "stationDeviceLocation": 150999345,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "开往分钟寺方向车头（付费区）\n开往张郭庄方向车头\n开往未来科学城北方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "10号线：开往分钟寺方向车头（付费区）\n开往张郭庄方向车头\n开往未来科学城北方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "10号线：开往分钟寺方向车头（付费区）\n开往未来科学城北方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "10号线：D口\nG口\nL口\nJ口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "10号线：A口（进、出站）\n10号线：B口（进、出站）\n10号线：D口（进、出站）\nG口（进、出站）\nH口（进、出站）\nJ口（进、出站）\nK1口（进、出站）\nL口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "10号线：有\n有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "10号线：开往分钟寺方向，有站厅到站台\n10号线：开往分钟寺方向，有站台到站厅\n10号线：开往潘家园方向，有站厅到站台，\n10号线：开往潘家园方向，有站台到站厅\n开往张郭庄方向，有站厅到站台\n开往张郭庄方向，有站台到站厅\n开往善各庄方向，有站厅到站台\n开往善各庄方向，有站台到站厅\n开往未来科学城北方向，有站台到站厅\n开往未来科学北方向，有站厅到站台\n开往嘉会湖方向，有站厅到站台\n开往嘉会湖方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "10号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "10号线：无\n站厅南侧，14号线换乘10号线通道，靠近14号线侧",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "10号线：A、B口售票室（可通话）\n10号线：D口售票室（可通话）\nH口（可通话）\n无障碍卫生间招援（仅呼叫）\n综控室前（可通话）\n站台两端（可通话）\n北站厅（可通话）\n站台中部及两端（可通话）\n西站厅侧墙（可通话）\n2号疏散通道前（可通话）\n综合控制室前（可通话）\n无障碍卫生间招援（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "10号线：站厅南侧，靠近D口进站闸机（付费区）\n站台开往善各庄方向第17门\n站台开往未来科学城北方向第27门",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "10号线：D口坡道\nG口坡道\nJ口坡道\nL口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "10号线：南厅（D口）\n10号线：北厅（A,口、B口）\n南厅（H口）\n北厅（E口）\n东厅（K口、J口）\n西厅（L口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "10号线：南厅（D口）\n南厅（G口）\n东厅（K口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "弘燕南一路",
+          "北京朝阳中西医结合急诊抢救医院",
+          "北京大望路急诊抢救医院",
+          "北京劲松中西医结合医院；"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "大羊坊路",
+          "吕营大街",
+          "十里河灯饰城",
+          "民乐建材广场",
+          "北京大望路急诊抢救医院南区；"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "东三环辅路",
+          "家和家美家居商城",
+          "美联天地建材商城；"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "左安路北侧",
+          "北京汇文实验小学朝阳分校",
+          "北京汇文中学朝阳学校",
+          "联合国际大厦",
+          "十八里店派出所巡逻警务站",
+          "十里河文化园"
+        ]
+      },
+      {
+        "name": "G",
+        "desc": null,
+        "nearby": [
+          "东三环路西侧",
+          "雅园国际"
+        ]
+      },
+      {
+        "name": "H",
+        "desc": null,
+        "nearby": [
+          "左安路南侧"
+        ]
+      },
+      {
+        "name": "J",
+        "desc": null,
+        "nearby": [
+          "大羊坊路",
+          "东三环"
+        ]
+      },
+      {
+        "name": "K1",
+        "desc": null,
+        "nearby": [
+          "大羊坊路",
+          "吕营大街",
+          "家和家美家居商城"
+        ]
+      },
+      {
+        "name": "K2",
+        "desc": null,
+        "nearby": [
+          "大羊坊路",
+          "吕营大街",
+          "家和家美家居商城"
+        ]
+      },
+      {
+        "name": "L",
+        "desc": null,
+        "nearby": [
+          "大羊坊路",
+          "吕营大街"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212689,
+      "stationDeviceLocation": 150999345,
+      "stationCode": null,
+      "longitude": 116.457983,
+      "latitude": 39.866417,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "38",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-十里河站-潘家园站方向-工作日.jpg",
+        "stationCode": "9025",
+        "lineCode": "10",
+        "stationNameCn": "十里河"
+      },
+      {
+        "id": "318",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-十里河站-潘家园站方向-双休日.jpg",
+        "stationCode": "9025",
+        "lineCode": "10",
+        "stationNameCn": "十里河"
+      },
+      {
+        "id": "1164",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-十里河站-分钟寺站方向-工作日.jpg",
+        "stationCode": "9025",
+        "lineCode": "10",
+        "stationNameCn": "十里河"
+      },
+      {
+        "id": "2060",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-十里河站-分钟寺站方向-双休日.jpg",
+        "stationCode": "9025",
+        "lineCode": "10",
+        "stationNameCn": "十里河"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

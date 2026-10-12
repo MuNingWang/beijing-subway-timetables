@@ -1,0 +1,269 @@
+{
+  "lines": [
+    {
+      "lineCode": "13",
+      "lineColor": "F8E114",
+      "lineId": 13,
+      "lineName": "13号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:23",
+      "lastTime": "23:36",
+      "startStationName": "西直门",
+      "startStationDeviceLocation": 150998293,
+      "terminalStationName": "东直门",
+      "terminalStationDeviceLocation": 150998323,
+      "sourceStationName": "西直门",
+      "sourceStationDeviceLocation": 150998293,
+      "destStationName": "东直门",
+      "destStationDeviceLocation": 150998323,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998321,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "13",
+      "lineColor": "F8E114",
+      "lineId": 13,
+      "lineName": "13号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:23",
+      "lastTime": null,
+      "startStationName": "西直门",
+      "startStationDeviceLocation": 150998293,
+      "terminalStationName": "霍营",
+      "terminalStationDeviceLocation": 150998309,
+      "sourceStationName": "西直门",
+      "sourceStationDeviceLocation": 150998293,
+      "destStationName": "霍营",
+      "destStationDeviceLocation": 150998309,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150998321,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "13",
+      "lineColor": "F8E114",
+      "lineId": 13,
+      "lineName": "13号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:37",
+      "lastTime": "22:52",
+      "startStationName": "东直门",
+      "startStationDeviceLocation": 150998323,
+      "terminalStationName": "西直门",
+      "terminalStationDeviceLocation": 150998293,
+      "sourceStationName": "东直门",
+      "sourceStationDeviceLocation": 150998323,
+      "destStationName": "西直门",
+      "destStationDeviceLocation": 150998293,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998321,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "13",
+      "lineColor": "F8E114",
+      "lineId": 13,
+      "lineName": "13号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:37",
+      "lastTime": "23:47",
+      "startStationName": "东直门",
+      "startStationDeviceLocation": 150998323,
+      "terminalStationName": "回龙观",
+      "terminalStationDeviceLocation": 150998307,
+      "sourceStationName": "东直门",
+      "sourceStationDeviceLocation": 150998323,
+      "destStationName": "回龙观",
+      "destStationDeviceLocation": 150998307,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150998321,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "柳芳",
+    "stationCode": null,
+    "stationDeviceLocation": 150998321,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "西侧站厅（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "西侧站厅（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "西侧站厅（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "开往西直门方向，有\n开往东直门方向，有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往西直门方向，有站厅到站台\n开往西直门方向，无站台到站厅\n开往东直门方向，有站厅到站台\n开往东直门方向，无站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "A口楼梯",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站厅南侧，靠近A口楼梯（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "A口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "南厅（A口）\n北厅（B口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "南厅（B口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "东土城路",
+          "和平里北街"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "西坝河南路",
+          "和平里北街"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212685,
+      "stationDeviceLocation": 150998321,
+      "stationCode": null,
+      "longitude": 116.432728,
+      "latitude": 39.958157,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1296",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/13号线-柳芳站-西直门站方向-工作日.jpg",
+        "stationCode": "1349",
+        "lineCode": "13",
+        "stationNameCn": "柳芳"
+      },
+      {
+        "id": "1262",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/13号线-柳芳站-西直门站方向-双休日.jpg",
+        "stationCode": "1349",
+        "lineCode": "13",
+        "stationNameCn": "柳芳"
+      },
+      {
+        "id": "280",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/13号线-柳芳站-东直门站方向-工作日.jpg",
+        "stationCode": "1349",
+        "lineCode": "13",
+        "stationNameCn": "柳芳"
+      },
+      {
+        "id": "686",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/13号线-柳芳站-东直门站方向-双休日.jpg",
+        "stationCode": "1349",
+        "lineCode": "13",
+        "stationNameCn": "柳芳"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

@@ -1,0 +1,263 @@
+{
+  "lines": [
+    {
+      "lineCode": "07",
+      "lineColor": "F9C374",
+      "lineId": 7,
+      "lineName": "7号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:36",
+      "lastTime": "23:06",
+      "startStationName": "北京西站",
+      "startStationDeviceLocation": 150996757,
+      "terminalStationName": "环球度假区",
+      "terminalStationDeviceLocation": 150996815,
+      "sourceStationName": "北京西站",
+      "sourceStationDeviceLocation": 150996757,
+      "destStationName": "环球度假区",
+      "destStationDeviceLocation": 150996815,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996763,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "07",
+      "lineColor": "F9C374",
+      "lineId": 7,
+      "lineName": "7号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:36",
+      "lastTime": "23:21",
+      "startStationName": "北京西站",
+      "startStationDeviceLocation": 150996757,
+      "terminalStationName": "高楼金",
+      "terminalStationDeviceLocation": 150996811,
+      "sourceStationName": "北京西站",
+      "sourceStationDeviceLocation": 150996757,
+      "destStationName": "高楼金",
+      "destStationDeviceLocation": 150996811,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150996763,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "07",
+      "lineColor": "F9C374",
+      "lineId": 7,
+      "lineName": "7号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:47",
+      "lastTime": "0:01",
+      "startStationName": "环球度假区",
+      "startStationDeviceLocation": 150996815,
+      "terminalStationName": "北京西站",
+      "terminalStationDeviceLocation": 150996757,
+      "sourceStationName": "环球度假区",
+      "sourceStationDeviceLocation": 150996815,
+      "destStationName": "北京西站",
+      "destStationDeviceLocation": 150996757,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996763,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "广安门内",
+    "stationCode": null,
+    "stationDeviceLocation": 150996763,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "开往北京西站方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "开往北京西站方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "开往北京西站方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "B口 、C口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "A口（进、 出站）            B口（进、 出站 ）                   C口（ 出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往环球度假区方向.有站台到站厅             开往环球度假区方向.有站台到站厅             开往环球度假区方向.有站台到站厅                开往北京西站方向.有站厅到站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "站台两端\n站厅东厅墙壁，靠近综控室（可通话）\n站厅西厅墙壁，靠近自助售票机（可通话）\nA口人工售票厅\nB、C口人工售票厅\n站厅东厅柱子靠近B、C口进站闸机（可通话）\n站厅东厅出站闸机柱子（Bom室后）（可通话）\n站厅西厅柱子靠近A口进站闸机（可通话）\n站厅西厅出站闸机柱子（Bom室旁）（可通话）\n站厅西厅C口直梯通道处（FAM旁）（可通话）\n站厅-站台直梯（可通话）\nB口直梯（可通话）\nC口直梯（可通话）\n站台无障碍卫生间内               A口西厅BOM旁可视招援                               A口西厅进站闸机旁可视招援（可通话）                               A口西厅查询机旁可视招援 （可通话）                                  BC东厅口出站闸机旁可视招援 （可通话）                           BC口东厅进站闸机处可视招援 （可通话）                           BC口东厅BOM处可视招援（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站厅东厅，靠近综控室（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "B口坡道\nC口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "东厅（B口、C口）                      西厅（A口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "东厅（ B口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "广安门内大街",
+          "广义街",
+          "银建健康体检",
+          "信息大厦",
+          "北京小学",
+          "北京元瀚乒乓球俱乐部",
+          "广安门中医院"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "长椿街",
+          "广安门内大街",
+          "康乐里小区",
+          "宣南文化博物馆",
+          "首都医科大学宣武医院"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "白广路",
+          "91科技大厦",
+          "菜市口百货；北京京臻律师事务所"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212679,
+      "stationDeviceLocation": 150996763,
+      "stationCode": null,
+      "longitude": 116.358239,
+      "latitude": 39.889418,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1110",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/7号线-广安门内站-环球度假区站方向-工作日.jpg",
+        "stationCode": "0727",
+        "lineCode": "07",
+        "stationNameCn": "广安门内"
+      },
+      {
+        "id": "1138",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/7号线-广安门内站-环球度假区站方向-双休日.jpg",
+        "stationCode": "0727",
+        "lineCode": "07",
+        "stationNameCn": "广安门内"
+      },
+      {
+        "id": "323",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/7号线-广安门内站-北京西站方向-工作日.jpg",
+        "stationCode": "0727",
+        "lineCode": "07",
+        "stationNameCn": "广安门内"
+      },
+      {
+        "id": "297",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/7号线-广安门内站-北京西站方向-双休日.jpg",
+        "stationCode": "0727",
+        "lineCode": "07",
+        "stationNameCn": "广安门内"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

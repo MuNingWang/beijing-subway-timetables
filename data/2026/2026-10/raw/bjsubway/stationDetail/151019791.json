@@ -1,0 +1,386 @@
+{
+  "lines": [
+    {
+      "lineCode": "01",
+      "lineColor": "BE3631",
+      "lineId": 97,
+      "lineName": "1号线八通线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:02",
+      "lastTime": "0:13",
+      "startStationName": "古城",
+      "startStationDeviceLocation": 150995204,
+      "terminalStationName": "环球度假区",
+      "terminalStationDeviceLocation": 151019792,
+      "sourceStationName": "古城",
+      "sourceStationDeviceLocation": 150995204,
+      "destStationName": "环球度假区",
+      "destStationDeviceLocation": 151019792,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019791,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "01",
+      "lineColor": "BE3631",
+      "lineId": 97,
+      "lineName": "1号线八通线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:02",
+      "lastTime": null,
+      "startStationName": "古城",
+      "startStationDeviceLocation": 150995204,
+      "terminalStationName": "四惠东",
+      "terminalStationDeviceLocation": 150995225,
+      "sourceStationName": "古城",
+      "sourceStationDeviceLocation": 150995204,
+      "destStationName": "四惠东",
+      "destStationDeviceLocation": 150995225,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151019791,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "01",
+      "lineColor": "BE3631",
+      "lineId": 97,
+      "lineName": "1号线八通线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:12",
+      "lastTime": "22:37",
+      "startStationName": "环球度假区",
+      "startStationDeviceLocation": 151019792,
+      "terminalStationName": "苹果园",
+      "terminalStationDeviceLocation": 150995203,
+      "sourceStationName": "环球度假区",
+      "sourceStationDeviceLocation": 151019792,
+      "destStationName": "苹果园",
+      "destStationDeviceLocation": 150995203,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019791,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "01",
+      "lineColor": "BE3631",
+      "lineId": 97,
+      "lineName": "1号线八通线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:12",
+      "lastTime": "22:58",
+      "startStationName": "环球度假区",
+      "startStationDeviceLocation": 151019792,
+      "terminalStationName": "古城",
+      "terminalStationDeviceLocation": 150995204,
+      "sourceStationName": "环球度假区",
+      "sourceStationDeviceLocation": 151019792,
+      "destStationName": "古城",
+      "destStationDeviceLocation": 150995204,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151019791,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "07",
+      "lineColor": "F9C374",
+      "lineId": 7,
+      "lineName": "7号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:53",
+      "lastTime": "0:05",
+      "startStationName": "北京西站",
+      "startStationDeviceLocation": 150996757,
+      "terminalStationName": "环球度假区",
+      "terminalStationDeviceLocation": 150996815,
+      "sourceStationName": "北京西站",
+      "sourceStationDeviceLocation": 150996757,
+      "destStationName": "环球度假区",
+      "destStationDeviceLocation": 150996815,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996813,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "07",
+      "lineColor": "F9C374",
+      "lineId": 7,
+      "lineName": "7号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:53",
+      "lastTime": null,
+      "startStationName": "北京西站",
+      "startStationDeviceLocation": 150996757,
+      "terminalStationName": "高楼金",
+      "terminalStationDeviceLocation": 150996811,
+      "sourceStationName": "北京西站",
+      "sourceStationDeviceLocation": 150996757,
+      "destStationName": "高楼金",
+      "destStationDeviceLocation": 150996811,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150996813,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "07",
+      "lineColor": "F9C374",
+      "lineId": 7,
+      "lineName": "7号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:12",
+      "lastTime": "23:02",
+      "startStationName": "环球度假区",
+      "startStationDeviceLocation": 150996815,
+      "terminalStationName": "北京西站",
+      "terminalStationDeviceLocation": 150996757,
+      "sourceStationName": "环球度假区",
+      "sourceStationDeviceLocation": 150996815,
+      "destStationName": "北京西站",
+      "destStationDeviceLocation": 150996757,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996813,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "花庄",
+    "stationCode": null,
+    "stationDeviceLocation": 151019791,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "1号线-八通线：开往苹果园方向车尾\n（7号线）开往北京西站方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "1号线-八通线：开往苹果园方向车尾\n（7号线）开往北京西站方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "1号线-八通线：开往苹果园方向车尾\n（7号线）开往北京西站方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "1号线-八通线：C口\n1号线-八通线：A口（暂停使用）\n（7号线）C口\n（7号线）A口（暂停使用）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "1号线-八通线：A口（进、出站）\n1号线-八通线：B口（进、出站）\n1号线-八通线：C口（进、出站）\n1号线-八通线：D口（进、出站）\n（7号线）A口（进、出站）\n（7号线）B口（进、出站）\n（7号线）C口（进、出站）\n（7号线）D口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "1号线-八通线：有\n（7号线）有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "1号线-八通线：开往苹果园方向，有站厅到站台\n1号线-八通线：开往苹果园方向，无站台到站厅\n1号线-八通线：开往环球度假区方向，无站厅到站台\n1号线-八通线：开往环球度假区方向，有站台到站厅\n（7号线）开往北京西站方向，有站厅到站台\n（7号线）开往北京西站方向，有站台到站厅\n（7号线）开往环球度假区方向，有站厅到站台\n（7号线）开往环球度假区方向，有站台到站厅\n（7号线）直梯对面，有站厅到站台，\n（7号线）直梯对面，无站台到站厅。",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "1号线-八通线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "1号线-八通线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "1号线-八通线：站台两端（可通话）\n1号线-八通线：站厅北侧墙壁，靠近B口（可通话）\n1号线-八通线：站厅南侧墙壁，靠近D口（可通话）\n1号线-八通线：北厅出站闸机旁可视化招援（可通话）\n1号线-八通线：南厅出站闸机旁可视化招援（可通话）\n1号线-八通线：站厅中部储物柜旁可视化招援（可通话）\n1号线-八通线：A、B口人工售票厅（可通话）\n1号线-八通线：B、C口人工售票厅（可通话）\n1号线-八通线：B、C口人工售票厅可视化招援（可通话）\n1号线-八通线：C、D口人工售票厅（可通话）\n1号线-八通线：A、D口人工售票厅（可通话）\n1号线-八通线：A、D口人工售票厅可视化招援（可通话）\n1号线-八通线：A口进站闸机旁可视化招援（可通话）\n1号线-八通线：B口进站闸机旁可视化招援（可通话）\n1号线-八通线：C口进站闸机旁可视化招援（可通话）\n1号线-八通线：D口进站闸机旁可视化招援（可通话）\n1号线-八通线：站台残卫内（可通话）\n1号线-八通线：站台母婴室内（可通话）\n（7号线）站台两端（可通话）\n（7号线）站厅北侧墙壁，靠近B口（可通话）\n（7号线）站厅南侧墙壁，靠近D口（可通话）\n（7号线）北厅出站闸机旁可视化招援（可通话）\n（7号线）南厅出站闸机旁可视化招援（可通话）\n（7号线）站厅中部储物柜旁可视化招援（可通话）\n（7号线）A、B口人工售票厅（可通话）\n（7号线）B、C口人工售票厅（可通话）\n（7号线）B、C口人工售票厅可视化招援（可通话）\n（7号线）C、D口人工售票厅（可通话）\n（7号线）A、D口人工售票厅（可通话）\n（7号线）A、D口人工售票厅可视化招援（可通话）\n（7号线）A口进站闸机旁可视化招援（可通话）\n（7号线）B口进站闸机旁可视化招援（可通话）\n（7号线）C口进站闸机旁可视化招援（可通话）\n（7号线）D口进站闸机旁可视化招援（可通话）\n（7号线）站台残卫内（可通话）\n（7号线）站台母婴室内（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "1号线-八通线：站厅中部，靠近A口进站闸机（付费区）\n1号线-八通线：站厅中部，靠近C口进站闸机（付费区）\n（7号线）站厅中部，靠近A口进站闸机（付费区）\n（7号线）站厅中部，靠近C口进站闸机（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "1号线-八通线：A口坡道\n1号线-八通线：C口坡道\n1号线-八通线：D口坡道\n（7号线）A口坡道\n（7号线）C口坡道\n（7号线）D口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "1号线-八通线：东厅（B口、C口）\n1号线-八通线：西厅（A口、D口）\n（7号线）东厅（B口、C口）\n（7号线）西厅（A口、D口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "1号线-八通线：南厅（C口）\n（7号线）南厅（C口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "东六环路",
+          "大玉园北路",
+          "湾里WANLI"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "东六环路",
+          "大玉园北路",
+          "张采路"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "东六环路",
+          "大玉园北路",
+          "张采路"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "东六环路",
+          "大玉园北路",
+          "湾里WANLI"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212769,
+      "stationDeviceLocation": 151019791,
+      "stationCode": null,
+      "longitude": 116.695495,
+      "latitude": 39.856722,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "2189",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/八通线-花庄站-苹果园站方向-工作日.jpg",
+        "stationCode": "9715",
+        "lineCode": "01",
+        "stationNameCn": "花庄"
+      },
+      {
+        "id": "2190",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/八通线-花庄站-苹果园站方向-双休日.jpg",
+        "stationCode": "9715",
+        "lineCode": "01",
+        "stationNameCn": "花庄"
+      },
+      {
+        "id": "2187",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/八通线-花庄站-环球度假区站方向-工作日.jpg",
+        "stationCode": "9715",
+        "lineCode": "01",
+        "stationNameCn": "花庄"
+      },
+      {
+        "id": "2188",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/八通线-花庄站-环球度假区站方向-双休日.jpg",
+        "stationCode": "9715",
+        "lineCode": "01",
+        "stationNameCn": "花庄"
+      },
+      {
+        "id": "1115",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/7号线-花庄站-环球度假区站方向-工作日.jpg",
+        "stationCode": "0777",
+        "lineCode": "07",
+        "stationNameCn": "花庄"
+      },
+      {
+        "id": "1144",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/7号线-花庄站-环球度假区站方向-双休日.jpg",
+        "stationCode": "0777",
+        "lineCode": "07",
+        "stationNameCn": "花庄"
+      },
+      {
+        "id": "67",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/7号线-花庄站-北京西站方向-工作日.jpg",
+        "stationCode": "0777",
+        "lineCode": "07",
+        "stationNameCn": "花庄"
+      },
+      {
+        "id": "425",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/7号线-花庄站-北京西站方向-双休日.jpg",
+        "stationCode": "0777",
+        "lineCode": "07",
+        "stationNameCn": "花庄"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

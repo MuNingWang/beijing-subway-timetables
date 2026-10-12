@@ -1,0 +1,382 @@
+{
+  "lines": [
+    {
+      "lineCode": "16",
+      "lineColor": "7C9E21",
+      "lineId": 16,
+      "lineName": "16号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:48",
+      "lastTime": "23:09",
+      "startStationName": "北安河",
+      "startStationDeviceLocation": 150999061,
+      "terminalStationName": "宛平城",
+      "terminalStationDeviceLocation": 150999119,
+      "sourceStationName": "北安河",
+      "sourceStationDeviceLocation": 150999061,
+      "destStationName": "宛平城",
+      "destStationDeviceLocation": 150999119,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150999083,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "16",
+      "lineColor": "7C9E21",
+      "lineId": 16,
+      "lineName": "16号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:49",
+      "lastTime": "23:28",
+      "startStationName": "宛平城",
+      "startStationDeviceLocation": 150999119,
+      "terminalStationName": "北安河",
+      "terminalStationDeviceLocation": 150999061,
+      "sourceStationName": "宛平城",
+      "sourceStationDeviceLocation": 150999119,
+      "destStationName": "北安河",
+      "destStationDeviceLocation": 150999061,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150999083,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "4:39",
+      "lastTime": "20:49",
+      "startStationName": "巴沟",
+      "startStationDeviceLocation": 150997505,
+      "terminalStationName": "海淀黄庄",
+      "terminalStationDeviceLocation": 150997509,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997507,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "4:39",
+      "lastTime": "22:57",
+      "startStationName": "巴沟",
+      "startStationDeviceLocation": 150997505,
+      "terminalStationName": "海淀黄庄",
+      "terminalStationDeviceLocation": 150997509,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "成寿寺",
+      "destStationDeviceLocation": 151018013,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997507,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "4:39",
+      "lastTime": "22:33",
+      "startStationName": "巴沟",
+      "startStationDeviceLocation": 150997505,
+      "terminalStationName": "海淀黄庄",
+      "terminalStationDeviceLocation": 150997509,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997507,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "6:19",
+      "lastTime": "22:32",
+      "startStationName": "海淀黄庄",
+      "startStationDeviceLocation": 150997509,
+      "terminalStationName": "巴沟",
+      "terminalStationDeviceLocation": 150997505,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997507,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "6:19",
+      "lastTime": "0:17",
+      "startStationName": "海淀黄庄",
+      "startStationDeviceLocation": 150997509,
+      "terminalStationName": "巴沟",
+      "terminalStationDeviceLocation": 150997505,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997507,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "苏州街",
+    "stationCode": null,
+    "stationDeviceLocation": 150999083,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "站台开往巴沟方向车头（上行）\n站台开往海淀黄庄方向车头（下行）\n开往宛平城方向车头\n开往北安河方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "站台开往巴沟方向车头（上行）\n站台开往海淀黄庄方向车头（下行）\n开往宛平城方向车头\n开往北安河方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "站台开往巴沟方向车头（上行） 站台开往海淀黄庄方向车头（下行）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "A口\nF口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "A口（进、出站）、B口（进、出站）、C口（进、出站）、D口（进、出站）\nA口（进、出站）\nE口（进、出站）\nG口（进、出站）\nF口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "开往巴沟方向，有\n开往海淀黄庄方向，有\n有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往巴沟方向，有站厅到站台\n开往巴沟方向，有站台到站厅\n开往海淀黄庄方向，有站台到站厅\n开往海淀黄庄方向，无站厅到站台\n开往北安河方向，有站台到站厅\n开往北安河方向，有站厅到站台\n开往宛平城方向，有站台到站厅\n开往宛平城方向，有站厅到站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "A、D口人工售票厅（可通话）\nB、C口人工售票厅（可通话）\n站厅两端（可通话）\n东南换乘通道，靠近综控室（可通话）\n站台两端（可通话）\n无障碍卫生间招援（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站厅东厅，靠近开往巴沟方向下行楼梯（付费区）\n站台开往宛平城方向第13门",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "A口坡道\nF口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "西厅（A口、D口）、东厅（B口、C口）\n南厅（G口、F口)\n北厅（A口、E口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "东站厅非付费区员工通道内\n南厅（F口、G口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "海淀南路北侧",
+          "海淀南路",
+          "北京市八一学校"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "海淀南路",
+          "海淀中街",
+          " 信凯律师事务所",
+          "信之源律师事务所"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "苏州街 ",
+          "人民大学北路"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "苏州街 ",
+          "万泉河路"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "海淀南路北侧",
+          "北京市八一学校（小学部）",
+          "北京市信息管理学校（中关村校区）",
+          "中关村ART PARK 大融城",
+          "信之源律师事务所"
+        ]
+      },
+      {
+        "name": "F",
+        "desc": null,
+        "nearby": [
+          "海淀南路南侧"
+        ]
+      },
+      {
+        "name": "G",
+        "desc": null,
+        "nearby": [
+          "苏州街西侧"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212688,
+      "stationDeviceLocation": 150999083,
+      "stationCode": null,
+      "longitude": 116.306332,
+      "latitude": 39.975642,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1575",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-苏州街站-海淀黄庄站方向-工作日.jpg",
+        "stationCode": "1003",
+        "lineCode": "10",
+        "stationNameCn": "苏州街"
+      },
+      {
+        "id": "2062",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-苏州街站-海淀黄庄站方向-双休日.jpg",
+        "stationCode": "1003",
+        "lineCode": "10",
+        "stationNameCn": "苏州街"
+      },
+      {
+        "id": "380",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-苏州街站-巴沟站方向-工作日.jpg",
+        "stationCode": "1003",
+        "lineCode": "10",
+        "stationNameCn": "苏州街"
+      },
+      {
+        "id": "161",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-苏州街站-巴沟站方向-双休日.jpg",
+        "stationCode": "1003",
+        "lineCode": "10",
+        "stationNameCn": "苏州街"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

@@ -1,0 +1,353 @@
+{
+  "lines": [
+    {
+      "lineCode": "05",
+      "lineColor": "A5237A",
+      "lineId": 5,
+      "lineName": "5号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:40",
+      "lastTime": "23:28",
+      "startStationName": "天通苑北",
+      "startStationDeviceLocation": 150996245,
+      "terminalStationName": "宋家庄",
+      "terminalStationDeviceLocation": 150996289,
+      "sourceStationName": "天通苑北",
+      "sourceStationDeviceLocation": 150996245,
+      "destStationName": "宋家庄",
+      "destStationDeviceLocation": 150996289,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996281,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "05",
+      "lineColor": "A5237A",
+      "lineId": 5,
+      "lineName": "5号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:29",
+      "lastTime": "23:20",
+      "startStationName": "宋家庄",
+      "startStationDeviceLocation": 150996289,
+      "terminalStationName": "天通苑北",
+      "terminalStationDeviceLocation": 150996245,
+      "sourceStationName": "宋家庄",
+      "sourceStationDeviceLocation": 150996289,
+      "destStationName": "天通苑北",
+      "destStationDeviceLocation": 150996245,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996281,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "07",
+      "lineColor": "F9C374",
+      "lineId": 7,
+      "lineName": "7号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:47",
+      "lastTime": "23:17",
+      "startStationName": "北京西站",
+      "startStationDeviceLocation": 150996757,
+      "terminalStationName": "环球度假区",
+      "terminalStationDeviceLocation": 150996815,
+      "sourceStationName": "北京西站",
+      "sourceStationDeviceLocation": 150996757,
+      "destStationName": "环球度假区",
+      "destStationDeviceLocation": 150996815,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996773,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "07",
+      "lineColor": "F9C374",
+      "lineId": 7,
+      "lineName": "7号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:47",
+      "lastTime": "23:32",
+      "startStationName": "北京西站",
+      "startStationDeviceLocation": 150996757,
+      "terminalStationName": "高楼金",
+      "terminalStationDeviceLocation": 150996811,
+      "sourceStationName": "北京西站",
+      "sourceStationDeviceLocation": 150996757,
+      "destStationName": "高楼金",
+      "destStationDeviceLocation": 150996811,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150996773,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "07",
+      "lineColor": "F9C374",
+      "lineId": 7,
+      "lineName": "7号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:36",
+      "lastTime": "23:50",
+      "startStationName": "环球度假区",
+      "startStationDeviceLocation": 150996815,
+      "terminalStationName": "北京西站",
+      "terminalStationDeviceLocation": 150996757,
+      "sourceStationName": "环球度假区",
+      "sourceStationDeviceLocation": 150996815,
+      "destStationName": "北京西站",
+      "destStationDeviceLocation": 150996757,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996773,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "磁器口",
+    "stationCode": null,
+    "stationDeviceLocation": 150996281,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "（5号线)开往宋家庄方向车头\n（7号线）开往环球方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "（5号线)无\n（7号线）开往北京西站方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "（5号线)无\n（7号线）开往北京西站方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)无\n（7号线）F口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)A口（进、出站）\n（5号线)D口（进、出站）\n（7号线）F口（进、 出站,局部设扶梯）\n（7号线）H口（进、 出站 ）                   （7号线）G口（进、 出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)有\n（7号线）有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)开往天通苑北方向，有站台到站厅\n（5号线)开往天通苑北方向，无站厅到站台\n（5号线)开往宋家庄方向，有站台到站厅\n（5号线)开往宋家庄方向，无站厅到站台\n（7号线）开往环球度假区方向.有站厅到站台\n（7号线）开往环球度假区方向.有站台到站厅\n（7号线）开往北京西站方向.有站厅到站台\n（7号线）开往北京西站方向.有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "（5号线)A口楼梯",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "（5号线)无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "（5号线)南厅TVM、北厅TVM、                    （5号线)北厅ITVM、南厅ITVM、                    （5号线)站厅层直梯外、站台层直梯外、直梯内\n（7号线）站台两端（可通话）\n（7号线）站厅东侧墙壁，靠近综控室（可通话）\n（7号线）H口人工售票厅（可视）\n（7号线）F、G口人工售票厅（可视）\n（7号线）F口进站闸机（可视）\n（7号线）G口出站闸机（可视）\n（7号线）H口出站闸机（可视）\n（7号线）H口进站闸机（可视）\n（7号线）站厅西侧墙壁，靠近7号线换乘5号线北侧换乘通道（可通话）\n（7号线）站台无障碍卫生间(可通话)\n（7号线）厅台直梯（可通话）\n（7号线）F口直梯（可通话）\n(7号线)东厅、西厅TVM群组（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "（5号线)站厅中部，靠近自助售卖机（付费区）\n（7号线）站厅东侧，靠近综控室（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "（5号线)A口坡道\n（7号线）F口直梯、坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "（5号线)南厅（非付费区）\n（5号线)北厅（非付费区）\n（7号线）西厅（H口）\n（7号线）东厅（G口、F口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "（5号线)南厅办公区\n（7号线）东厅（ G、F口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "崇文门外大街",
+          "新世界家园",
+          "兴隆都市馨园",
+          "东审会计师事务所；北京同仁堂崇文门店"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "珠市口东大街",
+          "金鱼池社区",
+          "市十一中",
+          "北京市信德公证处"
+        ]
+      },
+      {
+        "name": "F",
+        "desc": null,
+        "nearby": [
+          "广渠门内大街",
+          "崇文门外大街",
+          "国瑞购物中心",
+          "北京市普仁医院"
+        ]
+      },
+      {
+        "name": "G",
+        "desc": null,
+        "nearby": [
+          "广渠门内大街",
+          "崇文门外大街",
+          "石板胡同",
+          "南河槽胡同",
+          "新裕家园"
+        ]
+      },
+      {
+        "name": "H",
+        "desc": null,
+        "nearby": [
+          "崇文门外大街",
+          "广渠门内大街"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212677,
+      "stationDeviceLocation": 150996281,
+      "stationCode": null,
+      "longitude": 116.41994,
+      "latitude": 39.893172,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "246",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-磁器口站-宋家庄站方向-工作日.jpg",
+        "stationCode": "0557",
+        "lineCode": "05",
+        "stationNameCn": "磁器口"
+      },
+      {
+        "id": "344",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-磁器口站-宋家庄站方向-双休日.jpg",
+        "stationCode": "0557",
+        "lineCode": "05",
+        "stationNameCn": "磁器口"
+      },
+      {
+        "id": "1178",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-磁器口站-天通苑北站方向-工作日.jpg",
+        "stationCode": "0557",
+        "lineCode": "05",
+        "stationNameCn": "磁器口"
+      },
+      {
+        "id": "1228",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-磁器口站-天通苑北站方向-双休日.jpg",
+        "stationCode": "0557",
+        "lineCode": "05",
+        "stationNameCn": "磁器口"
+      },
+      {
+        "id": "1105",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/7号线-磁器口站-环球度假区站方向-工作日.jpg",
+        "stationCode": "0737",
+        "lineCode": "07",
+        "stationNameCn": "磁器口"
+      },
+      {
+        "id": "1162",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/7号线-磁器口站-环球度假区站方向-双休日.jpg",
+        "stationCode": "0737",
+        "lineCode": "07",
+        "stationNameCn": "磁器口"
+      },
+      {
+        "id": "111",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/7号线-磁器口站-北京西站方向-工作日.jpg",
+        "stationCode": "0737",
+        "lineCode": "07",
+        "stationNameCn": "磁器口"
+      },
+      {
+        "id": "184",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/7号线-磁器口站-北京西站方向-双休日.jpg",
+        "stationCode": "0737",
+        "lineCode": "07",
+        "stationNameCn": "磁器口"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

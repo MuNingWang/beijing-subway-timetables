@@ -1,0 +1,57 @@
+{
+  "archive_month": "2026-10",
+  "observation_date": "2026-10-11",
+  "analysis_date": "2026-10-12",
+  "parser_version": "image-counts-1.0.0",
+  "code_sha256": "8222f5beb74eead42c0a324f4cece16e407514fcf9ff16f1851638402e9b1337",
+  "reference_image_sha256": "20478b072fd0b16df73aeba7d26719109134989b5e8da9d92762c1e9bb37abef",
+  "parser_sha256": "50cc47e8059b541b92bfab4688d9881a9fb3af8992cd642561b46d91d4be02ad",
+  "inputs": "monthly raw JSON, HTML and original images only; no processed/OCR input",
+  "image_materials": 1528,
+  "status_counts": {
+    "excluded_material_requires_review": 12,
+    "automatic_checks_passed": 1323,
+    "unsupported_template": 144,
+    "requires_review": 49
+  },
+  "hourly_rows": 26161,
+  "station_summary_records": 1372,
+  "day_ratio_records": 2795,
+  "spatial_records": 345,
+  "adjacent_station_checks": 1145,
+  "first_last_records": 1791,
+  "representative_section_records": 55,
+  "first_last_valid": 1636,
+  "review_queue_records": 315,
+  "previous_month": null,
+  "version_comparison_status": "baseline_only_no_historical_comparison",
+  "short_turn_status": "3 image-specific legends; other images require mapping",
+  "fixed_visual_samples": 9,
+  "fixed_sample_rows": 171,
+  "fixed_visual_samples_passed": true,
+  "accuracy_calibrated": false,
+  "full_manual_review_completed": false,
+  "caveats": [
+    "Automatic checks do not certify count accuracy.",
+    "Counts are station passages, not line-wide train totals or passenger capacity.",
+    "Service span is last minus first; alternative routes remain separate.",
+    "Archive month is acquisition month, not confirmed service-effective month.",
+    "60/count is a frequency proxy, not the distribution of actual headways.",
+    "Clock-hour comparisons do not align identical trains across stations."
+  ],
+  "final_output_audit": {
+    "hourly_csv_rows_reconciled": 26161,
+    "item_bbox_bounds_passed": true,
+    "item_counts_reconciled": true,
+    "station_totals_reconciled": true,
+    "day_type_ratios_recomputed": true,
+    "representative_ratios_recomputed": true,
+    "color_categories_reconciled": true,
+    "unit_test_cases_passed": 7,
+    "raw_archive_integrity": {
+      "original_files_checked": 2012,
+      "mismatches": []
+    },
+    "readiness": "share_with_caveats_machine_candidates_not_full_manual_verification"
+  }
+}

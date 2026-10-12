@@ -1,0 +1,402 @@
+{
+  "lines": [
+    {
+      "lineCode": "01",
+      "lineColor": "BE3631",
+      "lineId": 1,
+      "lineName": "1号线八通线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:13",
+      "lastTime": "23:16",
+      "startStationName": "古城",
+      "startStationDeviceLocation": 150995204,
+      "terminalStationName": "环球度假区",
+      "terminalStationDeviceLocation": 151019792,
+      "sourceStationName": "古城",
+      "sourceStationDeviceLocation": 150995204,
+      "destStationName": "环球度假区",
+      "destStationDeviceLocation": 151019792,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995214,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "01",
+      "lineColor": "BE3631",
+      "lineId": 1,
+      "lineName": "1号线八通线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:13",
+      "lastTime": "23:58",
+      "startStationName": "古城",
+      "startStationDeviceLocation": 150995204,
+      "terminalStationName": "四惠东",
+      "terminalStationDeviceLocation": 150995225,
+      "sourceStationName": "古城",
+      "sourceStationDeviceLocation": 150995204,
+      "destStationName": "四惠东",
+      "destStationDeviceLocation": 150995225,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150995214,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "01",
+      "lineColor": "BE3631",
+      "lineId": 1,
+      "lineName": "1号线八通线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:08",
+      "lastTime": "23:34",
+      "startStationName": "环球度假区",
+      "startStationDeviceLocation": 151019792,
+      "terminalStationName": "苹果园",
+      "terminalStationDeviceLocation": 150995203,
+      "sourceStationName": "环球度假区",
+      "sourceStationDeviceLocation": 151019792,
+      "destStationName": "苹果园",
+      "destStationDeviceLocation": 150995203,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995214,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "01",
+      "lineColor": "BE3631",
+      "lineId": 1,
+      "lineName": "1号线八通线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:08",
+      "lastTime": "23:55",
+      "startStationName": "环球度假区",
+      "startStationDeviceLocation": 151019792,
+      "terminalStationName": "古城",
+      "terminalStationDeviceLocation": 150995204,
+      "sourceStationName": "环球度假区",
+      "sourceStationDeviceLocation": 151019792,
+      "destStationName": "古城",
+      "destStationDeviceLocation": 150995204,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150995214,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "02",
+      "lineColor": "0F6192",
+      "lineId": 2,
+      "lineName": "2号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:16",
+      "lastTime": "22:21",
+      "startStationName": "阜成门",
+      "startStationDeviceLocation": 150995459,
+      "terminalStationName": "长椿街",
+      "terminalStationDeviceLocation": 150995461,
+      "sourceStationName": "西直门",
+      "sourceStationDeviceLocation": 150995457,
+      "destStationName": "西直门",
+      "destStationDeviceLocation": 150995457,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995460,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "02",
+      "lineColor": "0F6192",
+      "lineId": 2,
+      "lineName": "2号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:16",
+      "lastTime": "23:06",
+      "startStationName": "阜成门",
+      "startStationDeviceLocation": 150995459,
+      "terminalStationName": "长椿街",
+      "terminalStationDeviceLocation": 150995461,
+      "sourceStationName": "西直门",
+      "sourceStationDeviceLocation": 150995457,
+      "destStationName": "积水潭",
+      "destStationDeviceLocation": 150995474,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150995460,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "02",
+      "lineColor": "0F6192",
+      "lineId": 2,
+      "lineName": "2号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:24",
+      "lastTime": "22:52",
+      "startStationName": "长椿街",
+      "startStationDeviceLocation": 150995461,
+      "terminalStationName": "阜成门",
+      "terminalStationDeviceLocation": 150995459,
+      "sourceStationName": "积水潭",
+      "sourceStationDeviceLocation": 150995474,
+      "destStationName": "积水潭",
+      "destStationDeviceLocation": 150995474,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995460,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "02",
+      "lineColor": "0F6192",
+      "lineId": 2,
+      "lineName": "2号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:24",
+      "lastTime": "23:36",
+      "startStationName": "长椿街",
+      "startStationDeviceLocation": 150995461,
+      "terminalStationName": "阜成门",
+      "terminalStationDeviceLocation": 150995459,
+      "sourceStationName": "积水潭",
+      "sourceStationDeviceLocation": 150995474,
+      "destStationName": "西直门",
+      "destStationDeviceLocation": 150995457,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150995460,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "复兴门",
+    "stationCode": null,
+    "stationDeviceLocation": 150995214,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：站台开往古城方向车尾\n2号线：站台开往阜成门方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：站台开往古城方向车尾\n2号线：站台开往阜成门方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：站台开往古城方向车尾\n2号线：站台开往阜成门方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：无\n2号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：B口（出站）\n1号线八通线：C口（出站）\n2号线：A口（出站）\n2号线：D口（出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：无\n2号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：无\n2号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：C口楼梯\n1号线八通线：厅台东侧楼梯\n2号线：A口楼梯",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：东厅\n2号线：南厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：C口楼梯（可通话）（可通话）\n1号线八通线：站台东侧楼梯（可通话）\n1号线八通线：站台两端（可通话）\n1号线八通线：站厅东厅，靠近C口通道（可通话）\n2号线：A口（可通话）\n2号线：站台北端（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：站厅东厅，靠近C口通道（付费区）\n2号线：站厅北厅、靠近A口通道（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：C口坡道\n2号线：A口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：B口\n1号线八通线：C口\n2号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "1号线八通线：东厅\n2号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "复兴门内大街北侧",
+          "华泰保险集团",
+          "北京儿童医院；"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "复兴门内大街北侧",
+          "华泰保险集团",
+          "东兴证劵股份有限公司；"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "复兴门内大街南侧",
+          "国家开放大学",
+          "招商银行北京分行营业部",
+          "泰康保险集团股份有限公司",
+          "恒丰银行北京分行；"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212673,
+      "stationDeviceLocation": 150995214,
+      "stationCode": null,
+      "longitude": 116.356866,
+      "latitude": 39.907242,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "2095",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/1号线-复兴门站-苹果园站方向-工作日.jpg",
+        "stationCode": "0114",
+        "lineCode": "01",
+        "stationNameCn": "复兴门"
+      },
+      {
+        "id": "2096",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/1号线-复兴门站-苹果园站方向-双休日.jpg",
+        "stationCode": "0114",
+        "lineCode": "01",
+        "stationNameCn": "复兴门"
+      },
+      {
+        "id": "2093",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/1号线-复兴门站-环球度假区站方向-工作日.jpg",
+        "stationCode": "0114",
+        "lineCode": "01",
+        "stationNameCn": "复兴门"
+      },
+      {
+        "id": "2094",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/1号线-复兴门站-环球度假区站方向-双休日.jpg",
+        "stationCode": "0114",
+        "lineCode": "01",
+        "stationNameCn": "复兴门"
+      },
+      {
+        "id": "740",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/2号线-复兴门站-阜成门站方向-工作日.jpg",
+        "stationCode": "0204",
+        "lineCode": "02",
+        "stationNameCn": "复兴门"
+      },
+      {
+        "id": "1221",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/2号线-复兴门站-阜成门站方向-双休日.jpg",
+        "stationCode": "0204",
+        "lineCode": "02",
+        "stationNameCn": "复兴门"
+      },
+      {
+        "id": "190",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/2号线-复兴门站-长椿街站方向-工作日.jpg",
+        "stationCode": "0204",
+        "lineCode": "02",
+        "stationNameCn": "复兴门"
+      },
+      {
+        "id": "621",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/2号线-复兴门站-长椿街站方向-双休日.jpg",
+        "stationCode": "0204",
+        "lineCode": "02",
+        "stationNameCn": "复兴门"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

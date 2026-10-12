@@ -1,0 +1,344 @@
+{
+  "lines": [
+    {
+      "lineCode": "05",
+      "lineColor": "A5237A",
+      "lineId": 5,
+      "lineName": "5号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:14",
+      "lastTime": "23:02",
+      "startStationName": "天通苑北",
+      "startStationDeviceLocation": 150996245,
+      "terminalStationName": "宋家庄",
+      "terminalStationDeviceLocation": 150996289,
+      "sourceStationName": "天通苑北",
+      "sourceStationDeviceLocation": 150996245,
+      "destStationName": "宋家庄",
+      "destStationDeviceLocation": 150996289,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996257,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "05",
+      "lineColor": "A5237A",
+      "lineId": 5,
+      "lineName": "5号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:55",
+      "lastTime": "23:46",
+      "startStationName": "宋家庄",
+      "startStationDeviceLocation": 150996289,
+      "terminalStationName": "天通苑北",
+      "terminalStationDeviceLocation": 150996245,
+      "sourceStationName": "宋家庄",
+      "sourceStationDeviceLocation": 150996289,
+      "destStationName": "天通苑北",
+      "destStationDeviceLocation": 150996245,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996257,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "15",
+      "lineColor": "6B3777",
+      "lineId": 15,
+      "lineName": "15号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:41",
+      "lastTime": "23:26",
+      "startStationName": "清华东路西口",
+      "startStationDeviceLocation": 150998809,
+      "terminalStationName": "俸伯",
+      "terminalStationDeviceLocation": 150998847,
+      "sourceStationName": "清华东路西口",
+      "sourceStationDeviceLocation": 150998809,
+      "destStationName": "俸伯",
+      "destStationDeviceLocation": 150998847,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998819,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "15",
+      "lineColor": "6B3777",
+      "lineId": 15,
+      "lineName": "15号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:13",
+      "lastTime": "22:57",
+      "startStationName": "俸伯",
+      "startStationDeviceLocation": 150998847,
+      "terminalStationName": "清华东路西口",
+      "terminalStationDeviceLocation": 150998809,
+      "sourceStationName": "俸伯",
+      "sourceStationDeviceLocation": 150998847,
+      "destStationName": "清华东路西口",
+      "destStationDeviceLocation": 150998809,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998819,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "15",
+      "lineColor": "6B3777",
+      "lineId": 15,
+      "lineName": "15号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:13",
+      "lastTime": null,
+      "startStationName": "俸伯",
+      "startStationDeviceLocation": 150998847,
+      "terminalStationName": "马泉营",
+      "terminalStationDeviceLocation": 150998831,
+      "sourceStationName": "俸伯",
+      "sourceStationDeviceLocation": 150998847,
+      "destStationName": "马泉营",
+      "destStationDeviceLocation": 150998831,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150998819,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "大屯路东",
+    "stationCode": null,
+    "stationDeviceLocation": 150996257,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "（5号线)站厅中部（付费区）\n15号线：站台开往俸伯方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "（5号线)站厅中部（付费区）\n15号线：站台开往清华东路西口方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "（5号线)站厅中部（付费区）\n15号线：站台开往清华东路西口方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "15号线：H1口（未启用）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)B1口(进站)\n15号线：G口（进、出站）15号线：H2口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)开往宋家庄方向，有\n（5号线)开往天通苑北方向，有\n15号线：有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)开往天通苑北方向，有站厅到站台（上行）\n（5号线)开往天通苑北方向，无站台到站厅\n（5号线)开往宋家庄方向，有站厅到站台（上行）\n（5号线)开往宋家庄方向，无站台到站厅\n15号线：开往清华东路西口方向，有站厅到站台/有\n站台到站厅；\n15号线：开往俸伯方向，有站厅到站台/有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "（5号线)A1口楼梯\n（5号线)B1口楼梯\n（5号线)5号线换乘15号线换乘通道（非本站设备）\n15号线：G口                                         15号线：15号线换乘5号线换乘通道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "15号线：东厅办公区楼梯间",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "（5号线)A1口楼梯上下方（可通话）\n（5号线)B1口楼梯上下方（可通话）\n（5号线)天通苑北方向站台直梯处（仅呼叫）\n（5号线)天通苑北方向站厅直梯处（仅呼叫）\n（5号线)宋家庄方向站台直梯处（仅呼叫）\n（5号线)宋家庄方向站厅直梯处（仅呼叫）\n15号线：G口楼梯上方(可通话）\n15号线：换乘通道长楼梯下方（可通话）\n15号线：换乘通道短楼梯上方（可通话）\n15号线：站台东端(可通话）\n15号线：站台西端(可通话）\n15号线：站厅中间柱子(可通话）\n15号线：站厅东侧墙壁靠近警务室(可通话）\n15号线：G口人工售票厅(可通话）\n15号线：G口TVM旁(可通话）\n15号线：H口人工售票厅(可通话）\n15号线：H口TVM旁(可通话）\n15号线：站厅西侧墙壁靠近多点便利店(可通话）\n15号线：站台残卫内（可通话）\n15号线：东厅1通道门（可通话）\n15号线：东厅2通道门（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "（5号线)站厅北端，靠近综控室（付费区）\n15号线：站厅进站闸机（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "（5号线)A1口坡道\n（5号线)B1口坡道\n15号线：G口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "（5号线)西厅（非付费区）\n（5号线)东厅（非付费区）\n15号线：东厅（G口）\n15号线：西厅（H口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "（5号线)站厅公共区\n15号线：站厅东厅非付费区（G口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "大屯路",
+          "安慧北里"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "北苑路",
+          "嘉铭园小区",
+          "凯旋城",
+          "DT51",
+          "北京华厦民众眼科医院",
+          "慈铭体检奥亚分院"
+        ]
+      },
+      {
+        "name": "G",
+        "desc": null,
+        "nearby": [
+          "北苑路",
+          "关庄路",
+          "小营北路",
+          "现代花园",
+          "DT51"
+        ]
+      },
+      {
+        "name": "H",
+        "desc": null,
+        "nearby": [
+          "北苑路",
+          "大屯路",
+          "安慧北里逸园"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212677,
+      "stationDeviceLocation": 150996257,
+      "stationCode": null,
+      "longitude": 116.417377,
+      "latitude": 40.003841,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1179",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-大屯路东站-宋家庄站方向-工作日.jpg",
+        "stationCode": "0533",
+        "lineCode": "05",
+        "stationNameCn": "大屯路东"
+      },
+      {
+        "id": "1229",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-大屯路东站-宋家庄站方向-双休日.jpg",
+        "stationCode": "0533",
+        "lineCode": "05",
+        "stationNameCn": "大屯路东"
+      },
+      {
+        "id": "1180",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-大屯路东站-天通苑北站方向-工作日.jpg",
+        "stationCode": "0533",
+        "lineCode": "05",
+        "stationNameCn": "大屯路东"
+      },
+      {
+        "id": "1230",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-大屯路东站-天通苑北站方向-双休日.jpg",
+        "stationCode": "0533",
+        "lineCode": "05",
+        "stationNameCn": "大屯路东"
+      },
+      {
+        "id": "1306",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/15号线-大屯路东站-清华东路西口站方向-工作日.jpg",
+        "stationCode": "1535",
+        "lineCode": "15",
+        "stationNameCn": "大屯路东"
+      },
+      {
+        "id": "1305",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/15号线-大屯路东站-清华东路西口站方向-双休日.jpg",
+        "stationCode": "1535",
+        "lineCode": "15",
+        "stationNameCn": "大屯路东"
+      },
+      {
+        "id": "409",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/15号线-大屯路东站-俸伯站方向-工作日.jpg",
+        "stationCode": "1535",
+        "lineCode": "15",
+        "stationNameCn": "大屯路东"
+      },
+      {
+        "id": "745",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/15号线-大屯路东站-俸伯站方向-双休日.jpg",
+        "stationCode": "1535",
+        "lineCode": "15",
+        "stationNameCn": "大屯路东"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

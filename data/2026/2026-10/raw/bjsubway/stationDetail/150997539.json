@@ -1,0 +1,464 @@
+{
+  "lines": [
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:14",
+      "lastTime": "21:24",
+      "startStationName": "团结湖",
+      "startStationDeviceLocation": 150997537,
+      "terminalStationName": "金台夕照",
+      "terminalStationDeviceLocation": 150997541,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997539,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:14",
+      "lastTime": "23:32",
+      "startStationName": "团结湖",
+      "startStationDeviceLocation": 150997537,
+      "terminalStationName": "金台夕照",
+      "terminalStationDeviceLocation": 150997541,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "成寿寺",
+      "destStationDeviceLocation": 151018013,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997539,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:14",
+      "lastTime": "23:08",
+      "startStationName": "团结湖",
+      "startStationDeviceLocation": 150997537,
+      "terminalStationName": "金台夕照",
+      "terminalStationDeviceLocation": 150997541,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997539,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:43",
+      "lastTime": "21:56",
+      "startStationName": "金台夕照",
+      "startStationDeviceLocation": 150997541,
+      "terminalStationName": "团结湖",
+      "terminalStationDeviceLocation": 150997537,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997539,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:43",
+      "lastTime": "23:42",
+      "startStationName": "金台夕照",
+      "startStationDeviceLocation": 150997541,
+      "terminalStationName": "团结湖",
+      "terminalStationDeviceLocation": 150997537,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997539,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "06",
+      "lineColor": "D29404",
+      "lineId": 6,
+      "lineName": "6号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:53",
+      "lastTime": "23:11",
+      "startStationName": "金安桥",
+      "startStationDeviceLocation": 150996489,
+      "terminalStationName": "潞阳",
+      "terminalStationDeviceLocation": 150996559,
+      "sourceStationName": "金安桥",
+      "sourceStationDeviceLocation": 150996489,
+      "destStationName": "潞阳",
+      "destStationDeviceLocation": 150996559,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996527,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "06",
+      "lineColor": "D29404",
+      "lineId": 6,
+      "lineName": "6号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:53",
+      "lastTime": "0:22",
+      "startStationName": "金安桥",
+      "startStationDeviceLocation": 150996489,
+      "terminalStationName": "草房",
+      "terminalStationDeviceLocation": 150996541,
+      "sourceStationName": "金安桥",
+      "sourceStationDeviceLocation": 150996489,
+      "destStationName": "草房",
+      "destStationDeviceLocation": 150996541,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150996527,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "06",
+      "lineColor": "D29404",
+      "lineId": 6,
+      "lineName": "6号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:14",
+      "lastTime": "23:27",
+      "startStationName": "潞阳",
+      "startStationDeviceLocation": 150996559,
+      "terminalStationName": "金安桥",
+      "terminalStationDeviceLocation": 150996489,
+      "sourceStationName": "潞阳",
+      "sourceStationDeviceLocation": 150996559,
+      "destStationName": "金安桥",
+      "destStationDeviceLocation": 150996489,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996527,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "06",
+      "lineColor": "D29404",
+      "lineId": 6,
+      "lineName": "6号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:14",
+      "lastTime": "0:07",
+      "startStationName": "潞阳",
+      "startStationDeviceLocation": 150996559,
+      "terminalStationName": "海淀五路居",
+      "terminalStationDeviceLocation": 150996501,
+      "sourceStationName": "潞阳",
+      "sourceStationDeviceLocation": 150996559,
+      "destStationName": "海淀五路居",
+      "destStationDeviceLocation": 150996501,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150996527,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "呼家楼",
+    "stationCode": null,
+    "stationDeviceLocation": 150997539,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "6号线：开往潞阳方向车尾\n6号线：开往金安桥方向车头\n10号线：开往金台夕照方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "6号线：开往潞阳方向车尾\n6号线：开往金安桥方向车头\n10号线：开往金台夕照方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "6号线：开往潞阳方向车尾\n6号线：开往金安桥方向车头\n10号线：开往金台夕照方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "6号线：E口\n10号线：C口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "6号线：E口（进站、出站）\n6号线：H口（出站）\n10号线：B口（出站）\n10号线：C口（进、出站）\n10号线：D口（出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "6号线：开往潞阳方向车尾，有\n6号线：开往金安桥方向车头，有\n10号线：有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "6号线：开往潞阳方向，有站台到站厅\n6号线：开往潞阳方向，有站厅到站台\n6号线：开往金安桥方向，有站台到站厅\n6号线：开往金安桥方向，有站厅到站台\n10号线：开往金台夕照方向，有站台到站厅\n10号线：开往金台夕照方向，无站厅到站台\n10号线：开往团结湖方向，有站台到站厅\n10号线：开往团结湖方向，无站厅到站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "10号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "10号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "6号线：无（E、H口人工售票厅，G口人工售票厅，C口售票厅，现场放置联系综控室的直通电话，非招援设备）\n10号线：A口人工售票厅（可通话）\n10号线：B口人工售票厅（可通话）\n10号线：C口人工售票厅（可通话）\n10号线：D口人工售票厅（可通话）\n10号线：站厅北厅，靠近A口出站闸机（可通话）\n10号线：站厅北厅，靠近B口出站闸机（可通话）\n10号线：站厅南厅，靠近C口出站闸机（可通话）\n10号线：站厅南厅，靠近D口出站闸机（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "6号线：站厅西厅，靠近地图信息岛（付费区）\n10号线：站厅南厅，靠近D口人工售票厅（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "6号线：E口坡道\n10号线：C口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "6号线：西厅（EH口、G口）\n6号线：东厅（C口）\n10号线：南厅（C口、D口）\n10号线：北厅（A口、B口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "6号线：西厅（E口）\n10号线：北厅（B口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "东三环北路",
+          "团结湖公园"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "泰康金融大厦",
+          "呼家楼北街",
+          "朝阳北路（南侧）",
+          "东三环北路",
+          "朝阳路；"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "关东店北街",
+          "东三环北路",
+          "北京中讯律师事务所"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "朝阳北路（北侧）",
+          "白家庄路",
+          "南三里屯路",
+          "核桃园北里",
+          "北京朝阳医院"
+        ]
+      },
+      {
+        "name": "F",
+        "desc": null,
+        "nearby": [
+          "暂缓开通"
+        ]
+      },
+      {
+        "name": "G",
+        "desc": null,
+        "nearby": [
+          "西南口：朝阳北路（南侧）",
+          "京广桥",
+          "关东店北街",
+          "金桐东路",
+          "兆丰街",
+          "新城国际"
+        ]
+      },
+      {
+        "name": "H",
+        "desc": null,
+        "nearby": [
+          "西南口：朝阳北路（南侧）",
+          "关东店北街",
+          "兆丰街",
+          "关东店"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212682,
+      "stationDeviceLocation": 150997539,
+      "stationCode": null,
+      "longitude": 116.461618,
+      "latitude": 39.923337,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1765",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/6号线-呼家楼站-金安桥站方向-工作日.jpg",
+        "stationCode": "0647",
+        "lineCode": "06",
+        "stationNameCn": "呼家楼"
+      },
+      {
+        "id": "1760",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/6号线-呼家楼站-金安桥站方向-双休日.jpg",
+        "stationCode": "0647",
+        "lineCode": "06",
+        "stationNameCn": "呼家楼"
+      },
+      {
+        "id": "1767",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/6号线-呼家楼站-潞阳站方向-工作日.jpg",
+        "stationCode": "0647",
+        "lineCode": "06",
+        "stationNameCn": "呼家楼"
+      },
+      {
+        "id": "1766",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/6号线-呼家楼站-潞阳站方向-双休日.jpg",
+        "stationCode": "0647",
+        "lineCode": "06",
+        "stationNameCn": "呼家楼"
+      },
+      {
+        "id": "1602",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-呼家楼站-金台夕照站方向-工作日.jpg",
+        "stationCode": "1035",
+        "lineCode": "10",
+        "stationNameCn": "呼家楼"
+      },
+      {
+        "id": "2040",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-呼家楼站-金台夕照站方向-双休日.jpg",
+        "stationCode": "1035",
+        "lineCode": "10",
+        "stationNameCn": "呼家楼"
+      },
+      {
+        "id": "332",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-呼家楼站-团结湖站方向-工作日.jpg",
+        "stationCode": "1035",
+        "lineCode": "10",
+        "stationNameCn": "呼家楼"
+      },
+      {
+        "id": "52",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-呼家楼站-团结湖站方向-双休日.jpg",
+        "stationCode": "1035",
+        "lineCode": "10",
+        "stationNameCn": "呼家楼"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

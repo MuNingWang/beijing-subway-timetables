@@ -1,0 +1,339 @@
+{
+  "lines": [
+    {
+      "lineCode": "12",
+      "lineColor": "C56B00",
+      "lineId": 12,
+      "lineName": "12号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "6:03",
+      "lastTime": "23:36",
+      "startStationName": "四季青桥",
+      "startStationDeviceLocation": 150998037,
+      "terminalStationName": "东坝北",
+      "terminalStationDeviceLocation": 150998075,
+      "sourceStationName": "四季青桥",
+      "sourceStationDeviceLocation": 150998037,
+      "destStationName": "东坝北",
+      "destStationDeviceLocation": 150998075,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998045,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "12",
+      "lineColor": "C56B00",
+      "lineId": 12,
+      "lineName": "12号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:37",
+      "lastTime": "23:11",
+      "startStationName": "东坝北",
+      "startStationDeviceLocation": 150998075,
+      "terminalStationName": "四季青桥",
+      "terminalStationDeviceLocation": 150998037,
+      "sourceStationName": "东坝北",
+      "sourceStationDeviceLocation": 150998075,
+      "destStationName": "四季青桥",
+      "destStationDeviceLocation": 150998037,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998045,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "04",
+      "lineColor": "008994",
+      "lineId": 4,
+      "lineName": "4号线大兴线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:13",
+      "lastTime": "22:50",
+      "startStationName": "安河桥北",
+      "startStationDeviceLocation": 150995989,
+      "terminalStationName": "天宫院",
+      "terminalStationDeviceLocation": 151018793,
+      "sourceStationName": "安河桥北",
+      "sourceStationDeviceLocation": 150995989,
+      "destStationName": "天宫院",
+      "destStationDeviceLocation": 151018793,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996003,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "04",
+      "lineColor": "008994",
+      "lineId": 4,
+      "lineName": "4号线大兴线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:13",
+      "lastTime": "23:03",
+      "startStationName": "安河桥北",
+      "startStationDeviceLocation": 150995989,
+      "terminalStationName": "公益西桥",
+      "terminalStationDeviceLocation": 150996035,
+      "sourceStationName": "安河桥北",
+      "sourceStationDeviceLocation": 150995989,
+      "destStationName": "公益西桥",
+      "destStationDeviceLocation": 150996035,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150996003,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "04",
+      "lineColor": "008994",
+      "lineId": 4,
+      "lineName": "4号线大兴线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:40",
+      "lastTime": "23:54",
+      "startStationName": "天宫院",
+      "startStationDeviceLocation": 151018793,
+      "terminalStationName": "安河桥北",
+      "terminalStationDeviceLocation": 150995989,
+      "sourceStationName": "天宫院",
+      "sourceStationDeviceLocation": 151018793,
+      "destStationName": "安河桥北",
+      "destStationDeviceLocation": 150995989,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996003,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "人民大学",
+    "stationCode": null,
+    "stationDeviceLocation": 150998045,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "开往安河桥北方向车头\n12号线：站台开往东坝北方向车尾                     12号线：站台开往四季青桥方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "开往安河桥北方向车头\n12号线：站台开往东坝北方向车尾                                       12号线：站台开往四季青桥方向车尾。",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "12号线：开往四季青方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "B口\n12号线：F口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "A1口（出站）\nA2口（出站）\nB口（出站）\nC口（出站）\nD口（出站）\n12号线： E口（进、出站）                        12号线：F口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "有\n12号线：有 开往东坝北方向，有 开往四季青桥方向",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往安河桥北方向，有站台到站厅\n开往安河桥北方向，无站厅到站台\n开往天宫院方向，有站台到站厅\n开往天宫院方向，无站厅到站台\n12号线：开往四季青方向，有站厅到站台             12号线：开往四季青方向有站台到站厅              12号线：开往东坝北方向有站厅到站台\n12号线：开往东坝北方向有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "C口（可通话）\n南站厅非付费区墙壁靠近综控室（可通话）\n站台两端（仅呼叫）\n无障碍卫生间招援(仅呼叫)\n12号线：1号换乘通道直梯B1层（可通话）                 12号线：1号换乘通道直梯B2层（可通话）                 12号线：1号换乘通道B1层墙壁（可通话）                12号线：1号换乘通道B2层墙壁（可通话）                 12号线：2号换乘通道B1层墙壁（可通话）                12号线：2号换乘通道B2层墙壁（可通话）                 12号线：3号换乘通道墙壁（可通话）                          12号线：F口直梯地面层（可通话）                             12号线：F口直梯站厅层（可通话）                             12号线：北厅人工售票窗口（可通话）                       12号线：南厅人工售票窗口（可通话）                       12号线：北厅直梯站厅层（可通话）                           12号线：北厅直梯站台层（可通话）                           12号线：南厅直梯站厅层（可通话）                           12号线：南厅直梯站台层（可通话）                           12号线：开往四季青桥方向残卫（可通话）              12号线：开往四季青桥方向8门（可通话）                12号线：开往四季青桥方向31门（可通话）              12号线：开往东坝北方向残卫（可通话）                 12号线：开往东坝北方向11门（可通话）                  12号线：开往东坝北方向34门（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站台开往天宫院方向第13门\n12号线：北站厅东侧，靠近综控室(非付费区)",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "B口坡道\n12号线：E、F口均有行李坡道\n12号线：F口直梯口为无障碍坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "南厅（C口、D口）\n北厅（A2口、B口）\n12号线：北厅(E口)                               12号线：南厅(F口)",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "北厅付费区非换乘通道侧（A2口）\n12号线：南站厅东侧非付费区(F口)",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A1",
+        "desc": null,
+        "nearby": [
+          "中关村大街西侧",
+          "中国人民大学"
+        ]
+      },
+      {
+        "name": "A2",
+        "desc": null,
+        "nearby": [
+          "中关村大街东侧",
+          "一零一中学",
+          "明天幼稚园集团第二幼儿园",
+          "双榆树中心小学",
+          "双榆树社区卫生服务站",
+          "中国国际人才开发中心",
+          "中关村街道南区联合执法站",
+          "中国邮政"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "东三环西路北侧",
+          "双榆树派出所"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "北三环西路南侧",
+          "双安商场",
+          "北京市盛廷侓师事务所",
+          "北京科技会展中心",
+          "北京恒略侓师事务所"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "中关村南大街西侧",
+          "北京科学会堂"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "北三环西路 双榆树中心小学 北京一零一中(双榆树校区)"
+        ]
+      },
+      {
+        "name": "F",
+        "desc": null,
+        "nearby": [
+          "北三环西路 双安商场  中国人民大学附属中学分校  青云南社区  北京恒略律师事务所  北京市盛廷律师事务所"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212684,
+      "stationDeviceLocation": 150998045,
+      "stationCode": null,
+      "longitude": 116.323388,
+      "latitude": 39.967039,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1473",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/12号线-人民大学站-四季青桥站方向-工作日.jpg",
+        "stationCode": "1229",
+        "lineCode": "12",
+        "stationNameCn": "人民大学"
+      },
+      {
+        "id": "1514",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/12号线-人民大学站-四季青桥站方向-双休日.jpg",
+        "stationCode": "1229",
+        "lineCode": "12",
+        "stationNameCn": "人民大学"
+      },
+      {
+        "id": "1475",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/12号线-人民大学站-东坝北站方向-工作日.jpg",
+        "stationCode": "1229",
+        "lineCode": "12",
+        "stationNameCn": "人民大学"
+      },
+      {
+        "id": "1512",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/12号线-人民大学站-东坝北站方向-双休日.jpg",
+        "stationCode": "1229",
+        "lineCode": "12",
+        "stationNameCn": "人民大学"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

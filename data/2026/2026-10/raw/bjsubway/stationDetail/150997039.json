@@ -1,0 +1,385 @@
+{
+  "lines": [
+    {
+      "lineCode": "08",
+      "lineColor": "009263",
+      "lineId": 8,
+      "lineName": "8号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:23",
+      "lastTime": "23:34",
+      "startStationName": "朱辛庄",
+      "startStationDeviceLocation": 150996997,
+      "terminalStationName": "瀛海",
+      "terminalStationDeviceLocation": 150997065,
+      "sourceStationName": "朱辛庄",
+      "sourceStationDeviceLocation": 150996997,
+      "destStationName": "瀛海",
+      "destStationDeviceLocation": 150997065,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997039,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "08",
+      "lineColor": "009263",
+      "lineId": 8,
+      "lineName": "8号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:38",
+      "lastTime": "23:33",
+      "startStationName": "瀛海",
+      "startStationDeviceLocation": 150997065,
+      "terminalStationName": "朱辛庄",
+      "terminalStationDeviceLocation": 150996997,
+      "sourceStationName": "瀛海",
+      "sourceStationDeviceLocation": 150997065,
+      "destStationName": "朱辛庄",
+      "destStationDeviceLocation": 150996997,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997039,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "02",
+      "lineColor": "0F6192",
+      "lineId": 2,
+      "lineName": "2号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:25",
+      "lastTime": "22:30",
+      "startStationName": "和平门",
+      "startStationDeviceLocation": 150995463,
+      "terminalStationName": "崇文门",
+      "terminalStationDeviceLocation": 150995465,
+      "sourceStationName": "西直门",
+      "sourceStationDeviceLocation": 150995457,
+      "destStationName": "西直门",
+      "destStationDeviceLocation": 150995457,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995464,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "02",
+      "lineColor": "0F6192",
+      "lineId": 2,
+      "lineName": "2号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:25",
+      "lastTime": "23:15",
+      "startStationName": "和平门",
+      "startStationDeviceLocation": 150995463,
+      "terminalStationName": "崇文门",
+      "terminalStationDeviceLocation": 150995465,
+      "sourceStationName": "西直门",
+      "sourceStationDeviceLocation": 150995457,
+      "destStationName": "积水潭",
+      "destStationDeviceLocation": 150995474,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150995464,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "02",
+      "lineColor": "0F6192",
+      "lineId": 2,
+      "lineName": "2号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:16",
+      "lastTime": "22:43",
+      "startStationName": "崇文门",
+      "startStationDeviceLocation": 150995465,
+      "terminalStationName": "和平门",
+      "terminalStationDeviceLocation": 150995463,
+      "sourceStationName": "积水潭",
+      "sourceStationDeviceLocation": 150995474,
+      "destStationName": "积水潭",
+      "destStationDeviceLocation": 150995474,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995464,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "02",
+      "lineColor": "0F6192",
+      "lineId": 2,
+      "lineName": "2号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:16",
+      "lastTime": "23:28",
+      "startStationName": "崇文门",
+      "startStationDeviceLocation": 150995465,
+      "terminalStationName": "和平门",
+      "terminalStationDeviceLocation": 150995463,
+      "sourceStationName": "积水潭",
+      "sourceStationDeviceLocation": 150995474,
+      "destStationName": "西直门",
+      "destStationDeviceLocation": 150995457,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150995464,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "前门",
+    "stationCode": null,
+    "stationDeviceLocation": 150997039,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "2号线：站台开往崇文门方向车尾\n8号线：站台开往朱辛庄方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "2号线：站台开往崇文门方向车尾\n8号线：站台开往朱辛庄方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "2号线：站台开往崇文门方向车尾\n8号线：站台开往朱辛庄方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "2号线：无\n8号线：G口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "2号线：A口（出站）\n2号线：B口（出站）\n2号线：C口（出站）\nE口（进、出站）\nG口（进、出站）\nI口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "2号线：无\n8号线：站台至站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "2号线：无\n8号线：开往朱辛庄方向，有站厅到站台\n8号线：开往瀛海方向，有站厅到站台\n8号线：2号线换8号线通道\n8号线：8号线至换乘厅（E口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "2号线：站台东侧楼梯\n8号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "2号线：东厅靠近8换2通道口，西厅靠近C口出站闸机\n8号线：站厅北厅，靠近综控室\n8号线：8号线换乘2号线换乘通道，靠近E口站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "2号线：A口（可通话）\n2号线：站台东侧楼梯侧（可通话）\n8号线：G口人工售票厅（可通话）\n8号线：I口人工售票厅（可通话）\n8号线：北厅（G口）AFC设备\n8号线：南厅（I口）AFC设备\n8号线：换乘厅（E口）AFC设备",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "2号线：站台中部，靠近开往前门方向19门（付费区）\n8号线：站台中部，靠近开往瀛海方向13门（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "2号线：A口坡道\n8号线：G口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "2号线：东厅（A口、B口）\n2号线：西厅（C口）\n8号线：北厅（G口：TVM1、TVM2、ITVM1）\n8号线：南厅（I口：TVM3、TVM4、TVM5、TVM6、ITVM2、ITVM4、ITVM5、ITVM6\n8号线：换乘厅（E口：TVM7、TVM8、ITVM3）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "2号线：东厅靠A口侧\n8号线：北厅（G口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "前门东大街北侧",
+          "天安门",
+          "毛主席纪念堂"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "前门东大街南侧",
+          "中国共青团中央委员会"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "前门西大街南侧",
+          "前门步行街",
+          "广誉远中医药博物馆",
+          "北京旅游集散中心",
+          "北京坊",
+          "中华遗嘱库",
+          "老舍茶馆",
+          "北京前门国医堂"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "前门东大街（南侧）",
+          "前门东路"
+        ]
+      },
+      {
+        "name": "G",
+        "desc": null,
+        "nearby": [
+          "前门东路（东侧）"
+        ]
+      },
+      {
+        "name": "I",
+        "desc": null,
+        "nearby": [
+          "前门大街（东侧）",
+          "前门步行街",
+          "北京坊",
+          "门框胡同19号百年卤煮",
+          "老舍茶馆",
+          "北京前门国医堂"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212680,
+      "stationDeviceLocation": 150997039,
+      "stationCode": null,
+      "longitude": 116.397937,
+      "latitude": 39.900192,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "206",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/2号线-前门站-崇文门站方向-工作日.jpg",
+        "stationCode": "0208",
+        "lineCode": "02",
+        "stationNameCn": "前门"
+      },
+      {
+        "id": "10",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/2号线-前门站-崇文门站方向-双休日.jpg",
+        "stationCode": "0208",
+        "lineCode": "02",
+        "stationNameCn": "前门"
+      },
+      {
+        "id": "862",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/2号线-前门站-和平门站方向-工作日.jpg",
+        "stationCode": "0208",
+        "lineCode": "02",
+        "stationNameCn": "前门"
+      },
+      {
+        "id": "1207",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/2号线-前门站-和平门站方向-双休日.jpg",
+        "stationCode": "0208",
+        "lineCode": "02",
+        "stationNameCn": "前门"
+      },
+      {
+        "id": "661",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/8号线-前门站-瀛海站方向-工作日.jpg",
+        "stationCode": "0847",
+        "lineCode": "08",
+        "stationNameCn": "前门"
+      },
+      {
+        "id": "738",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/8号线-前门站-瀛海站方向-双休日.jpg",
+        "stationCode": "0847",
+        "lineCode": "08",
+        "stationNameCn": "前门"
+      },
+      {
+        "id": "812",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/8号线-前门站-朱辛庄站方向-工作日.jpg",
+        "stationCode": "0847",
+        "lineCode": "08",
+        "stationNameCn": "前门"
+      },
+      {
+        "id": "945",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/8号线-前门站-朱辛庄站方向-双休日.jpg",
+        "stationCode": "0847",
+        "lineCode": "08",
+        "stationNameCn": "前门"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

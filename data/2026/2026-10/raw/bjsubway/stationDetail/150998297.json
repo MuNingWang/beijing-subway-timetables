@@ -1,0 +1,426 @@
+{
+  "lines": [
+    {
+      "lineCode": "13",
+      "lineColor": "F8E114",
+      "lineId": 13,
+      "lineName": "13号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:41",
+      "lastTime": "22:48",
+      "startStationName": "西直门",
+      "startStationDeviceLocation": 150998293,
+      "terminalStationName": "东直门",
+      "terminalStationDeviceLocation": 150998323,
+      "sourceStationName": "西直门",
+      "sourceStationDeviceLocation": 150998293,
+      "destStationName": "东直门",
+      "destStationDeviceLocation": 150998323,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998297,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "13",
+      "lineColor": "F8E114",
+      "lineId": 13,
+      "lineName": "13号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:41",
+      "lastTime": "0:01",
+      "startStationName": "西直门",
+      "startStationDeviceLocation": 150998293,
+      "terminalStationName": "霍营",
+      "terminalStationDeviceLocation": 150998309,
+      "sourceStationName": "西直门",
+      "sourceStationDeviceLocation": 150998293,
+      "destStationName": "霍营",
+      "destStationDeviceLocation": 150998309,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150998297,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "13",
+      "lineColor": "F8E114",
+      "lineId": 13,
+      "lineName": "13号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:24",
+      "lastTime": "23:40",
+      "startStationName": "东直门",
+      "startStationDeviceLocation": 150998323,
+      "terminalStationName": "西直门",
+      "terminalStationDeviceLocation": 150998293,
+      "sourceStationName": "东直门",
+      "sourceStationDeviceLocation": 150998323,
+      "destStationName": "西直门",
+      "destStationDeviceLocation": 150998293,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998297,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "13",
+      "lineColor": "F8E114",
+      "lineId": 13,
+      "lineName": "13号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:24",
+      "lastTime": null,
+      "startStationName": "东直门",
+      "startStationDeviceLocation": 150998323,
+      "terminalStationName": "回龙观",
+      "terminalStationDeviceLocation": 150998307,
+      "sourceStationName": "东直门",
+      "sourceStationDeviceLocation": 150998323,
+      "destStationName": "回龙观",
+      "destStationDeviceLocation": 150998307,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150998297,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "4:45",
+      "lastTime": "20:55",
+      "startStationName": "知春里",
+      "startStationDeviceLocation": 150997511,
+      "terminalStationName": "西土城",
+      "terminalStationDeviceLocation": 150997515,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997513,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "4:45",
+      "lastTime": "22:39",
+      "startStationName": "知春里",
+      "startStationDeviceLocation": 150997511,
+      "terminalStationName": "西土城",
+      "terminalStationDeviceLocation": 150997515,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997513,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "4:45",
+      "lastTime": "23:03",
+      "startStationName": "知春里",
+      "startStationDeviceLocation": 150997511,
+      "terminalStationName": "西土城",
+      "terminalStationDeviceLocation": 150997515,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "成寿寺",
+      "destStationDeviceLocation": 151018013,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997513,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "6:12",
+      "lastTime": "22:26",
+      "startStationName": "西土城",
+      "startStationDeviceLocation": 150997515,
+      "terminalStationName": "知春里",
+      "terminalStationDeviceLocation": 150997511,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997513,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "6:12",
+      "lastTime": "0:11",
+      "startStationName": "西土城",
+      "startStationDeviceLocation": 150997515,
+      "terminalStationName": "知春里",
+      "terminalStationDeviceLocation": 150997511,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997513,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "知春路",
+    "stationCode": null,
+    "stationDeviceLocation": 150998297,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "10号线：站台开往西土城方向车头\n13号线：站厅北厅，靠近A口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "10号线：站台开往西土城方向车头\n13号线：站厅北厅，靠近A口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "10号线：站台开往西土城方向车头\n13号线：站厅北厅，靠近A口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "10号线：G口\n13号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "10号线：G1（进、出站）、G2（进、出站）、F（进、出站）\n13号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "10号线：有\n13号线：开往西直门方向，有\n13号线：开往东直门方向，有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "10号线：开往知春里方向，有站台到站厅\n10号线：开往西土城向，有站台到站厅\n13号线：开往大钟寺方向，有站台到站厅\n13号线：开往大钟寺方向，无站厅到站台\n13号线：开五道口方向，有站台到站厅\n13号线：开往五道口方向，无站厅到站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "10号线：10号线换乘13号线北侧通道\n10号线：10号线换乘13号线南侧通道\n13号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "10号线：无\n13号线：站厅南厅非付费区，靠近B口出站闸机",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "10号线：站厅东厅，靠近F口出站闸机（可通话）\n10号线：站厅东厅，靠近G口出站闸机（可通话）\n10号线：F口人工售票厅（可通话）\n10号线：G口人工售票厅（可通话）\n10号线：10号线换乘13号线南侧通道（仅呼叫）\n13号线：B口付费区通往上行外挂楼梯口旁直梯处                              13号线：上行站台车首直梯处                                                                                                                                            13号线：北厅付费区东北角直梯处",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "10号线：站厅东厅，靠近综控室（非付费区）\n13号线：站厅北厅付费区，靠近综控室",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "10号线：G口坡道\n13号线：A口坡道\n13号线：B口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "10号线：G口、F口\n13号线：北厅(A口) 西南角（非付费区）                                                                                                                                                                                                                                                                                                                                                                                                                                                13号线：南厅(B口)东北角（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "10号线：站厅层东员工通道内\n13号线：南厅(B口)非付费区自助售票机东侧",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "知春路"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "北京开放大学",
+          "中关村东路",
+          "京东科技大厦"
+        ]
+      },
+      {
+        "name": "F",
+        "desc": null,
+        "nearby": [
+          "大运村 知春路 大运村派出所 北京航空航天大学"
+        ]
+      },
+      {
+        "name": "G",
+        "desc": null,
+        "nearby": [
+          "知春路 罗庄西里 中华人民共和国国家卫生健康委员会"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212685,
+      "stationDeviceLocation": 150998297,
+      "stationCode": null,
+      "longitude": 116.33996,
+      "latitude": 39.976476,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1577",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-知春路站-西土城站方向-工作日.jpg",
+        "stationCode": "1009",
+        "lineCode": "10",
+        "stationNameCn": "知春路"
+      },
+      {
+        "id": "2067",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-知春路站-西土城站方向-双休日.jpg",
+        "stationCode": "1009",
+        "lineCode": "10",
+        "stationNameCn": "知春路"
+      },
+      {
+        "id": "135",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-知春路站-知春里站方向-工作日.jpg",
+        "stationCode": "1009",
+        "lineCode": "10",
+        "stationNameCn": "知春路"
+      },
+      {
+        "id": "17",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-知春路站-知春里站方向-双休日.jpg",
+        "stationCode": "1009",
+        "lineCode": "10",
+        "stationNameCn": "知春路"
+      },
+      {
+        "id": "1304",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/13号线-知春路站-西直门站方向-工作日.jpg",
+        "stationCode": "1325",
+        "lineCode": "13",
+        "stationNameCn": "知春路"
+      },
+      {
+        "id": "1269",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/13号线-知春路站-西直门站方向-双休日.jpg",
+        "stationCode": "1325",
+        "lineCode": "13",
+        "stationNameCn": "知春路"
+      },
+      {
+        "id": "93",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/13号线-知春路站-东直门站方向-工作日.jpg",
+        "stationCode": "1325",
+        "lineCode": "13",
+        "stationNameCn": "知春路"
+      },
+      {
+        "id": "717",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/13号线-知春路站-东直门站方向-双休日.jpg",
+        "stationCode": "1325",
+        "lineCode": "13",
+        "stationNameCn": "知春路"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

@@ -1,0 +1,431 @@
+{
+  "lines": [
+    {
+      "lineCode": "17",
+      "lineColor": "00A9A9",
+      "lineId": 17,
+      "lineName": "17号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:26",
+      "lastTime": "22:48",
+      "startStationName": "未来科学城北",
+      "startStationDeviceLocation": 150999317,
+      "terminalStationName": "嘉会湖",
+      "terminalStationDeviceLocation": 150999357,
+      "sourceStationName": "未来科学城北",
+      "sourceStationDeviceLocation": 150999317,
+      "destStationName": "嘉会湖",
+      "destStationDeviceLocation": 150999357,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150999327,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "17",
+      "lineColor": "00A9A9",
+      "lineId": 17,
+      "lineName": "17号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "6:06",
+      "lastTime": "23:18",
+      "startStationName": "嘉会湖",
+      "startStationDeviceLocation": 150999357,
+      "terminalStationName": "未来科学城北",
+      "terminalStationDeviceLocation": 150999317,
+      "sourceStationName": "嘉会湖",
+      "sourceStationDeviceLocation": 150999357,
+      "destStationName": "未来科学城北",
+      "destStationDeviceLocation": 150999317,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150999327,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "13",
+      "lineColor": "F8E114",
+      "lineId": 13,
+      "lineName": "13号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:15",
+      "lastTime": "23:28",
+      "startStationName": "西直门",
+      "startStationDeviceLocation": 150998293,
+      "terminalStationName": "东直门",
+      "terminalStationDeviceLocation": 150998323,
+      "sourceStationName": "西直门",
+      "sourceStationDeviceLocation": 150998293,
+      "destStationName": "东直门",
+      "destStationDeviceLocation": 150998323,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998315,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "13",
+      "lineColor": "F8E114",
+      "lineId": 13,
+      "lineName": "13号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:15",
+      "lastTime": null,
+      "startStationName": "西直门",
+      "startStationDeviceLocation": 150998293,
+      "terminalStationName": "霍营",
+      "terminalStationDeviceLocation": 150998309,
+      "sourceStationName": "西直门",
+      "sourceStationDeviceLocation": 150998293,
+      "destStationName": "霍营",
+      "destStationDeviceLocation": 150998309,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150998315,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "13",
+      "lineColor": "F8E114",
+      "lineId": 13,
+      "lineName": "13号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:44",
+      "lastTime": "22:59",
+      "startStationName": "东直门",
+      "startStationDeviceLocation": 150998323,
+      "terminalStationName": "西直门",
+      "terminalStationDeviceLocation": 150998293,
+      "sourceStationName": "东直门",
+      "sourceStationDeviceLocation": 150998323,
+      "destStationName": "西直门",
+      "destStationDeviceLocation": 150998293,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998315,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "13",
+      "lineColor": "F8E114",
+      "lineId": 13,
+      "lineName": "13号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:44",
+      "lastTime": "23:54",
+      "startStationName": "东直门",
+      "startStationDeviceLocation": 150998323,
+      "terminalStationName": "回龙观",
+      "terminalStationDeviceLocation": 150998307,
+      "sourceStationName": "东直门",
+      "sourceStationDeviceLocation": 150998323,
+      "destStationName": "回龙观",
+      "destStationDeviceLocation": 150998307,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150998315,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "15",
+      "lineColor": "6B3777",
+      "lineId": 15,
+      "lineName": "15号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:47",
+      "lastTime": "23:32",
+      "startStationName": "清华东路西口",
+      "startStationDeviceLocation": 150998809,
+      "terminalStationName": "俸伯",
+      "terminalStationDeviceLocation": 150998847,
+      "sourceStationName": "清华东路西口",
+      "sourceStationDeviceLocation": 150998809,
+      "destStationName": "俸伯",
+      "destStationDeviceLocation": 150998847,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998823,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "15",
+      "lineColor": "6B3777",
+      "lineId": 15,
+      "lineName": "15号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:06",
+      "lastTime": "22:51",
+      "startStationName": "俸伯",
+      "startStationDeviceLocation": 150998847,
+      "terminalStationName": "清华东路西口",
+      "terminalStationDeviceLocation": 150998809,
+      "sourceStationName": "俸伯",
+      "sourceStationDeviceLocation": 150998847,
+      "destStationName": "清华东路西口",
+      "destStationDeviceLocation": 150998809,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998823,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "15",
+      "lineColor": "6B3777",
+      "lineId": 15,
+      "lineName": "15号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:06",
+      "lastTime": null,
+      "startStationName": "俸伯",
+      "startStationDeviceLocation": 150998847,
+      "terminalStationName": "马泉营",
+      "terminalStationDeviceLocation": 150998831,
+      "sourceStationName": "俸伯",
+      "sourceStationDeviceLocation": 150998847,
+      "destStationName": "马泉营",
+      "destStationDeviceLocation": 150998831,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150998823,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "望京西",
+    "stationCode": null,
+    "stationDeviceLocation": 150999327,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "13号线：南侧站厅（付费区）\n15号线：站台开往俸伯方向车头\n开往未来科学城北方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "13号线：南侧站厅（付费区）\n15号线：站台开往俸伯方向车头\n开往未来科学城北方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "13号线：南侧站厅（付费区）\n15号线：站台开往俸伯方向车头\n开往未来科学城北方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "13号线：无\n15号线：无\nF口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "13号线：无\n15号线：C口（进，出站）\nF口(进、出站)",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "13号线：开往西直门方向，有\n13号线：开往东直门方向，有\n15号线：有\n有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "13号线：开往西直门方向，有站台到站厅\n13号线：开往西直门方向，有站厅到站台\n13号线：开往东直门方向，有站台到站厅\n13号线：开往东直门方向，有站厅到站台\n15号线：开往俸伯方向，有站台到站厅，有站厅到站台\n15号线：开往清华东路西口方向，有站台到站厅，有站厅到站台\n开往未来科学城北方向，有站厅到站台\n开往未来科学城北方向，有站台到站厅\n开往嘉会湖方向，有站厅到站台\n开往嘉会湖方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "13号线：无\n15号线：C口楼梯\n17号线换乘13号线换乘通道\n13号线换乘17号线换乘通道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "13号线：无\n15号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "13号线：无\n15号线：站台两端各一个（可通话）\n15号线：C口，靠近TVM（可通话、可视频）\n15号线：C口，靠近进站闸机（可通话、可视频）\n15号线：C口，靠近出站闸机（可通话、可视频）\n15号线：站厅东侧墙壁，靠近综控室（可通话）\n15号线：站厅西侧墙壁，靠近广告电子屏（可通话）\n15号线：D口，靠近出站闸机（可通话、可视频）\n站台两端（可通话）\n无障碍卫生间招援（可通话）\n母婴室（可通话）\n站厅南侧墙壁、靠近综控室（可通话）\n站厅北侧墙壁、靠近公联枢纽E-3栅栏门（可通话）\n17号线换乘13号线东直门方向换乘通道升降平台（可通话）\n17号线换乘13号线西直门方向换乘通道升降平台（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "13号线：站厅北厅，靠近自助售水机（付费区）\n15号线：站厅西厅，靠近广告电子屏（付费区）\n站台开往嘉会湖方向第19门",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "无（B口外天桥有电梯）\n15号线：C口坡道\nF口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "13号线：南厅（B口）\n13号线：北厅（B口）\n15号线：东厅（C口）\n西厅\n南厅（F口）\n北厅（E口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "13号线：北厅（A口）\n15号线：东厅（C口）\n南厅（F口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "京承高速"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "望京西交通枢纽"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "望京西交通枢纽"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "望京西公交枢纽"
+        ]
+      },
+      {
+        "name": "F",
+        "desc": null,
+        "nearby": [
+          "南湖西园中街"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 0,
+      "stationDeviceLocation": 150999327,
+      "stationCode": null,
+      "longitude": 0.0,
+      "latitude": 0.0,
+      "distance": 0,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1302",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/13号线-望京西站-西直门站方向-工作日.jpg",
+        "stationCode": "1343",
+        "lineCode": "13",
+        "stationNameCn": "望京西"
+      },
+      {
+        "id": "1267",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/13号线-望京西站-西直门站方向-双休日.jpg",
+        "stationCode": "1343",
+        "lineCode": "13",
+        "stationNameCn": "望京西"
+      },
+      {
+        "id": "235",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/13号线-望京西站-东直门站方向-工作日.jpg",
+        "stationCode": "1343",
+        "lineCode": "13",
+        "stationNameCn": "望京西"
+      },
+      {
+        "id": "410",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/13号线-望京西站-东直门站方向-双休日.jpg",
+        "stationCode": "1343",
+        "lineCode": "13",
+        "stationNameCn": "望京西"
+      },
+      {
+        "id": "1391",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/15号线-望京西站-清华东路西口站方向-工作日.jpg",
+        "stationCode": "1539",
+        "lineCode": "15",
+        "stationNameCn": "望京西"
+      },
+      {
+        "id": "1863",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/15号线-望京西站-清华东路西口站方向-双休日.jpg",
+        "stationCode": "1539",
+        "lineCode": "15",
+        "stationNameCn": "望京西"
+      },
+      {
+        "id": "298",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/15号线-望京西站-俸伯站方向-工作日.jpg",
+        "stationCode": "1539",
+        "lineCode": "15",
+        "stationNameCn": "望京西"
+      },
+      {
+        "id": "535",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/15号线-望京西站-俸伯站方向-双休日.jpg",
+        "stationCode": "1539",
+        "lineCode": "15",
+        "stationNameCn": "望京西"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

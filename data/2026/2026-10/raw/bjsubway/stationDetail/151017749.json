@@ -1,0 +1,72 @@
+{
+  "lines": [
+    {
+      "lineCode": "89",
+      "lineColor": "E20621",
+      "lineId": 89,
+      "lineName": "西郊线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "06:00",
+      "lastTime": "23:06",
+      "startStationName": "香山",
+      "startStationDeviceLocation": 151017749,
+      "terminalStationName": "巴沟",
+      "terminalStationDeviceLocation": 151017759,
+      "sourceStationName": "香山",
+      "sourceStationDeviceLocation": 151017749,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 151017759,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151017749,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "89",
+      "lineColor": "E20621",
+      "lineId": 89,
+      "lineName": "西郊线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "05:56",
+      "lastTime": "23:03",
+      "startStationName": "巴沟",
+      "startStationDeviceLocation": 151017759,
+      "terminalStationName": "香山",
+      "terminalStationDeviceLocation": 151017749,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 151017759,
+      "destStationName": "香山",
+      "destStationDeviceLocation": 151017749,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151017749,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "香山",
+    "stationCode": null,
+    "stationDeviceLocation": 151017749,
+    "services": null,
+    "facilitys": null,
+    "exits": [],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212761,
+      "stationDeviceLocation": 151017749,
+      "stationCode": null,
+      "longitude": 116.204491,
+      "latitude": 39.994056,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": null
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

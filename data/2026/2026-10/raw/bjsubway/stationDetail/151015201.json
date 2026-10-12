@@ -1,0 +1,25 @@
+{
+  "lines": null,
+  "station": {
+    "stationName": "鹿圈东",
+    "stationCode": null,
+    "stationDeviceLocation": 151015201,
+    "services": null,
+    "facilitys": null,
+    "exits": [],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212751,
+      "stationDeviceLocation": 151015201,
+      "stationCode": null,
+      "longitude": 116.513824,
+      "latitude": 39.766354,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": null
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

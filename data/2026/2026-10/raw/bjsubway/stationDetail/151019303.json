@@ -1,0 +1,230 @@
+{
+  "lines": [
+    {
+      "lineCode": "95",
+      "lineColor": "E15C28",
+      "lineId": 95,
+      "lineName": "房山线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "6:27",
+      "lastTime": "23:54",
+      "startStationName": "东管头南",
+      "startStationDeviceLocation": 151019277,
+      "terminalStationName": "阎村东",
+      "terminalStationDeviceLocation": 151019307,
+      "sourceStationName": "东管头南",
+      "sourceStationDeviceLocation": 151019277,
+      "destStationName": "阎村东",
+      "destStationDeviceLocation": 151019307,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019303,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "95",
+      "lineColor": "E15C28",
+      "lineId": 95,
+      "lineName": "房山线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:02",
+      "lastTime": "22:25",
+      "startStationName": "阎村东",
+      "startStationDeviceLocation": 151019307,
+      "terminalStationName": "东管头南",
+      "terminalStationDeviceLocation": 151019277,
+      "sourceStationName": "阎村东",
+      "sourceStationDeviceLocation": 151019307,
+      "destStationName": "东管头南",
+      "destStationDeviceLocation": 151019277,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019303,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "良乡南关",
+    "stationCode": null,
+    "stationDeviceLocation": 151019303,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "站台开往东管头南方向车头（上行）\n站台开往阎村东方向车头（下行）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "站台开往东管头南方向车头（上行）\n站台开往阎村东方向车头（下行）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "A口\nB口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "A口（进站、出站）\nB口（进站、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "厅台中部开往阎村东方向10门（下行）\n厅台中部开往东管头南方向10门（上行）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往东管头南方向，有站厅到站台\n开往东管头南方向，有站台到站厅\n开往阎村东方向，有站厅到站台\n开往阎村东方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "上行站台两端（可通话）\n下行站台两端（可通话）\nA口人工售票厅（可通话）\nB口人工售票厅（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站厅东侧，靠近自助售票机（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "A2口直梯、坡道\nB2口直梯、坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "东厅（A口/B口）\n西厅（A口/B口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "东厅南通道（办公区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "长虹东路（北侧）",
+          "西潞南大街",
+          "长虹小区",
+          "良乡中学",
+          "房山发展和改革委员会",
+          "房山区财政局；"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "长虹东路（南侧）",
+          "京深路",
+          "北京瑞慈中医医院",
+          "房山区民防局",
+          "房山区安全生产监督管理局；"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212767,
+      "stationDeviceLocation": 151019303,
+      "stationCode": null,
+      "longitude": 116.140804,
+      "latitude": 39.723202,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1029",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/房山线-良乡南关站-阎村东站方向-工作日.jpg",
+        "stationCode": "9539",
+        "lineCode": "95",
+        "stationNameCn": "良乡南关"
+      },
+      {
+        "id": "1059",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/房山线-良乡南关站-阎村东站方向-双休日.jpg",
+        "stationCode": "9539",
+        "lineCode": "95",
+        "stationNameCn": "良乡南关"
+      },
+      {
+        "id": "1058",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/房山线-良乡南关站-东管头南站方向-双休日.jpg",
+        "stationCode": "9539",
+        "lineCode": "95",
+        "stationNameCn": "良乡南关"
+      },
+      {
+        "id": "1028",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/房山线-良乡南关站-东管头南站、国家图书馆站方向-工作日.jpg",
+        "stationCode": "9539",
+        "lineCode": "95",
+        "stationNameCn": "良乡南关"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

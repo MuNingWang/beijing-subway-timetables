@@ -1,0 +1,397 @@
+{
+  "lines": [
+    {
+      "lineCode": "95",
+      "lineColor": "E15C28",
+      "lineId": 95,
+      "lineName": "房山线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:49",
+      "lastTime": "23:16",
+      "startStationName": "东管头南",
+      "startStationDeviceLocation": 151019277,
+      "terminalStationName": "阎村东",
+      "terminalStationDeviceLocation": 151019307,
+      "sourceStationName": "东管头南",
+      "sourceStationDeviceLocation": 151019277,
+      "destStationName": "阎村东",
+      "destStationDeviceLocation": 151019307,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019279,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "95",
+      "lineColor": "E15C28",
+      "lineId": 95,
+      "lineName": "房山线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:39",
+      "lastTime": "23:02",
+      "startStationName": "阎村东",
+      "startStationDeviceLocation": 151019307,
+      "terminalStationName": "东管头南",
+      "terminalStationDeviceLocation": 151019277,
+      "sourceStationName": "阎村东",
+      "sourceStationDeviceLocation": 151019307,
+      "destStationName": "东管头南",
+      "destStationDeviceLocation": 151019277,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019279,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:25",
+      "lastTime": "22:00",
+      "startStationName": "纪家庙",
+      "startStationDeviceLocation": 151018027,
+      "terminalStationName": "丰台站",
+      "terminalStationDeviceLocation": 151018031,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151018029,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:25",
+      "lastTime": "22:21",
+      "startStationName": "纪家庙",
+      "startStationDeviceLocation": 151018027,
+      "terminalStationName": "丰台站",
+      "terminalStationDeviceLocation": 151018031,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "成寿寺",
+      "destStationDeviceLocation": 151018013,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151018029,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:25",
+      "lastTime": "23:44",
+      "startStationName": "纪家庙",
+      "startStationDeviceLocation": 151018027,
+      "terminalStationName": "丰台站",
+      "terminalStationDeviceLocation": 151018031,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151018029,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:19",
+      "lastTime": "21:19",
+      "startStationName": "丰台站",
+      "startStationDeviceLocation": 151018031,
+      "terminalStationName": "纪家庙",
+      "terminalStationDeviceLocation": 151018027,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151018029,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:19",
+      "lastTime": "23:04",
+      "startStationName": "丰台站",
+      "startStationDeviceLocation": 151018031,
+      "terminalStationName": "纪家庙",
+      "terminalStationDeviceLocation": 151018027,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151018029,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "首经贸",
+    "stationCode": null,
+    "stationDeviceLocation": 151019279,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "10号线：站台开往丰台站方向车头\n房山线：站台开往东管头南方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "10号线：站台开往纪家庙方向车尾\n房山线：站台开往阎村东方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "10号线：站台开往纪家庙方向车尾\n房山线：站台开往东管头南方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "10号线：厅台中部开往纪家庙方向11门（可换乘）\n（B1层为站厅层，B2层为站台层）\n10号线：B口通道内-B口上端\n10号线：D口通道内-D口上端\n房山线：E口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "10号线：B口、C口、D口\n10号线：厅台两端\n房山线：E口（进站、出站）\n房山线：F口（进站、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "10号线：站厅中部\n房山线：10号线站厅中部-10号线站台中部-10号线换乘房山线换乘通道内（靠近10号线）\n房山线：房山线站厅南侧-10号线换乘房山线换乘通道内（靠近房山线）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "10号线：开往纪家庙方向，有站厅到站台\n10号线：开往纪家庙方向，有站台到站厅\n10号线：开往丰台站方向，有站厅到站台\n10号线：开往丰台站方向，有站台到站厅\n房山线：开往东管头南方向，有站厅到站台\n房山线：开往东管头南方向，有站台到站厅\n房山线：开往阎村东方向，有站厅到站台\n房山线：开往阎村东方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "10号线：无\n房山线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "10号线：无\n房山线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "10号线：B、C口人工售票厅（可通话）\n10号线：D口人工售票厅（可通话）\n10号线：站厅TVM（仅呼叫）\n10号线：B口直梯外（可通话）\n10号线：B口直梯内（可通话）\n10号线：D口直梯外（可通话）\n10号线：D口直梯内（可通话）\n10号线：站台无障碍卫生间（仅呼叫）\n10号线：站厅台中部直梯外（可通话）\n10号线：站厅台中部直梯内（可通话）                                                       10号线：站台两端（可通话）\n房山线：F口人工售票厅（可通话）\n房山线：E口人工售票厅（可通话）\n房山线：站厅自动售票机（仅呼叫）\n房山线：站厅网络取票机（仅呼叫）\n房山线：站台无障碍卫生间（仅呼叫）\n房山线：E口直梯内（可通话）\n房山线：E口直梯外（可通话）\n房山线： 南厅直梯内（可通话）\n房山线：南厅直梯外（可通话）\n房山线：站台房山线换10号线直梯内（可通话）\n房山线：站台两端（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "10号线：站厅中部，靠近D口进站闸机（非付费区）\n房山线：站厅中部，靠近E口人工售票厅（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "10号线：B口直梯、坡道\n10号线：D口直梯、坡道\n房山线：E口直梯、坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "10号线：东厅（B口、C口）\n10号线：西厅（D口）\n房山线：北厅（F口）\n房山线：南厅（E口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "10号线：站厅西侧\n房山线：站厅北侧",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "芳菲路（东侧）",
+          "丰台东路（南侧）",
+          "育菲园东里；"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "芳菲路（东侧）",
+          "首经贸中街（北侧）",
+          "万年花城",
+          "首都医科大学附属北京口腔医院；"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "首经贸北路（南侧）",
+          "樊羊路（东侧）",
+          "首都经济贸易大学",
+          "万年花城；"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "芳菲路（西侧）",
+          "首经贸北路",
+          "万芳园一区；"
+        ]
+      },
+      {
+        "name": "F",
+        "desc": null,
+        "nearby": [
+          "芳菲路（东侧）",
+          "首经贸北路",
+          "育菲园东里"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212767,
+      "stationDeviceLocation": 151019279,
+      "stationCode": null,
+      "longitude": 116.320202,
+      "latitude": 39.844463,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "337",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-首经贸站-纪家庙站方向-工作日.jpg",
+        "stationCode": "9045",
+        "lineCode": "10",
+        "stationNameCn": "首经贸"
+      },
+      {
+        "id": "654",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-首经贸站-纪家庙站方向-双休日.jpg",
+        "stationCode": "9045",
+        "lineCode": "10",
+        "stationNameCn": "首经贸"
+      },
+      {
+        "id": "1581",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-首经贸站-丰台站方向-工作日.jpg",
+        "stationCode": "9045",
+        "lineCode": "10",
+        "stationNameCn": "首经贸"
+      },
+      {
+        "id": "2024",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-首经贸站-丰台站方向-双休日.jpg",
+        "stationCode": "9045",
+        "lineCode": "10",
+        "stationNameCn": "首经贸"
+      },
+      {
+        "id": "1031",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/房山线-首经贸站-阎村东站方向-工作日.jpg",
+        "stationCode": "9515",
+        "lineCode": "95",
+        "stationNameCn": "首经贸"
+      },
+      {
+        "id": "1061",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/房山线-首经贸站-阎村东站方向-双休日.jpg",
+        "stationCode": "9515",
+        "lineCode": "95",
+        "stationNameCn": "首经贸"
+      },
+      {
+        "id": "1030",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/房山线-首经贸站-东管头南站方向-工作日.jpg",
+        "stationCode": "9515",
+        "lineCode": "95",
+        "stationNameCn": "首经贸"
+      },
+      {
+        "id": "1060",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/房山线-首经贸站-东管头南站方向-双休日.jpg",
+        "stationCode": "9515",
+        "lineCode": "95",
+        "stationNameCn": "首经贸"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

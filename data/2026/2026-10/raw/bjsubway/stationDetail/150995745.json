@@ -1,0 +1,230 @@
+{
+  "lines": [
+    {
+      "lineCode": "03",
+      "lineColor": "E50033",
+      "lineId": 3,
+      "lineName": "3号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:51",
+      "lastTime": "23:41",
+      "startStationName": "东四十条",
+      "startStationDeviceLocation": 150995733,
+      "terminalStationName": "东坝北",
+      "terminalStationDeviceLocation": 150995751,
+      "sourceStationName": "东四十条",
+      "sourceStationDeviceLocation": 150995733,
+      "destStationName": "东坝北",
+      "destStationDeviceLocation": 150995751,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995745,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "03",
+      "lineColor": "E50033",
+      "lineId": 3,
+      "lineName": "3号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:13",
+      "lastTime": "22:58",
+      "startStationName": "东坝北",
+      "startStationDeviceLocation": 150995751,
+      "terminalStationName": "东四十条",
+      "terminalStationDeviceLocation": 150995733,
+      "sourceStationName": "东坝北",
+      "sourceStationDeviceLocation": 150995751,
+      "destStationName": "东四十条",
+      "destStationDeviceLocation": 150995733,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995745,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "姚家园",
+    "stationCode": null,
+    "stationDeviceLocation": 150995745,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "付费区：开往东坝北方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "付费区：开往东坝北方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "付费区：开往东坝北方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "D口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "A口（进、出站）\nC口（进、出站）\nD口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "有站厅中部，开往东坝北方向21门",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往东四十条方向，有站厅到站台\n开往东四十条方向，有站台到站厅\n开往东坝北方向，有站厅到站台\n开往东坝北方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "站台两端（可通话）                                                                      西厅人工售票厅（A、D口）（可通话）\n东厅人工售票厅 (C口）(可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "东站厅南侧，靠近综控室（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "D口直梯\nD口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "西厅（A、D口）                                     站厅中部                                            东厅（C口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "站厅东侧（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A口",
+        "desc": null,
+        "nearby": [
+          "姚家园北二路",
+          "姚家园北一路",
+          "御翠园"
+        ]
+      },
+      {
+        "name": "C口",
+        "desc": null,
+        "nearby": [
+          "朝阳体育中心"
+        ]
+      },
+      {
+        "name": "D口",
+        "desc": null,
+        "nearby": [
+          "朝阳体育中心西路"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212675,
+      "stationDeviceLocation": 150995745,
+      "stationCode": null,
+      "longitude": 116.527285,
+      "latitude": 39.947746,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1428",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/3号线-姚家园站-东坝北站方向-工作日.jpg",
+        "stationCode": "0333",
+        "lineCode": "03",
+        "stationNameCn": "姚家园"
+      },
+      {
+        "id": "1447",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/3号线-姚家园站-东坝北站方向-双休日.jpg",
+        "stationCode": "0333",
+        "lineCode": "03",
+        "stationNameCn": "姚家园"
+      },
+      {
+        "id": "1429",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/3号线-姚家园站-东四十条站方向-工作日.jpg",
+        "stationCode": "0333",
+        "lineCode": "03",
+        "stationNameCn": "姚家园"
+      },
+      {
+        "id": "1440",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/3号线-姚家园站-东四十条站方向-双休日.jpg",
+        "stationCode": "0333",
+        "lineCode": "03",
+        "stationNameCn": "姚家园"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

@@ -1,0 +1,333 @@
+{
+  "lines": [
+    {
+      "lineCode": "12",
+      "lineColor": "C56B00",
+      "lineId": 12,
+      "lineName": "12号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "6:08",
+      "lastTime": "23:41",
+      "startStationName": "四季青桥",
+      "startStationDeviceLocation": 150998037,
+      "terminalStationName": "东坝北",
+      "terminalStationDeviceLocation": 150998075,
+      "sourceStationName": "四季青桥",
+      "sourceStationDeviceLocation": 150998037,
+      "destStationName": "东坝北",
+      "destStationDeviceLocation": 150998075,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998049,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "12",
+      "lineColor": "C56B00",
+      "lineId": 12,
+      "lineName": "12号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:32",
+      "lastTime": "23:05",
+      "startStationName": "东坝北",
+      "startStationDeviceLocation": 150998075,
+      "terminalStationName": "四季青桥",
+      "terminalStationDeviceLocation": 150998037,
+      "sourceStationName": "东坝北",
+      "sourceStationDeviceLocation": 150998075,
+      "destStationName": "四季青桥",
+      "destStationDeviceLocation": 150998037,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998049,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "94",
+      "lineColor": "DD83B0",
+      "lineId": 94,
+      "lineName": "昌平线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": null,
+      "lastTime": null,
+      "startStationName": "昌平西山口",
+      "startStationDeviceLocation": 151019027,
+      "terminalStationName": "蓟门桥",
+      "terminalStationDeviceLocation": 151019065,
+      "sourceStationName": "昌平西山口",
+      "sourceStationDeviceLocation": 151019027,
+      "destStationName": "蓟门桥",
+      "destStationDeviceLocation": 151019065,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019065,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "94",
+      "lineColor": "DD83B0",
+      "lineId": 94,
+      "lineName": "昌平线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": null,
+      "lastTime": null,
+      "startStationName": "昌平西山口",
+      "startStationDeviceLocation": 151019027,
+      "terminalStationName": "朱辛庄",
+      "terminalStationDeviceLocation": 151019045,
+      "sourceStationName": "昌平西山口",
+      "sourceStationDeviceLocation": 151019027,
+      "destStationName": "朱辛庄",
+      "destStationDeviceLocation": 151019045,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151019065,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "94",
+      "lineColor": "DD83B0",
+      "lineId": 94,
+      "lineName": "昌平线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:21",
+      "lastTime": "23:21",
+      "startStationName": "蓟门桥",
+      "startStationDeviceLocation": 151019065,
+      "terminalStationName": "昌平西山口",
+      "terminalStationDeviceLocation": 151019027,
+      "sourceStationName": "蓟门桥",
+      "sourceStationDeviceLocation": 151019065,
+      "destStationName": "昌平西山口",
+      "destStationDeviceLocation": 151019027,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019065,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "蓟门桥",
+    "stationCode": null,
+    "stationDeviceLocation": 150998049,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "12号线：站台开往东坝北方向车头\n昌平线：站台开往昌平西山口方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "12号线：站台开往东坝北方向车头\n昌平线：站台开往昌平西山口方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "12号线：站台开往东坝北方向车头\n昌平线：站台开往昌平西山口方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "12号线：C口\n12号线：D口\n昌平线：A口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "12号线：C口（进、出站）\n12号线：B1口（进、出站）\n12号线：B2口（进、出站）\n昌平线：A口（进、出站）\n昌平线：E口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "12号线：有\n昌平线：有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "12号线：开往东坝北方向，有站厅到站台\n12号线：开往东坝北方向，有站台到站厅\n12号线：开往四季青桥方向，有站台到站厅\n12号线：开往四季青桥方向，有站厅到站台\n昌平线：开往昌平西山口方向，有站厅到站台\n昌平线：开往昌平西山口方向，有站台到站厅\n昌平线：开往蓟门桥方向，有站台到站厅\n昌平线：开往蓟门桥方向，有站厅到站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "12号线：无\n昌平线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "12号线：无\n昌平线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "12号线：B口售票厅（招援电话）\n12号线：C口售票厅（招援电话）\n12号线：站台直梯招援（招援电话按钮）\n12号线：站厅直梯招援（招援电话按钮）\n12号线： D口左侧直梯站厅层招援（招援电话按钮）\n12号线：D口中间直梯站厅层招援（招援电话按钮）\n12号线： D口右侧直楼站厅层招援（招援电话按钮）\n12号线： D口左侧直梯地面层招援（招援电话按钮）\n12号线： D口中间直梯地面层招援（招援电话按钮）\n12号线：D口右侧直梯地面层招援（招援电话按钮）\n12号线： C口直梯站厅层招援（招援电话按钮）\n12号线： C口直梯地面层招援（招援电话按钮）\n12号线：站台四季青桥方向车头处（招援电话按钮）\n12号线：站台四季青桥方向车尾处（招援电话按钮）\n12号线： 站台东坝北方向车头处（招援电话按钮）\n12号线： 站台东坝北方向车尾处（招援电话按钮）\n12号线：站台无障碍卫生间（招援电话按钮）\n昌平线：A口售票厅（招援电话按钮）\n昌平线：E口售票厅（招援电话按钮）\n昌平线：站台直梯招援（招援电话按钮）\n昌平线：站厅直梯招援（招援电话按钮）\n昌平线： A口直梯站厅层招援（招援电话按钮）\n昌平线：A口直梯地面层招援（招援电话按钮）\n昌平线：A口出站闸机（招援电话按钮）\n昌平线：北TVM（招援电话按钮）\n昌平线：站厅进站闸机（招援电话按钮）\n昌平线：南TVM（招援电话按钮）\n昌平线：E口出站闸机（招援电话按钮）\n昌平线：站厅换乘通道南（招援电话按钮）\n昌平线：站厅换乘通道北（招援电话按钮）\n昌平线：站台无障碍卫生间（招援电话按钮）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "12号线：站厅东厅，靠近综控室（非付费区）\n昌平线：站厅北厅，靠近综控室（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "12号线：D口、C口均设有无障碍坡道；12号线：B1、B2、C口均设有行李坡道\n昌平线：A口设有无障碍坡道；\n昌平线：A、E口均设有行李坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "12号线：东厅（C口）\n12号线：西厅（B口）\n昌平线：南厅（E口）\n昌平线：北厅（A口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "12号线：东厅（C口、D口）\n昌平线：北厅（A口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "北三环西路",
+          "西土城路",
+          "首都体育学院"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "西土城路",
+          "北京电影学院；"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "北三环中路",
+          "黄亭子路",
+          "北京电影制片厂；北影小区"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "北京邮电大学；西土城路"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "西土城路",
+          "北三环西路",
+          "中国政法大学",
+          "海淀艺术职业学院"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212684,
+      "stationDeviceLocation": 150998049,
+      "stationCode": null,
+      "longitude": 116.355984,
+      "latitude": 39.967744,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1468",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/12号线-蓟门桥站-四季青桥站方向-工作日.jpg",
+        "stationCode": "1233",
+        "lineCode": "12",
+        "stationNameCn": "蓟门桥"
+      },
+      {
+        "id": "1504",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/12号线-蓟门桥站-四季青桥站方向-双休日.jpg",
+        "stationCode": "1233",
+        "lineCode": "12",
+        "stationNameCn": "蓟门桥"
+      },
+      {
+        "id": "1469",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/12号线-蓟门桥站-东坝北站方向-工作日.jpg",
+        "stationCode": "1233",
+        "lineCode": "12",
+        "stationNameCn": "蓟门桥"
+      },
+      {
+        "id": "1507",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/12号线-蓟门桥站-东坝北站方向-双休日.jpg",
+        "stationCode": "1233",
+        "lineCode": "12",
+        "stationNameCn": "蓟门桥"
+      },
+      {
+        "id": "1532",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-蓟门桥站-昌平西山口站方向-工作日.jpg",
+        "stationCode": "9457",
+        "lineCode": "94",
+        "stationNameCn": "蓟门桥"
+      },
+      {
+        "id": "1533",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-蓟门桥站-昌平西山口站方向-双休日.jpg",
+        "stationCode": "9457",
+        "lineCode": "94",
+        "stationNameCn": "蓟门桥"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

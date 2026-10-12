@@ -1,0 +1,217 @@
+{
+  "lines": [
+    {
+      "lineCode": "11",
+      "lineColor": "ED796B",
+      "lineId": 11,
+      "lineName": "11号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:38",
+      "lastTime": "22:28",
+      "startStationName": "模式口",
+      "startStationDeviceLocation": 150997781,
+      "terminalStationName": "新首钢",
+      "terminalStationDeviceLocation": 150997787,
+      "sourceStationName": "模式口",
+      "sourceStationDeviceLocation": 150997781,
+      "destStationName": "新首钢",
+      "destStationDeviceLocation": 150997787,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997781,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "11",
+      "lineColor": "ED796B",
+      "lineId": 11,
+      "lineName": "11号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": null,
+      "lastTime": null,
+      "startStationName": "新首钢",
+      "startStationDeviceLocation": 150997787,
+      "terminalStationName": "模式口",
+      "terminalStationDeviceLocation": 150997781,
+      "sourceStationName": "新首钢",
+      "sourceStationDeviceLocation": 150997787,
+      "destStationName": "模式口",
+      "destStationDeviceLocation": 150997781,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997781,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "模式口",
+    "stationCode": null,
+    "stationDeviceLocation": 150997781,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "站台开往新首钢方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "站台开往新首钢方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "A口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "A口（进站、出站）\nB口（进站、出站）\nC口（进站、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "厅台中部开往新首钢方向20门",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往新首钢方向，有站厅到站台\n开往新首钢方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "C口安检（可通话）\n站台西侧，靠近卫生间（可通话）\n站厅西侧，靠近警务室（可通话）\n站厅西侧，靠近综控室（可通话）\n站厅中部，靠近B口出站闸机（可通话）\n站厅中部，靠近PIS（可通话）\n站厅东侧，靠近人工售票厅（可通话）\nA口通道内（可通话）\nC口通道内（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站厅北侧，靠近综控室（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "A口直梯、坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "北厅\n中厅\nC口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "北侧办公区",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "石门路（东侧）",
+          "北京市第九中学；"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "石门路（东侧）"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "石门路（西侧）",
+          "石景山中学",
+          "石景山小学；"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212683,
+      "stationDeviceLocation": 150997781,
+      "stationCode": null,
+      "longitude": 116.155815,
+      "latitude": 39.933801,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1410",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/11号线-模式口站-新首钢站方向-工作日.jpg",
+        "stationCode": "1121",
+        "lineCode": "11",
+        "stationNameCn": "模式口"
+      },
+      {
+        "id": "1005",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/11号线-模式口站-新首钢站方向-双休日.jpg",
+        "stationCode": "1121",
+        "lineCode": "11",
+        "stationNameCn": "模式口"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

@@ -1,0 +1,230 @@
+{
+  "lines": [
+    {
+      "lineCode": "96",
+      "lineColor": "E20072",
+      "lineId": 96,
+      "lineName": "亦庄线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "6:05",
+      "lastTime": "23:25",
+      "startStationName": "宋家庄",
+      "startStationDeviceLocation": 151019541,
+      "terminalStationName": "亦庄火车站",
+      "terminalStationDeviceLocation": 151019567,
+      "sourceStationName": "宋家庄",
+      "sourceStationDeviceLocation": 151019541,
+      "destStationName": "亦庄火车站",
+      "destStationDeviceLocation": 151019567,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019545,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "96",
+      "lineColor": "E20072",
+      "lineId": 96,
+      "lineName": "亦庄线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:48",
+      "lastTime": "23:08",
+      "startStationName": "亦庄火车站",
+      "startStationDeviceLocation": 151019567,
+      "terminalStationName": "宋家庄",
+      "terminalStationDeviceLocation": 151019541,
+      "sourceStationName": "亦庄火车站",
+      "sourceStationDeviceLocation": 151019567,
+      "destStationName": "宋家庄",
+      "destStationDeviceLocation": 151019541,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019545,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "小红门",
+    "stationCode": null,
+    "stationDeviceLocation": 151019545,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "开往亦庄火车站方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "开往亦庄火车站方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "开往亦庄火车站方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "A口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "A口（进、出站）                   B口（进、出站）                   D口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往宋家庄方向，有站台到站厅              开往亦庄火车站方向，无站厅到站台      开往宋家庄方向，有站台到站厅      开往亦庄火车站方向，无站厅到站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "A、B口人工售票厅（可通话）\nD口人工售票厅 （可通话）\n北厅进站闸机处 （可通话）\n南厅进站闸机处（可通话）\n北厅出站闸机处（可通话）\n南厅出站闸机处（可通话）\nA口、站厅直梯内（可通话）\nA口通道直梯旁（紧急电话，可通话）\n站台残卫内（仅呼叫）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站厅北厅，靠近综控室（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "A口直梯、坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "北厅（A口、B口），南厅（D口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "北厅（B口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "小红门路"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "小红门路",
+          "朝阳实验小学（南校区）"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "小红门东路",
+          "红坊路"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212768,
+      "stationDeviceLocation": 151019545,
+      "stationCode": null,
+      "longitude": 116.459226,
+      "latitude": 39.827951,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1644",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/亦庄线-小红门站-宋家庄站方向-工作日.jpg",
+        "stationCode": "9625",
+        "lineCode": "96",
+        "stationNameCn": "小红门"
+      },
+      {
+        "id": "1632",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/亦庄线-小红门站-宋家庄站方向-双休日.jpg",
+        "stationCode": "9625",
+        "lineCode": "96",
+        "stationNameCn": "小红门"
+      },
+      {
+        "id": "158",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/亦庄线-小红门站-亦庄火车站方向-工作日.jpg",
+        "stationCode": "9625",
+        "lineCode": "96",
+        "stationNameCn": "小红门"
+      },
+      {
+        "id": "356",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/亦庄线-小红门站-亦庄火车站方向-双休日.jpg",
+        "stationCode": "9625",
+        "lineCode": "96",
+        "stationNameCn": "小红门"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

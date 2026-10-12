@@ -1,0 +1,438 @@
+{
+  "lines": [
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "4:47",
+      "lastTime": "20:57",
+      "startStationName": "知春路",
+      "startStationDeviceLocation": 150997513,
+      "terminalStationName": "牡丹园",
+      "terminalStationDeviceLocation": 150997517,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997515,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "4:47",
+      "lastTime": "22:41",
+      "startStationName": "知春路",
+      "startStationDeviceLocation": 150997513,
+      "terminalStationName": "牡丹园",
+      "terminalStationDeviceLocation": 150997517,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997515,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "4:47",
+      "lastTime": "23:05",
+      "startStationName": "知春路",
+      "startStationDeviceLocation": 150997513,
+      "terminalStationName": "牡丹园",
+      "terminalStationDeviceLocation": 150997517,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "成寿寺",
+      "destStationDeviceLocation": 151018013,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997515,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "6:10",
+      "lastTime": "22:24",
+      "startStationName": "牡丹园",
+      "startStationDeviceLocation": 150997517,
+      "terminalStationName": "知春路",
+      "terminalStationDeviceLocation": 150997513,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997515,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "6:10",
+      "lastTime": "0:09",
+      "startStationName": "牡丹园",
+      "startStationDeviceLocation": 150997517,
+      "terminalStationName": "知春路",
+      "terminalStationDeviceLocation": 150997513,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997515,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "94",
+      "lineColor": "DD83B0",
+      "lineId": 94,
+      "lineName": "昌平线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:33",
+      "lastTime": "23:49",
+      "startStationName": "昌平西山口",
+      "startStationDeviceLocation": 151019027,
+      "terminalStationName": "蓟门桥",
+      "terminalStationDeviceLocation": 151019065,
+      "sourceStationName": "昌平西山口",
+      "sourceStationDeviceLocation": 151019027,
+      "destStationName": "蓟门桥",
+      "destStationDeviceLocation": 151019065,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019063,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "94",
+      "lineColor": "DD83B0",
+      "lineId": 94,
+      "lineName": "昌平线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:33",
+      "lastTime": null,
+      "startStationName": "昌平西山口",
+      "startStationDeviceLocation": 151019027,
+      "terminalStationName": "朱辛庄",
+      "terminalStationDeviceLocation": 151019045,
+      "sourceStationName": "昌平西山口",
+      "sourceStationDeviceLocation": 151019027,
+      "destStationName": "朱辛庄",
+      "destStationDeviceLocation": 151019045,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151019063,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "94",
+      "lineColor": "DD83B0",
+      "lineId": 94,
+      "lineName": "昌平线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:22",
+      "lastTime": "23:22",
+      "startStationName": "蓟门桥",
+      "startStationDeviceLocation": 151019065,
+      "terminalStationName": "昌平西山口",
+      "terminalStationDeviceLocation": 151019027,
+      "sourceStationName": "蓟门桥",
+      "sourceStationDeviceLocation": 151019065,
+      "destStationName": "昌平西山口",
+      "destStationDeviceLocation": 151019027,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019063,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "西土城",
+    "stationCode": null,
+    "stationDeviceLocation": 150997515,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "开往知春路方向车尾站台\n开往牡丹园方向车头站台\n昌平线：开往蓟门桥方向车头站台\n昌平线：开往昌平西山口方向车尾站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "开往知春路方向车尾站台\n开往牡丹园方向车头站台\n昌平线：开往蓟门桥方向车头站台\n昌平线：开往昌平西山口方向车尾站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "开往知春路方向车尾站台\n开往牡丹园方向车头站台\n昌平线：开往蓟门桥方向车头站台\n昌平线：开往昌平西山口方向车尾站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "C口\n昌平线：E口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "A口（进出站）\nB口（进出站）\nC口（进出站）\nD口（出站）（出站，局部设扶梯）\n昌平线：E口（进出站）\n昌平线：F口（出站）（出站，局部设扶梯）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "开往知春路方向，有\n开往牡丹园方向，有\n昌平线：开往蓟门桥方向，有\n昌平线：开往昌平西山口方向，有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往牡丹园方向，有站厅到站台\n开往牡丹园方向，有站台到站厅\n开往知春路方向，有站厅到站台\n开往知春路方向，有站台到站厅      D口通道至西厅\n昌平线：开往昌平西山口方向，有站厅到站台\n昌平线：开往昌平西山口方向，有站台到站厅\n昌平线：开往蓟门桥方向，有站厅到站台\n昌平线：开往蓟门桥方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "昌平线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "昌平线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "A口BOM（可通话）                                            B口出站（可通话）                                                     B口BOM（可通话）                                             C口TVM（可通话）                                                  C口BOM（可通话）                                            D口BOM（可通话）                                               站台东侧残卫（可通话）\n昌平线：站厅北侧，靠近E口进站闸机（可通话）\n昌平线：站厅北侧，靠近E口出站闸机（可通话）\n昌平线：站厅中部，靠近F口进站闸机（可通话）\n昌平线：站厅南侧，靠近F口出站闸机（可通话）\n昌平线：F口人工售票厅（可通话）\n昌平线：E口人工售票厅（可通话）\n昌平线：昌平线换乘10号线东侧双向通道入口（可通话）\n昌平线：昌平线换乘10号线西侧双向通道入口（可通话）\n昌平线：站台南侧残卫（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "东站厅东侧（付费区）\n昌平线：站厅中部（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "C口坡道\n昌平线：E口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "A口\nB口\nC口\nD口\n昌平线：站厅中部",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "昌平线：南厅（F口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "知春路",
+          "学院路",
+          "北京航空航天大学",
+          "致真大厦",
+          "青葵律师事务所",
+          "慈铭体检学院路分院"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "学院路",
+          "北土城西路",
+          "中国电信博物馆",
+          "北京大学第六医院",
+          "北京大学第三医院"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "西土城路",
+          "北土城西路",
+          "北京电影学院"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "西土城路",
+          "知春路",
+          "北京泰富酒店",
+          "中国标准化研究院"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "西土城路",
+          "北京电影学院",
+          "元土城遗址公园",
+          "前进小学",
+          "北影小区"
+        ]
+      },
+      {
+        "name": "F",
+        "desc": null,
+        "nearby": [
+          "健安西路",
+          "西土城路",
+          "北京电影学院",
+          "元土城遗址公园",
+          "前进小学",
+          "北影小区"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212682,
+      "stationDeviceLocation": 150997515,
+      "stationCode": null,
+      "longitude": 116.354098,
+      "latitude": 39.976549,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1405",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-西土城站-知春路站方向-工作日.jpg",
+        "stationCode": "1011",
+        "lineCode": "10",
+        "stationNameCn": "西土城"
+      },
+      {
+        "id": "1402",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-西土城站-知春路站方向-双休日.jpg",
+        "stationCode": "1011",
+        "lineCode": "10",
+        "stationNameCn": "西土城"
+      },
+      {
+        "id": "1403",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-西土城站-牡丹园站方向-工作日.jpg",
+        "stationCode": "1011",
+        "lineCode": "10",
+        "stationNameCn": "西土城"
+      },
+      {
+        "id": "1404",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-西土城站-牡丹园站方向-双休日.jpg",
+        "stationCode": "1011",
+        "lineCode": "10",
+        "stationNameCn": "西土城"
+      },
+      {
+        "id": "1552",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-西土城站-蓟门桥站方向-工作日.jpg",
+        "stationCode": "9455",
+        "lineCode": "94",
+        "stationNameCn": "西土城"
+      },
+      {
+        "id": "1551",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-西土城站-蓟门桥站方向-双休日.jpg",
+        "stationCode": "9455",
+        "lineCode": "94",
+        "stationNameCn": "西土城"
+      },
+      {
+        "id": "1351",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-西土城站-昌平西山口站方向-工作日.jpg",
+        "stationCode": "9455",
+        "lineCode": "94",
+        "stationNameCn": "西土城"
+      },
+      {
+        "id": "888",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/昌平线-西土城站-昌平西山口站方向-双休日.jpg",
+        "stationCode": "9455",
+        "lineCode": "94",
+        "stationNameCn": "西土城"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

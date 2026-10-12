@@ -1,0 +1,318 @@
+{
+  "lines": [
+    {
+      "lineCode": "17",
+      "lineColor": "00A9A9",
+      "lineId": 17,
+      "lineName": "17号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:39",
+      "lastTime": "23:01",
+      "startStationName": "未来科学城北",
+      "startStationDeviceLocation": 150999317,
+      "terminalStationName": "嘉会湖",
+      "terminalStationDeviceLocation": 150999357,
+      "sourceStationName": "未来科学城北",
+      "sourceStationDeviceLocation": 150999317,
+      "destStationName": "嘉会湖",
+      "destStationDeviceLocation": 150999357,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150999335,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "17",
+      "lineColor": "00A9A9",
+      "lineId": 17,
+      "lineName": "17号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:53",
+      "lastTime": "23:05",
+      "startStationName": "嘉会湖",
+      "startStationDeviceLocation": 150999357,
+      "terminalStationName": "未来科学城北",
+      "terminalStationDeviceLocation": 150999317,
+      "sourceStationName": "嘉会湖",
+      "sourceStationDeviceLocation": 150999357,
+      "destStationName": "未来科学城北",
+      "destStationDeviceLocation": 150999317,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150999335,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "03",
+      "lineColor": "E50033",
+      "lineId": 3,
+      "lineName": "3号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:36",
+      "lastTime": "23:26",
+      "startStationName": "东四十条",
+      "startStationDeviceLocation": 150995733,
+      "terminalStationName": "东坝北",
+      "terminalStationDeviceLocation": 150995751,
+      "sourceStationName": "东四十条",
+      "sourceStationDeviceLocation": 150995733,
+      "destStationName": "东坝北",
+      "destStationDeviceLocation": 150995751,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995735,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "03",
+      "lineColor": "E50033",
+      "lineId": 3,
+      "lineName": "3号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:27",
+      "lastTime": "23:12",
+      "startStationName": "东坝北",
+      "startStationDeviceLocation": 150995751,
+      "terminalStationName": "东四十条",
+      "terminalStationDeviceLocation": 150995733,
+      "sourceStationName": "东坝北",
+      "sourceStationDeviceLocation": 150995751,
+      "destStationName": "东四十条",
+      "destStationDeviceLocation": 150995733,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995735,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "工人体育场",
+    "stationCode": null,
+    "stationDeviceLocation": 150999335,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "3号线：付费区开往东四十条方向车头\n开往未来科学城北方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "3号线：付费区开往东四十条方向车头\n开往未来科学城北方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "3号线：付费区开往东四十条方向车头\n开往未来科学城北方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "3号线：A口\nF口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "3号线：A口（进、出站）\n3号线：B口（进、出站）\n3号线：G口（进、出站）\n3号线：F口（进、出站）\nC口（进、出站）\nD口（进、出站）\nF口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "3号线：有站厅中部，有，开往东坝北方向17门\n有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "3号线：开往东四十条方向，有站厅到站台\n3号线：开往东四十条方向，有站台到站厅\n3号线：开往东坝北方向，有站厅到站台\n3号线：开往东坝北方向，有站台到站厅\n开往未来科学城北方向，有站台到站厅\n开往未来科学城北方向，无站厅到站台\n开往嘉会湖方向，有站厅到站台\n开往嘉会湖方向，无站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "3号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "3号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "3号线：站台两端(可通话)\n3号线：A、G口人工售票厅(可通话)\n3号线：B口人工售票厅(可通话)\n3号线：H口人工售票厅(可通话)\n站台两端及中部（可通话）\n站厅北厅墙壁，靠近综控室（可通话）\n站厅南厅墙壁，靠近F口（可通话）\n无障碍卫生间招援（可通话）\n母婴室（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "3号线：站厅西侧，靠近综控室（非付费区）\n站台开往未来科学城北方向第19门",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "3号线：A口坡道\n3号线：A口直梯坡道\n3号线：B口坡道\nF口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "3号线：西厅（A口）\n3号线：东厅中部（B口）\n3号线：东厅南部（H口）\n北厅（C口）\n南厅（D口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "3号线：西厅（A口）\n北厅（C口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A口",
+        "desc": null,
+        "nearby": [
+          "工人体育场北路",
+          "幸福一村三巷",
+          "世茂广场"
+        ]
+      },
+      {
+        "name": "B口",
+        "desc": null,
+        "nearby": [
+          "工人体育场北路",
+          "幸福一村三巷",
+          "世茂广场"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "新东路西侧",
+          "新东路",
+          "世茂国际中心"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "工人体育场北路北侧",
+          "工人体育场北路",
+          "雅秀西路",
+          "三里屯太古里",
+          "北京三里屯Soho",
+          "东审会计师事务所"
+        ]
+      },
+      {
+        "name": "F",
+        "desc": null,
+        "nearby": [
+          "工人体育场东路西侧",
+          "工人体育场",
+          "工人体育场东路"
+        ]
+      },
+      {
+        "name": "G口",
+        "desc": null,
+        "nearby": [
+          "工人体育场北路",
+          "北京工人体育场"
+        ]
+      },
+      {
+        "name": "H口",
+        "desc": null,
+        "nearby": [
+          "工人体育场北路",
+          "工人体育场东路",
+          "北京工人体育场"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212689,
+      "stationDeviceLocation": 150999335,
+      "stationCode": null,
+      "longitude": 116.449106,
+      "latitude": 39.933754,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1422",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/3号线-工人体育场站-东坝北站方向-工作日.jpg",
+        "stationCode": "0323",
+        "lineCode": "03",
+        "stationNameCn": "工人体育场"
+      },
+      {
+        "id": "1444",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/3号线-工人体育场站-东坝北站方向-双休日.jpg",
+        "stationCode": "0323",
+        "lineCode": "03",
+        "stationNameCn": "工人体育场"
+      },
+      {
+        "id": "1423",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/3号线-工人体育场站-东四十条站方向-工作日.jpg",
+        "stationCode": "0323",
+        "lineCode": "03",
+        "stationNameCn": "工人体育场"
+      },
+      {
+        "id": "1441",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/3号线-工人体育场站-东四十条站方向-双休日.jpg",
+        "stationCode": "0323",
+        "lineCode": "03",
+        "stationNameCn": "工人体育场"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

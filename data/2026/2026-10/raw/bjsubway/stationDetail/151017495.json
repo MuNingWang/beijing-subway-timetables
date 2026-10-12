@@ -1,0 +1,409 @@
+{
+  "lines": [
+    {
+      "lineCode": "88",
+      "lineColor": "004E9B",
+      "lineId": 88,
+      "lineName": "大兴机场线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:30",
+      "lastTime": "22:30",
+      "startStationName": "草桥",
+      "startStationDeviceLocation": 151017495,
+      "terminalStationName": "大兴机场",
+      "terminalStationDeviceLocation": 151017499,
+      "sourceStationName": "草桥",
+      "sourceStationDeviceLocation": 151017495,
+      "destStationName": "大兴机场",
+      "destStationDeviceLocation": 151017499,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151017495,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "88",
+      "lineColor": "004E9B",
+      "lineId": 88,
+      "lineName": "大兴机场线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": null,
+      "lastTime": null,
+      "startStationName": "大兴机场",
+      "startStationDeviceLocation": 151017499,
+      "terminalStationName": "草桥",
+      "terminalStationDeviceLocation": 151017495,
+      "sourceStationName": "大兴机场",
+      "sourceStationDeviceLocation": 151017499,
+      "destStationName": "草桥",
+      "destStationDeviceLocation": 151017495,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151017495,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "19",
+      "lineColor": "D6ABC1",
+      "lineId": 19,
+      "lineName": "19号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:51",
+      "lastTime": "23:31",
+      "startStationName": "牡丹园",
+      "startStationDeviceLocation": 150999829,
+      "terminalStationName": "新宫",
+      "terminalStationDeviceLocation": 150999847,
+      "sourceStationName": "牡丹园",
+      "sourceStationDeviceLocation": 150999829,
+      "destStationName": "新宫",
+      "destStationDeviceLocation": 150999847,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150999843,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "19",
+      "lineColor": "D6ABC1",
+      "lineId": 19,
+      "lineName": "19号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:35",
+      "lastTime": "23:30",
+      "startStationName": "新宫",
+      "startStationDeviceLocation": 150999847,
+      "terminalStationName": "牡丹园",
+      "terminalStationDeviceLocation": 150999829,
+      "sourceStationName": "新宫",
+      "sourceStationDeviceLocation": 150999847,
+      "destStationName": "牡丹园",
+      "destStationDeviceLocation": 150999829,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150999843,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:20",
+      "lastTime": "21:56",
+      "startStationName": "角门西",
+      "startStationDeviceLocation": 151018023,
+      "terminalStationName": "纪家庙",
+      "terminalStationDeviceLocation": 151018027,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151018025,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:20",
+      "lastTime": "22:17",
+      "startStationName": "角门西",
+      "startStationDeviceLocation": 151018023,
+      "terminalStationName": "纪家庙",
+      "terminalStationDeviceLocation": 151018027,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "成寿寺",
+      "destStationDeviceLocation": 151018013,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151018025,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:20",
+      "lastTime": "23:40",
+      "startStationName": "角门西",
+      "startStationDeviceLocation": 151018023,
+      "terminalStationName": "纪家庙",
+      "terminalStationDeviceLocation": 151018027,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151018025,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:24",
+      "lastTime": "21:24",
+      "startStationName": "纪家庙",
+      "startStationDeviceLocation": 151018027,
+      "terminalStationName": "角门西",
+      "terminalStationDeviceLocation": 151018023,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151018025,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:24",
+      "lastTime": "23:10",
+      "startStationName": "纪家庙",
+      "startStationDeviceLocation": 151018027,
+      "terminalStationName": "角门西",
+      "terminalStationDeviceLocation": 151018023,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151018025,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "草桥",
+    "stationCode": null,
+    "stationDeviceLocation": 151017495,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "10号线：开往角门西方向车头\n开往新宫方向车头（付费区）\n开往草桥方向车头（付费区）\n开往大兴机场方向车头（商务、付费区）\n开往大兴机场方向车尾（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "10号线：开往角门西方向车头\n开往新宫方向车头（付费区）\n开往大兴机场方向车尾（付费区）\n开往草桥方向车头（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "10号线：开往角门西方向车头\n开往新宫方向车头（付费区）\n开往大兴机场方向车尾（付费区）\n开往草桥方向车头（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "10号线：A口\nF口\nG口\nE口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "10号线：A口（进、出站）\n10号线：B口（进、出站）\nF口（进、出站）\nG口（进、出站）\nE口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "10号线：有\n有\n开往大兴机场方向，有\n开往草桥方向，有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "10号线：开往角门西方向，有站台到站厅\n10号线：开往纪家庙方向，有站台到站厅\n开往新宫方向，有站厅至站台\n开往新宫方向，有站台至站厅\n开往牡丹园方向，有站台至站厅\n开往牡丹园方向，有站厅至站台\n开往大兴机场方向，有站厅到站台\n开往大兴机场方向，无站台到站厅\n开往草桥方向，无站厅到站台\n开往草桥方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "10号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "10号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "10号线：A口人工售票厅（可通话）\n10号线：B口人工售票厅（可通话）\n无障碍卫生间（可通话）\n站台中部，靠近开往新宫方向14门（可通话）\n站台中部，靠近开往牡丹园方向14门（可通话）\nF口人工售票厅（可通话）\nG口人工售票厅（可通话）\n站台母婴室（可通话）\n下行站台头端1个（可通话）\n下行站台尾端1个（可通话）\n下行无障碍卫生间1个（可通话）\n上行站台头端1个（可通话）\n上行站台尾端1个（可通话）\n上行无障碍卫生间1个（可通话）\n下行南票亭2个（可通话）\n下行北票亭2个（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "10号线：站厅东厅，靠近B口出站闸机 （付费区）\n站厅北厅（靠近综控室，非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "10号线： A口坡道\nF口                                     G口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "10号线：西厅 （A口）\n10号线：东厅（ B口）\n北厅（F口）\n南厅（G口）\n西厅南侧（E口）\n西厅北侧（E口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "10号线：东厅B口\n北厅（F口）\n北厅（E口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "镇国寺北街（北侧）",
+          "草桥欣园四区",
+          "北京基都教会丰台堂"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "镇国寺北街（北侧）",
+          "草桥欣园一区；"
+        ]
+      },
+      {
+        "name": "E1",
+        "desc": null,
+        "nearby": [
+          "草桥站前路",
+          "草桥滨河路"
+        ]
+      },
+      {
+        "name": "F",
+        "desc": null,
+        "nearby": [
+          "草桥西路",
+          "草桥北街"
+        ]
+      },
+      {
+        "name": "G",
+        "desc": null,
+        "nearby": [
+          "镇国寺北街",
+          "草桥西路"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212760,
+      "stationDeviceLocation": 151017495,
+      "stationCode": null,
+      "longitude": 116.351387,
+      "latitude": 39.845869,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "673",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-草桥站-角门西站方向-工作日.jpg",
+        "stationCode": "9041",
+        "lineCode": "10",
+        "stationNameCn": "草桥"
+      },
+      {
+        "id": "697",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-草桥站-角门西站方向-双休日.jpg",
+        "stationCode": "9041",
+        "lineCode": "10",
+        "stationNameCn": "草桥"
+      },
+      {
+        "id": "1570",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-草桥站-纪家庙站方向-工作日.jpg",
+        "stationCode": "9041",
+        "lineCode": "10",
+        "stationNameCn": "草桥"
+      },
+      {
+        "id": "2032",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-草桥站-纪家庙站方向-双休日.jpg",
+        "stationCode": "9041",
+        "lineCode": "10",
+        "stationNameCn": "草桥"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

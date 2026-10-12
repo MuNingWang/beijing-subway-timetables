@@ -1,0 +1,200 @@
+{
+  "lines": [
+    {
+      "lineCode": "98",
+      "lineColor": "A09AB8",
+      "lineId": 98,
+      "lineName": "首都机场线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": null,
+      "lastTime": null,
+      "startStationName": "北新桥",
+      "startStationDeviceLocation": 151020051,
+      "terminalStationName": "2号航站楼",
+      "terminalStationDeviceLocation": 151020057,
+      "sourceStationName": "北新桥",
+      "sourceStationDeviceLocation": 151020051,
+      "destStationName": "2号航站楼",
+      "destStationDeviceLocation": 151020057,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151020057,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "98",
+      "lineColor": "A09AB8",
+      "lineId": 98,
+      "lineName": "首都机场线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "6:36",
+      "lastTime": "23:10",
+      "startStationName": "2号航站楼",
+      "startStationDeviceLocation": 151020057,
+      "terminalStationName": "北新桥",
+      "terminalStationDeviceLocation": 151020051,
+      "sourceStationName": "2号航站楼",
+      "sourceStationDeviceLocation": 151020057,
+      "destStationName": "北新桥",
+      "destStationDeviceLocation": 151020051,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151020057,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "2号航站楼",
+    "stationCode": null,
+    "stationDeviceLocation": 151020057,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "站厅到站厅有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "B2层站厅到B1层站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "站台南端，靠近警务室（可通话）\n站台中部，靠近站务站岗亭（可通话）\n站厅，靠近进站闸机（可通话）\n站厅中部，靠近去往1、2号航站楼通道内，靠近网络取票机，（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站台北侧，靠近开往北新桥方向4-2门（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "站厅中部",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "站台南端",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "地面出入口",
+        "desc": null,
+        "nearby": [
+          "无"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212770,
+      "stationDeviceLocation": 151020057,
+      "stationCode": null,
+      "longitude": 116.592808,
+      "latitude": 40.079311,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "2073",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/首都机场线-2号航站楼站-北新桥方向.jpg",
+        "stationCode": "9825",
+        "lineCode": "98",
+        "stationNameCn": "2号航站楼"
+      },
+      {
+        "id": "2019",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/首都机场线-2号航站楼站-北新桥方向-周五.jpg",
+        "stationCode": "9825",
+        "lineCode": "98",
+        "stationNameCn": "2号航站楼"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

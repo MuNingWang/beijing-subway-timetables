@@ -1,0 +1,369 @@
+{
+  "lines": [
+    {
+      "lineCode": "03",
+      "lineColor": "E50033",
+      "lineId": 3,
+      "lineName": "3号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:35",
+      "lastTime": "23:25",
+      "startStationName": "东四十条",
+      "startStationDeviceLocation": 150995733,
+      "terminalStationName": "东坝北",
+      "terminalStationDeviceLocation": 150995751,
+      "sourceStationName": "东四十条",
+      "sourceStationDeviceLocation": 150995733,
+      "destStationName": "东坝北",
+      "destStationDeviceLocation": 150995751,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995733,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "03",
+      "lineColor": "E50033",
+      "lineId": 3,
+      "lineName": "3号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": null,
+      "lastTime": null,
+      "startStationName": "东坝北",
+      "startStationDeviceLocation": 150995751,
+      "terminalStationName": "东四十条",
+      "terminalStationDeviceLocation": 150995733,
+      "sourceStationName": "东坝北",
+      "sourceStationDeviceLocation": 150995751,
+      "destStationName": "东四十条",
+      "destStationDeviceLocation": 150995733,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995733,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "02",
+      "lineColor": "0F6192",
+      "lineId": 2,
+      "lineName": "2号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:21",
+      "lastTime": "22:42",
+      "startStationName": "朝阳门",
+      "startStationDeviceLocation": 150995468,
+      "terminalStationName": "东直门",
+      "terminalStationDeviceLocation": 150995470,
+      "sourceStationName": "西直门",
+      "sourceStationDeviceLocation": 150995457,
+      "destStationName": "西直门",
+      "destStationDeviceLocation": 150995457,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995469,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "02",
+      "lineColor": "0F6192",
+      "lineId": 2,
+      "lineName": "2号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:21",
+      "lastTime": "23:27",
+      "startStationName": "朝阳门",
+      "startStationDeviceLocation": 150995468,
+      "terminalStationName": "东直门",
+      "terminalStationDeviceLocation": 150995470,
+      "sourceStationName": "西直门",
+      "sourceStationDeviceLocation": 150995457,
+      "destStationName": "积水潭",
+      "destStationDeviceLocation": 150995474,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150995469,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "02",
+      "lineColor": "0F6192",
+      "lineId": 2,
+      "lineName": "2号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:15",
+      "lastTime": "22:30",
+      "startStationName": "东直门",
+      "startStationDeviceLocation": 150995470,
+      "terminalStationName": "朝阳门",
+      "terminalStationDeviceLocation": 150995468,
+      "sourceStationName": "积水潭",
+      "sourceStationDeviceLocation": 150995474,
+      "destStationName": "积水潭",
+      "destStationDeviceLocation": 150995474,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995469,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "02",
+      "lineColor": "0F6192",
+      "lineId": 2,
+      "lineName": "2号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:15",
+      "lastTime": "23:15",
+      "startStationName": "东直门",
+      "startStationDeviceLocation": 150995470,
+      "terminalStationName": "朝阳门",
+      "terminalStationDeviceLocation": 150995468,
+      "sourceStationName": "积水潭",
+      "sourceStationDeviceLocation": 150995474,
+      "destStationName": "西直门",
+      "destStationDeviceLocation": 150995457,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150995469,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "东四十条",
+    "stationCode": null,
+    "stationDeviceLocation": 150995733,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "2号线：付费区开往东直门方向车尾\n3号线：付费区开往工人体育场方向车头（男）开往东四十条方向车尾（女）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "2号线：付费区开往东直门方向车尾\n3号线：付费区开往工人体育场方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "2号线：付费区开往东直门方向车尾\n3号线：付费区开往东四十条方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "2号线：C口\n2号线：D口\n3号线：C口\n3号线：D口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "2号线：A口（出站）\n2号线：B口（出站）\n2号线：C口（出站）\n2号线：D口（出站）\n3号线：A口（出站）\n3号线：B口（出站）\n3号线：C口（出站）\n3号线：D口（出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "2号线：有（2号线站台）\n3号线：开往东四十条方向，有\n3号线：开往工人体育场方向，有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "2号线：无\n3号线：开往东四十条方向，有站厅到站台\n3号线：开往东四十条方向，有站台到站厅\n3号线：开往东坝北方向，有站厅到站台\n3号线：开往东坝北方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "2号线：厅台南侧楼梯 、C口楼梯、B口楼梯\n3号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "2号线：北厅\n3号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "2号线：南厅补票室外（可通话）                                               2号线：北厅补票室外（可通话）\n2号线：北站台（可通话）\n2号线：南站台（可通话）\n2号线：北厅出站（可通话）\n2号线：南厅出站（可通话）\n2号线：北厅进站（可通话）\n2号线：南厅进站（可通话）\n2号线：北厅BOM室\n2号线：南厅BOM室\n2号线：残卫（可通话）\n2号线：C口地面（可通话）\n2号线：B口地面（可通话）\n2号线：南厅东侧通道门 （可通话）\n2号线：南厅西侧通道门（可通话）\n2号线：北厅东侧通道门（可通话）\n2号线：北厅西侧通道门（可通话）\n3号线：东转换层（可通话）\n3号线：东换乘通道墙壁（可通话）\n3号线：下行1号横通道（可通话）\n3号线：上行1号横通道（可通话）\n3号线：下行4号横通道（可通话）\n3号线：上行4号横通道（可通话)\n3号线：D口通道墙壁（可通话）\n3号线：残卫（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "2号线：南厅（C口、D口）\n3号线：东转换层",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "2号线：C口坡道\n2号线：B口坡道\n2号线：D口坡道\n3号线：C口坡道\n3号线：B口坡道\n3号线：D口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "2号线：南厅（C口、D口）                        2号线：北厅（A口、B口）\n3号线：东厅（B口、C口）\n3号线：西厅（A口、D口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "2号线：北厅（D口）\n3号线：东厅（BC口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "中国青年报社  东直门医院"
+        ]
+      },
+      {
+        "name": "A口",
+        "desc": null,
+        "nearby": [
+          "中国青年报社  东直门医院"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "保利大厦"
+        ]
+      },
+      {
+        "name": "B口",
+        "desc": null,
+        "nearby": [
+          "保利大厦"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "信永中和    北京工人体育场  北京工人体育馆  北京市长安公证处   北京港澳中心瑞士酒店"
+        ]
+      },
+      {
+        "name": "C口",
+        "desc": null,
+        "nearby": [
+          "信永中和    北京工人体育场  北京工人体育馆  北京市长安公证处   北京港澳中心瑞士酒店"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "解放军总医院第七医学院   招商证券北京东四十条营业部    北京市闻律师事务所   工银安盛人手北京分公司"
+        ]
+      },
+      {
+        "name": "D口",
+        "desc": null,
+        "nearby": [
+          "解放军总医院第七医学院   招商证券北京东四十条营业部    北京市闻律师事务所   工银安盛人手北京分公司"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212675,
+      "stationDeviceLocation": 150995733,
+      "stationCode": null,
+      "longitude": 116.434125,
+      "latitude": 39.933698,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "890",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/2号线-东四十条站-朝阳门站方向-工作日.jpg",
+        "stationCode": "0213",
+        "lineCode": "02",
+        "stationNameCn": "东四十条"
+      },
+      {
+        "id": "1222",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/2号线-东四十条站-朝阳门站方向-双休日.jpg",
+        "stationCode": "0213",
+        "lineCode": "02",
+        "stationNameCn": "东四十条"
+      },
+      {
+        "id": "891",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/2号线-东四十条站-东直门站方向-工作日.jpg",
+        "stationCode": "0213",
+        "lineCode": "02",
+        "stationNameCn": "东四十条"
+      },
+      {
+        "id": "86",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/2号线-东四十条站-东直门站方向-双休日.jpg",
+        "stationCode": "0213",
+        "lineCode": "02",
+        "stationNameCn": "东四十条"
+      },
+      {
+        "id": "1421",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/3号线-东四十条站-东坝北站方向-工作日.jpg",
+        "stationCode": "0321",
+        "lineCode": "03",
+        "stationNameCn": "东四十条"
+      },
+      {
+        "id": "1439",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/3号线-东四十条站-东坝北站方向-双休日.jpg",
+        "stationCode": "0321",
+        "lineCode": "03",
+        "stationNameCn": "东四十条"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

@@ -1,0 +1,401 @@
+{
+  "lines": [
+    {
+      "lineCode": "03",
+      "lineColor": "E50033",
+      "lineId": 3,
+      "lineName": "3号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:39",
+      "lastTime": "23:29",
+      "startStationName": "东四十条",
+      "startStationDeviceLocation": 150995733,
+      "terminalStationName": "东坝北",
+      "terminalStationDeviceLocation": 150995751,
+      "sourceStationName": "东四十条",
+      "sourceStationDeviceLocation": 150995733,
+      "destStationName": "东坝北",
+      "destStationDeviceLocation": 150995751,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995737,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "03",
+      "lineColor": "E50033",
+      "lineId": 3,
+      "lineName": "3号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:25",
+      "lastTime": "23:10",
+      "startStationName": "东坝北",
+      "startStationDeviceLocation": 150995751,
+      "terminalStationName": "东四十条",
+      "terminalStationDeviceLocation": 150995733,
+      "sourceStationName": "东坝北",
+      "sourceStationDeviceLocation": 150995751,
+      "destStationName": "东四十条",
+      "destStationDeviceLocation": 150995733,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150995737,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:12",
+      "lastTime": "21:22",
+      "startStationName": "农业展览馆",
+      "startStationDeviceLocation": 150997535,
+      "terminalStationName": "呼家楼",
+      "terminalStationDeviceLocation": 150997539,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997537,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:12",
+      "lastTime": "23:30",
+      "startStationName": "农业展览馆",
+      "startStationDeviceLocation": 150997535,
+      "terminalStationName": "呼家楼",
+      "terminalStationDeviceLocation": 150997539,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "成寿寺",
+      "destStationDeviceLocation": 151018013,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997537,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:12",
+      "lastTime": "23:06",
+      "startStationName": "农业展览馆",
+      "startStationDeviceLocation": 150997535,
+      "terminalStationName": "呼家楼",
+      "terminalStationDeviceLocation": 150997539,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997537,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:46",
+      "lastTime": "21:59",
+      "startStationName": "呼家楼",
+      "startStationDeviceLocation": 150997539,
+      "terminalStationName": "农业展览馆",
+      "terminalStationDeviceLocation": 150997535,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150997537,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 10,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:46",
+      "lastTime": "23:44",
+      "startStationName": "呼家楼",
+      "startStationDeviceLocation": 150997539,
+      "terminalStationName": "农业展览馆",
+      "terminalStationDeviceLocation": 150997535,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150997537,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "团结湖",
+    "stationCode": null,
+    "stationDeviceLocation": 150995737,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "3号线：付费区开往东四十条方向车头\n10号线：开往农业展览馆方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "3号线：付费区开往东四十条方向车头\n10号线：开往农业展览馆方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "3号线：付费区开往东四十条方向车头\n10号线：开往农业展览馆方向车尾",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "3号线：H口\n3号线：F口\n10号线：B口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "3号线：H口（进、出站）\n3号线：F口（进、出站）\nA口（进、出站）\nB口（进、出站）\nC口（进、出站）\nD口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "3号线：有\n10号线：有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "3号线：开往东四十条方向，有站厅到站台\n3号线：开往东四十条方向，有站台到站厅\n3号线：开往东坝北方向，有站厅到站台\n3号线：开往东坝北方向，有站台到站厅\n10号线：开往呼家楼方向，有站台到站厅，\n10号线：开往呼家楼方向，无站厅到站台，\n10号线：开往农业展览馆方向，有站台到站厅\n10号线：开往农业展览馆方向，无站厅到站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "3号线：无\n10号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "3号线：无\n10号线：无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "3号线：站台两端（可通话）\n3号线：H、F口人工售票厅（不可通话）\n3号线：残卫站台西侧（可通话）\n站厅北厅，靠近A口出站闸机（可通话）\n站厅北厅，靠近B口出站闸机（可通话）\n站厅南厅，靠近C口出站闸机（可通话）\n站厅南厅，靠近D口出站闸机（可通话）\nA口人工售票厅（可通话）\nB口人工售票厅（可通话）\nC口人工售票厅（可通话）\nD口人工售票厅（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "3号线：站厅西厅，靠近综控室（非付费区）\n10号线：站台开往呼家楼方向8门",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "3号线：H口坡道\n3号线：H口直梯坡道\n3号线：F口坡道\n3号线：F口直梯坡道\n10号线：B口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "3号线：东厅（F口）\n3号线：西厅中部（H口）\n北厅（A口、B口）               南厅（C口、D口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "3号线：西厅（H口）\n10号线：南厅（D口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "三里屯东一街",
+          "东三环北路",
+          "武警北京市总队医院"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "东三环北路",
+          "农展馆南路",
+          "农业农村部"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "农展馆南路",
+          "团结湖北路",
+          "北京京师中医院",
+          "北京弘医堂中医医院"
+        ]
+      },
+      {
+        "name": "D",
+        "desc": null,
+        "nearby": [
+          "东三环北路",
+          "工人体育场北路",
+          "盈科中心"
+        ]
+      },
+      {
+        "name": "F口",
+        "desc": null,
+        "nearby": [
+          "工人体育场北路"
+        ]
+      },
+      {
+        "name": "H口",
+        "desc": null,
+        "nearby": [
+          "工人体育场北路"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212675,
+      "stationDeviceLocation": 150995737,
+      "stationCode": null,
+      "longitude": 116.461808,
+      "latitude": 39.933749,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "1426",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/3号线-团结湖站-东坝北站方向-工作日.jpg",
+        "stationCode": "0325",
+        "lineCode": "03",
+        "stationNameCn": "团结湖"
+      },
+      {
+        "id": "1442",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/3号线-团结湖站-东坝北站方向-双休日.jpg",
+        "stationCode": "0325",
+        "lineCode": "03",
+        "stationNameCn": "团结湖"
+      },
+      {
+        "id": "1427",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/3号线-团结湖站-东四十条站方向-工作日.jpg",
+        "stationCode": "0325",
+        "lineCode": "03",
+        "stationNameCn": "团结湖"
+      },
+      {
+        "id": "1446",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/3号线-团结湖站-东四十条站方向-双休日.jpg",
+        "stationCode": "0325",
+        "lineCode": "03",
+        "stationNameCn": "团结湖"
+      },
+      {
+        "id": "1607",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-团结湖站-呼家楼站方向-工作日.jpg",
+        "stationCode": "1033",
+        "lineCode": "10",
+        "stationNameCn": "团结湖"
+      },
+      {
+        "id": "2064",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-团结湖站-呼家楼站方向-双休日.jpg",
+        "stationCode": "1033",
+        "lineCode": "10",
+        "stationNameCn": "团结湖"
+      },
+      {
+        "id": "494",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-团结湖站-农业展览馆站方向-工作日.jpg",
+        "stationCode": "1033",
+        "lineCode": "10",
+        "stationNameCn": "团结湖"
+      },
+      {
+        "id": "42",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-团结湖站-农业展览馆站方向-双休日.jpg",
+        "stationCode": "1033",
+        "lineCode": "10",
+        "stationNameCn": "团结湖"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

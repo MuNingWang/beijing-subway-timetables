@@ -1,0 +1,32 @@
+{
+  "archive_month": "2026-10",
+  "checks": {
+    "first_last_records": 1722,
+    "official_image_records": 1528,
+    "official_images_exist": 1528,
+    "bjsubway_images_expected": 1440,
+    "bjsubway_ocr_results": 1440,
+    "bjsubway_transcriptions_written": 1440,
+    "bjsubway_missing_image_or_ocr": 0,
+    "bjsubway_records_with_uncertainty": 1438,
+    "bjsubway_uncertain_rows_total": 23916,
+    "bjsubway_records_with_invalid_hour_buckets": 68,
+    "bjsubway_manual_review_queue": 1438,
+    "bjmoa_image_review_queue": 88,
+    "mtr_raw_html_files": 4,
+    "bjmoa_raw_html_files": 8,
+    "raw_source_files_hashed": 2012,
+    "raw_source_bytes": 902183659,
+    "first_last_records_with_missing_or_invalid_values": 94,
+    "index_ocr_parsed_count": 0,
+    "ocr_cache_record_count": 1440,
+    "index_ocr_count_matches_cache": false
+  },
+  "interpretation": "Automated checks validate file presence, image-to-OCR coverage, JSONL parsing, first/last time formatting, minute bounds and source hashes. They do not certify every OCR value against its source image. Review all queued OCR records against the original image before marking visually_verified. BJMOA image schedule values remain untranscribed because the local Windows OCR operation failed; use the original images and linked official HTML. The first/last source records with missing or malformed values are listed in first_last_review_queue.jsonl. The project index is in rebuild mode and reports ocr_parsed=0, while its saved OCR cache contains 1,440 rows; this count mismatch is preserved in acquisition_index.json.",
+  "index_generated_at": "2026-10-11T18:27:55+0800",
+  "index_mode": "rebuild",
+  "raw_source_file_last_write_window": {
+    "from": "2026-10-11T16:00:29+08:00",
+    "to": "2026-10-11T17:02:16+08:00"
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "lines": [
+    {
+      "lineCode": "15",
+      "lineColor": "6B3777",
+      "lineId": 15,
+      "lineName": "15号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:29",
+      "lastTime": "23:14",
+      "startStationName": "清华东路西口",
+      "startStationDeviceLocation": 150998809,
+      "terminalStationName": "俸伯",
+      "terminalStationDeviceLocation": 150998847,
+      "sourceStationName": "清华东路西口",
+      "sourceStationDeviceLocation": 150998809,
+      "destStationName": "俸伯",
+      "destStationDeviceLocation": 150998847,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998809,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "15",
+      "lineColor": "6B3777",
+      "lineId": 15,
+      "lineName": "15号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": null,
+      "lastTime": null,
+      "startStationName": "俸伯",
+      "startStationDeviceLocation": 150998847,
+      "terminalStationName": "清华东路西口",
+      "terminalStationDeviceLocation": 150998809,
+      "sourceStationName": "俸伯",
+      "sourceStationDeviceLocation": 150998847,
+      "destStationName": "清华东路西口",
+      "destStationDeviceLocation": 150998809,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150998809,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "15",
+      "lineColor": "6B3777",
+      "lineId": 15,
+      "lineName": "15号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": null,
+      "lastTime": null,
+      "startStationName": "俸伯",
+      "startStationDeviceLocation": 150998847,
+      "terminalStationName": "马泉营",
+      "terminalStationDeviceLocation": 150998831,
+      "sourceStationName": "俸伯",
+      "sourceStationDeviceLocation": 150998847,
+      "destStationName": "马泉营",
+      "destStationDeviceLocation": 150998831,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 150998809,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "清华东路西口",
+    "stationCode": null,
+    "stationDeviceLocation": 150998809,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "站台开往清华东路西口方向车尾（下行）\n站台开往俸伯方向车头（上行）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "站台开往清华东路西口方向车尾（下行）\n站台开往俸伯方向车头（上行）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "站台开往清华东路西口方向车尾（下行）\n站台开往俸伯方向车头（上行）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "C口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "B口（进、出站）\nC口（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "开往俸伯方向车尾，有\n开往清东方向车头，有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "开往俸伯方向，有站厅到站台\n开往俸伯方向，无站台到站厅\n开往清东方向，无站厅到站台\n开往清东方向，有站台到站厅",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "/",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "东厅C口站外直梯旁（可通话）\n上行站台东端（可通话）                                   上行残卫 （可通话）                                      下行站台西端（可通话）                                 下行残卫 （可通话）\n站厅东侧墙壁，靠近综控室（可通话）                                                                             站厅西侧墙壁，靠近下行直梯（可通话）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "站厅东厅，靠近综控室（非付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "C口坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "东厅站厅中部（BC口）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "站厅东厅（C口)",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "双清路",
+          "清华东路",
+          "王庄路",
+          "荷清路",
+          "北京林业大学",
+          "清华大学"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "王庄路",
+          "双清路",
+          "东王庄小区",
+          "中国矿业大学"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212687,
+      "stationDeviceLocation": 150998809,
+      "stationCode": null,
+      "longitude": 116.33953,
+      "latitude": 40.000673,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "193",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/15号线-清华东路西口站-俸伯站方向-工作日.jpg",
+        "stationCode": "1525",
+        "lineCode": "15",
+        "stationNameCn": "清华东路西口"
+      },
+      {
+        "id": "573",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/15号线-清华东路西口站-俸伯站方向-双休日.jpg",
+        "stationCode": "1525",
+        "lineCode": "15",
+        "stationNameCn": "清华东路西口"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}

@@ -1,0 +1,2358 @@
+[
+  {
+    "lineCnName": "1号线八通线",
+    "lineColor": "BE3631",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "苹果园",
+        "accLocation": 150995203
+      },
+      {
+        "stationName": "古城",
+        "accLocation": 150995204
+      },
+      {
+        "stationName": "八宝山",
+        "accLocation": 150995206
+      },
+      {
+        "stationName": "玉泉路",
+        "accLocation": 150995207
+      },
+      {
+        "stationName": "五棵松",
+        "accLocation": 150995208
+      },
+      {
+        "stationName": "万寿路",
+        "accLocation": 150995209
+      },
+      {
+        "stationName": "公主坟",
+        "accLocation": 150995210
+      },
+      {
+        "stationName": "军事博物馆",
+        "accLocation": 150995211
+      },
+      {
+        "stationName": "木樨地",
+        "accLocation": 150995212
+      },
+      {
+        "stationName": "南礼士路",
+        "accLocation": 150995213
+      },
+      {
+        "stationName": "复兴门",
+        "accLocation": 150995214
+      },
+      {
+        "stationName": "西单",
+        "accLocation": 150995215
+      },
+      {
+        "stationName": "天安门西",
+        "accLocation": 150995216
+      },
+      {
+        "stationName": "天安门东",
+        "accLocation": 150995217
+      },
+      {
+        "stationName": "王府井",
+        "accLocation": 150995218
+      },
+      {
+        "stationName": "东单",
+        "accLocation": 150995219
+      },
+      {
+        "stationName": "建国门",
+        "accLocation": 150995220
+      },
+      {
+        "stationName": "永安里",
+        "accLocation": 150995221
+      },
+      {
+        "stationName": "国贸",
+        "accLocation": 150995222
+      },
+      {
+        "stationName": "大望路",
+        "accLocation": 150995223
+      },
+      {
+        "stationName": "四惠",
+        "accLocation": 151019777
+      },
+      {
+        "stationName": "四惠东",
+        "accLocation": 151019778
+      },
+      {
+        "stationName": "高碑店",
+        "accLocation": 151019779
+      },
+      {
+        "stationName": "传媒大学",
+        "accLocation": 151019780
+      },
+      {
+        "stationName": "双桥",
+        "accLocation": 151019781
+      },
+      {
+        "stationName": "管庄",
+        "accLocation": 151019782
+      },
+      {
+        "stationName": "八里桥",
+        "accLocation": 151019783
+      },
+      {
+        "stationName": "通州北苑",
+        "accLocation": 151019784
+      },
+      {
+        "stationName": "果园",
+        "accLocation": 151019785
+      },
+      {
+        "stationName": "九棵树",
+        "accLocation": 151019786
+      },
+      {
+        "stationName": "梨园",
+        "accLocation": 151019787
+      },
+      {
+        "stationName": "临河里",
+        "accLocation": 151019788
+      },
+      {
+        "stationName": "土桥",
+        "accLocation": 151019789
+      },
+      {
+        "stationName": "花庄",
+        "accLocation": 151019791
+      },
+      {
+        "stationName": "环球度假区",
+        "accLocation": 151019792
+      }
+    ]
+  },
+  {
+    "lineCnName": "2号线",
+    "lineColor": "0F6192",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "西直门",
+        "accLocation": 150998293
+      },
+      {
+        "stationName": "积水潭",
+        "accLocation": 150999833
+      },
+      {
+        "stationName": "鼓楼大街",
+        "accLocation": 150997027
+      },
+      {
+        "stationName": "安定门",
+        "accLocation": 150995472
+      },
+      {
+        "stationName": "雍和宫",
+        "accLocation": 150996267
+      },
+      {
+        "stationName": "东直门",
+        "accLocation": 150998323
+      },
+      {
+        "stationName": "东四十条",
+        "accLocation": 150995733
+      },
+      {
+        "stationName": "朝阳门",
+        "accLocation": 150995468
+      },
+      {
+        "stationName": "建国门",
+        "accLocation": 150995220
+      },
+      {
+        "stationName": "北京站",
+        "accLocation": 151016729
+      },
+      {
+        "stationName": "崇文门",
+        "accLocation": 150996279
+      },
+      {
+        "stationName": "前门",
+        "accLocation": 150997039
+      },
+      {
+        "stationName": "和平门",
+        "accLocation": 150995463
+      },
+      {
+        "stationName": "宣武门",
+        "accLocation": 150996023
+      },
+      {
+        "stationName": "长椿街",
+        "accLocation": 150995461
+      },
+      {
+        "stationName": "复兴门",
+        "accLocation": 150995214
+      },
+      {
+        "stationName": "阜成门",
+        "accLocation": 150995459
+      },
+      {
+        "stationName": "车公庄",
+        "accLocation": 150995458
+      }
+    ]
+  },
+  {
+    "lineCnName": "3号线",
+    "lineColor": "E50033",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "东四十条",
+        "accLocation": 150995733
+      },
+      {
+        "stationName": "工人体育场",
+        "accLocation": 150999335
+      },
+      {
+        "stationName": "团结湖",
+        "accLocation": 150995737
+      },
+      {
+        "stationName": "朝阳公园",
+        "accLocation": 150995739
+      },
+      {
+        "stationName": "石佛营",
+        "accLocation": 150995741
+      },
+      {
+        "stationName": "朝阳站",
+        "accLocation": 150995743
+      },
+      {
+        "stationName": "姚家园",
+        "accLocation": 150995745
+      },
+      {
+        "stationName": "东坝南",
+        "accLocation": 150995747
+      },
+      {
+        "stationName": "东坝",
+        "accLocation": 150995749
+      },
+      {
+        "stationName": "东坝北",
+        "accLocation": 150998075
+      }
+    ]
+  },
+  {
+    "lineCnName": "4号线",
+    "lineColor": "008994",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "安河桥北",
+        "accLocation": 150995989
+      },
+      {
+        "stationName": "北宫门",
+        "accLocation": 150995991
+      },
+      {
+        "stationName": "西苑",
+        "accLocation": 150995993
+      },
+      {
+        "stationName": "圆明园",
+        "accLocation": 150995995
+      },
+      {
+        "stationName": "北京大学东门",
+        "accLocation": 150995997
+      },
+      {
+        "stationName": "中关村",
+        "accLocation": 150995999
+      },
+      {
+        "stationName": "海淀黄庄",
+        "accLocation": 150996001
+      },
+      {
+        "stationName": "人民大学",
+        "accLocation": 150998045
+      },
+      {
+        "stationName": "魏公村",
+        "accLocation": 150996005
+      },
+      {
+        "stationName": "国家图书馆",
+        "accLocation": 150997269
+      },
+      {
+        "stationName": "动物园",
+        "accLocation": 150996009
+      },
+      {
+        "stationName": "西直门",
+        "accLocation": 150998293
+      },
+      {
+        "stationName": "新街口",
+        "accLocation": 150996013
+      },
+      {
+        "stationName": "平安里",
+        "accLocation": 150996015
+      },
+      {
+        "stationName": "西四",
+        "accLocation": 150996017
+      },
+      {
+        "stationName": "灵境胡同",
+        "accLocation": 150996019
+      },
+      {
+        "stationName": "西单",
+        "accLocation": 150995215
+      },
+      {
+        "stationName": "宣武门",
+        "accLocation": 150996023
+      },
+      {
+        "stationName": "菜市口",
+        "accLocation": 150996025
+      },
+      {
+        "stationName": "陶然亭",
+        "accLocation": 150996027
+      },
+      {
+        "stationName": "北京南站",
+        "accLocation": 150996029
+      },
+      {
+        "stationName": "马家堡",
+        "accLocation": 150996031
+      },
+      {
+        "stationName": "角门西",
+        "accLocation": 150996033
+      },
+      {
+        "stationName": "公益西桥",
+        "accLocation": 151018771
+      },
+      {
+        "stationName": "新宫",
+        "accLocation": 151018773
+      },
+      {
+        "stationName": "西红门",
+        "accLocation": 151018775
+      },
+      {
+        "stationName": "高米店北",
+        "accLocation": 151018777
+      },
+      {
+        "stationName": "高米店南",
+        "accLocation": 151018779
+      },
+      {
+        "stationName": "枣园",
+        "accLocation": 151018781
+      },
+      {
+        "stationName": "清源路",
+        "accLocation": 151018783
+      },
+      {
+        "stationName": "黄村西大街",
+        "accLocation": 151018785
+      },
+      {
+        "stationName": "黄村火车站",
+        "accLocation": 151018787
+      },
+      {
+        "stationName": "义和庄",
+        "accLocation": 151018789
+      },
+      {
+        "stationName": "生物医药基地",
+        "accLocation": 151018791
+      },
+      {
+        "stationName": "天宫院",
+        "accLocation": 151018793
+      }
+    ]
+  },
+  {
+    "lineCnName": "5号线",
+    "lineColor": "A5237A",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "宋家庄",
+        "accLocation": 150996289
+      },
+      {
+        "stationName": "刘家窑",
+        "accLocation": 150996287
+      },
+      {
+        "stationName": "蒲黄榆",
+        "accLocation": 150996285
+      },
+      {
+        "stationName": "天坛东门",
+        "accLocation": 150996283
+      },
+      {
+        "stationName": "磁器口",
+        "accLocation": 150996281
+      },
+      {
+        "stationName": "崇文门",
+        "accLocation": 150996279
+      },
+      {
+        "stationName": "东单",
+        "accLocation": 150995219
+      },
+      {
+        "stationName": "灯市口",
+        "accLocation": 150996275
+      },
+      {
+        "stationName": "东四",
+        "accLocation": 150996273
+      },
+      {
+        "stationName": "张自忠路",
+        "accLocation": 150996271
+      },
+      {
+        "stationName": "北新桥",
+        "accLocation": 150996269
+      },
+      {
+        "stationName": "雍和宫",
+        "accLocation": 150996267
+      },
+      {
+        "stationName": "和平里北街",
+        "accLocation": 150996265
+      },
+      {
+        "stationName": "和平西桥",
+        "accLocation": 150996263
+      },
+      {
+        "stationName": "惠新西街南口",
+        "accLocation": 150996261
+      },
+      {
+        "stationName": "惠新西街北口",
+        "accLocation": 150996259
+      },
+      {
+        "stationName": "大屯路东",
+        "accLocation": 150996257
+      },
+      {
+        "stationName": "北苑路北",
+        "accLocation": 150996255
+      },
+      {
+        "stationName": "立水桥南",
+        "accLocation": 150996253
+      },
+      {
+        "stationName": "立水桥",
+        "accLocation": 150996251
+      },
+      {
+        "stationName": "天通苑南",
+        "accLocation": 150996249
+      },
+      {
+        "stationName": "天通苑",
+        "accLocation": 151013637
+      },
+      {
+        "stationName": "天通苑北",
+        "accLocation": 150996245
+      }
+    ]
+  },
+  {
+    "lineCnName": "6号线",
+    "lineColor": "D29404",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "金安桥",
+        "accLocation": 150997783
+      },
+      {
+        "stationName": "苹果园",
+        "accLocation": 150995203
+      },
+      {
+        "stationName": "杨庄",
+        "accLocation": 150996493
+      },
+      {
+        "stationName": "西黄村",
+        "accLocation": 150996495
+      },
+      {
+        "stationName": "廖公庄",
+        "accLocation": 150996497
+      },
+      {
+        "stationName": "田村",
+        "accLocation": 150996499
+      },
+      {
+        "stationName": "海淀五路居",
+        "accLocation": 150996501
+      },
+      {
+        "stationName": "慈寿寺",
+        "accLocation": 150996503
+      },
+      {
+        "stationName": "花园桥",
+        "accLocation": 150996505
+      },
+      {
+        "stationName": "白石桥南",
+        "accLocation": 150997271
+      },
+      {
+        "stationName": "二里沟",
+        "accLocation": 150999091
+      },
+      {
+        "stationName": "车公庄西",
+        "accLocation": 150996511
+      },
+      {
+        "stationName": "车公庄",
+        "accLocation": 150995458
+      },
+      {
+        "stationName": "平安里",
+        "accLocation": 150996015
+      },
+      {
+        "stationName": "北海北",
+        "accLocation": 150996517
+      },
+      {
+        "stationName": "南锣鼓巷",
+        "accLocation": 150997031
+      },
+      {
+        "stationName": "东四",
+        "accLocation": 150996273
+      },
+      {
+        "stationName": "朝阳门",
+        "accLocation": 150995468
+      },
+      {
+        "stationName": "东大桥",
+        "accLocation": 150999337
+      },
+      {
+        "stationName": "呼家楼",
+        "accLocation": 150997539
+      },
+      {
+        "stationName": "金台路",
+        "accLocation": 150996529
+      },
+      {
+        "stationName": "十里堡",
+        "accLocation": 150996531
+      },
+      {
+        "stationName": "青年路",
+        "accLocation": 150996533
+      },
+      {
+        "stationName": "褡裢坡",
+        "accLocation": 150996535
+      },
+      {
+        "stationName": "黄渠",
+        "accLocation": 150996537
+      },
+      {
+        "stationName": "常营",
+        "accLocation": 150996539
+      },
+      {
+        "stationName": "草房",
+        "accLocation": 150996541
+      },
+      {
+        "stationName": "物资学院路",
+        "accLocation": 150996543
+      },
+      {
+        "stationName": "通州北关",
+        "accLocation": 150996545
+      },
+      {
+        "stationName": "通运门",
+        "accLocation": 150996547
+      },
+      {
+        "stationName": "北运河西",
+        "accLocation": 150996549
+      },
+      {
+        "stationName": "北运河东",
+        "accLocation": 150996551
+      },
+      {
+        "stationName": "郝家府",
+        "accLocation": 150996553
+      },
+      {
+        "stationName": "东夏园",
+        "accLocation": 150996555
+      },
+      {
+        "stationName": "潞城",
+        "accLocation": 150996557
+      },
+      {
+        "stationName": "潞阳",
+        "accLocation": 150996559
+      }
+    ]
+  },
+  {
+    "lineCnName": "7号线",
+    "lineColor": "F9C374",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "北京西站",
+        "accLocation": 151016727
+      },
+      {
+        "stationName": "湾子",
+        "accLocation": 150996759
+      },
+      {
+        "stationName": "达官营",
+        "accLocation": 150999099
+      },
+      {
+        "stationName": "广安门内",
+        "accLocation": 150996763
+      },
+      {
+        "stationName": "菜市口",
+        "accLocation": 150996025
+      },
+      {
+        "stationName": "虎坊桥",
+        "accLocation": 150996767
+      },
+      {
+        "stationName": "珠市口",
+        "accLocation": 150997041
+      },
+      {
+        "stationName": "桥湾",
+        "accLocation": 150996771
+      },
+      {
+        "stationName": "磁器口",
+        "accLocation": 150996281
+      },
+      {
+        "stationName": "广渠门内",
+        "accLocation": 150996775
+      },
+      {
+        "stationName": "广渠门外",
+        "accLocation": 150996777
+      },
+      {
+        "stationName": "双井",
+        "accLocation": 150996779
+      },
+      {
+        "stationName": "九龙山",
+        "accLocation": 150996781
+      },
+      {
+        "stationName": "大郊亭",
+        "accLocation": 150996783
+      },
+      {
+        "stationName": "百子湾",
+        "accLocation": 150996785
+      },
+      {
+        "stationName": "化工",
+        "accLocation": 150996787
+      },
+      {
+        "stationName": "南楼梓庄",
+        "accLocation": 150996789
+      },
+      {
+        "stationName": "欢乐谷景区",
+        "accLocation": 150996791
+      },
+      {
+        "stationName": "垡头",
+        "accLocation": 150996793
+      },
+      {
+        "stationName": "双合",
+        "accLocation": 150996795
+      },
+      {
+        "stationName": "焦化厂",
+        "accLocation": 150996797
+      },
+      {
+        "stationName": "黄厂",
+        "accLocation": 150996799
+      },
+      {
+        "stationName": "郎辛庄",
+        "accLocation": 150996801
+      },
+      {
+        "stationName": "黑庄户",
+        "accLocation": 150996803
+      },
+      {
+        "stationName": "万盛西",
+        "accLocation": 150996805
+      },
+      {
+        "stationName": "万盛东",
+        "accLocation": 150996807
+      },
+      {
+        "stationName": "群芳",
+        "accLocation": 150996809
+      },
+      {
+        "stationName": "高楼金",
+        "accLocation": 150996811
+      },
+      {
+        "stationName": "花庄",
+        "accLocation": 151019791
+      },
+      {
+        "stationName": "环球度假区",
+        "accLocation": 151019792
+      }
+    ]
+  },
+  {
+    "lineCnName": "8号线",
+    "lineColor": "009263",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "朱辛庄",
+        "accLocation": 150996997
+      },
+      {
+        "stationName": "育知路",
+        "accLocation": 150996999
+      },
+      {
+        "stationName": "平西府",
+        "accLocation": 150997001
+      },
+      {
+        "stationName": "回龙观东大街",
+        "accLocation": 151013641
+      },
+      {
+        "stationName": "霍营",
+        "accLocation": 150998309
+      },
+      {
+        "stationName": "育新",
+        "accLocation": 150997007
+      },
+      {
+        "stationName": "西小口",
+        "accLocation": 150997009
+      },
+      {
+        "stationName": "永泰庄",
+        "accLocation": 150997011
+      },
+      {
+        "stationName": "林萃桥",
+        "accLocation": 150997013
+      },
+      {
+        "stationName": "森林公园南门",
+        "accLocation": 150997015
+      },
+      {
+        "stationName": "奥林匹克公园",
+        "accLocation": 150997017
+      },
+      {
+        "stationName": "奥体中心",
+        "accLocation": 150997019
+      },
+      {
+        "stationName": "北土城",
+        "accLocation": 150997021
+      },
+      {
+        "stationName": "安华桥",
+        "accLocation": 150997023
+      },
+      {
+        "stationName": "安德里北街",
+        "accLocation": 150997025
+      },
+      {
+        "stationName": "鼓楼大街",
+        "accLocation": 150997027
+      },
+      {
+        "stationName": "什刹海",
+        "accLocation": 150997029
+      },
+      {
+        "stationName": "南锣鼓巷",
+        "accLocation": 150997031
+      },
+      {
+        "stationName": "中国美术馆",
+        "accLocation": 150997033
+      },
+      {
+        "stationName": "金鱼胡同",
+        "accLocation": 150997035
+      },
+      {
+        "stationName": "王府井",
+        "accLocation": 150995218
+      },
+      {
+        "stationName": "前门",
+        "accLocation": 150997039
+      },
+      {
+        "stationName": "珠市口",
+        "accLocation": 150997041
+      },
+      {
+        "stationName": "天桥",
+        "accLocation": 150997043
+      },
+      {
+        "stationName": "永定门外",
+        "accLocation": 150997045
+      },
+      {
+        "stationName": "木樨园",
+        "accLocation": 150997047
+      },
+      {
+        "stationName": "海户屯",
+        "accLocation": 150997049
+      },
+      {
+        "stationName": "大红门",
+        "accLocation": 150997051
+      },
+      {
+        "stationName": "大红门南",
+        "accLocation": 150997053
+      },
+      {
+        "stationName": "和义",
+        "accLocation": 150997055
+      },
+      {
+        "stationName": "东高地",
+        "accLocation": 150997057
+      },
+      {
+        "stationName": "火箭万源",
+        "accLocation": 150997059
+      },
+      {
+        "stationName": "五福堂",
+        "accLocation": 150997061
+      },
+      {
+        "stationName": "德茂",
+        "accLocation": 150997063
+      },
+      {
+        "stationName": "瀛海",
+        "accLocation": 150997065
+      }
+    ]
+  },
+  {
+    "lineCnName": "9号线",
+    "lineColor": "96BE0B",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "郭公庄",
+        "accLocation": 150997293
+      },
+      {
+        "stationName": "丰台科技园",
+        "accLocation": 150997291
+      },
+      {
+        "stationName": "科怡路",
+        "accLocation": 150997289
+      },
+      {
+        "stationName": "丰台南路",
+        "accLocation": 150997287
+      },
+      {
+        "stationName": "丰台东大街",
+        "accLocation": 150997285
+      },
+      {
+        "stationName": "七里庄",
+        "accLocation": 150997283
+      },
+      {
+        "stationName": "六里桥",
+        "accLocation": 150997281
+      },
+      {
+        "stationName": "六里桥东",
+        "accLocation": 150997279
+      },
+      {
+        "stationName": "北京西站",
+        "accLocation": 151016727
+      },
+      {
+        "stationName": "军事博物馆",
+        "accLocation": 150995211
+      },
+      {
+        "stationName": "白堆子",
+        "accLocation": 150997273
+      },
+      {
+        "stationName": "白石桥南",
+        "accLocation": 150997271
+      },
+      {
+        "stationName": "国家图书馆",
+        "accLocation": 150997269
+      }
+    ]
+  },
+  {
+    "lineCnName": "10号线",
+    "lineColor": "009ABA",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "巴沟",
+        "accLocation": 151017759
+      },
+      {
+        "stationName": "苏州街",
+        "accLocation": 150999083
+      },
+      {
+        "stationName": "海淀黄庄",
+        "accLocation": 150996001
+      },
+      {
+        "stationName": "知春里",
+        "accLocation": 150997511
+      },
+      {
+        "stationName": "知春路",
+        "accLocation": 150998297
+      },
+      {
+        "stationName": "西土城",
+        "accLocation": 150997515
+      },
+      {
+        "stationName": "牡丹园",
+        "accLocation": 150999829
+      },
+      {
+        "stationName": "健德门",
+        "accLocation": 150997519
+      },
+      {
+        "stationName": "北土城",
+        "accLocation": 150997021
+      },
+      {
+        "stationName": "安贞门",
+        "accLocation": 150997523
+      },
+      {
+        "stationName": "惠新西街南口",
+        "accLocation": 150996261
+      },
+      {
+        "stationName": "芍药居",
+        "accLocation": 150998317
+      },
+      {
+        "stationName": "太阳宫",
+        "accLocation": 150999329
+      },
+      {
+        "stationName": "三元桥",
+        "accLocation": 150998065
+      },
+      {
+        "stationName": "亮马桥",
+        "accLocation": 150997533
+      },
+      {
+        "stationName": "农业展览馆",
+        "accLocation": 150997535
+      },
+      {
+        "stationName": "团结湖",
+        "accLocation": 150995737
+      },
+      {
+        "stationName": "呼家楼",
+        "accLocation": 150997539
+      },
+      {
+        "stationName": "金台夕照",
+        "accLocation": 150997541
+      },
+      {
+        "stationName": "国贸",
+        "accLocation": 150995222
+      },
+      {
+        "stationName": "双井",
+        "accLocation": 150996779
+      },
+      {
+        "stationName": "劲松",
+        "accLocation": 151018005
+      },
+      {
+        "stationName": "潘家园",
+        "accLocation": 151018007
+      },
+      {
+        "stationName": "十里河",
+        "accLocation": 150999345
+      },
+      {
+        "stationName": "分钟寺",
+        "accLocation": 151018011
+      },
+      {
+        "stationName": "成寿寺",
+        "accLocation": 151018013
+      },
+      {
+        "stationName": "宋家庄",
+        "accLocation": 150996289
+      },
+      {
+        "stationName": "石榴庄",
+        "accLocation": 151018017
+      },
+      {
+        "stationName": "大红门",
+        "accLocation": 150997051
+      },
+      {
+        "stationName": "角门东",
+        "accLocation": 151018021
+      },
+      {
+        "stationName": "角门西",
+        "accLocation": 150996033
+      },
+      {
+        "stationName": "草桥",
+        "accLocation": 151017495
+      },
+      {
+        "stationName": "纪家庙",
+        "accLocation": 151018027
+      },
+      {
+        "stationName": "首经贸",
+        "accLocation": 151019279
+      },
+      {
+        "stationName": "丰台站",
+        "accLocation": 150999107
+      },
+      {
+        "stationName": "泥洼",
+        "accLocation": 151018033
+      },
+      {
+        "stationName": "西局",
+        "accLocation": 150998561
+      },
+      {
+        "stationName": "六里桥",
+        "accLocation": 150997281
+      },
+      {
+        "stationName": "莲花桥",
+        "accLocation": 151018039
+      },
+      {
+        "stationName": "公主坟",
+        "accLocation": 150995210
+      },
+      {
+        "stationName": "西钓鱼台",
+        "accLocation": 151018043
+      },
+      {
+        "stationName": "慈寿寺",
+        "accLocation": 150996503
+      },
+      {
+        "stationName": "车道沟",
+        "accLocation": 151018047
+      },
+      {
+        "stationName": "长春桥",
+        "accLocation": 150998041
+      },
+      {
+        "stationName": "火器营",
+        "accLocation": 151018051
+      }
+    ]
+  },
+  {
+    "lineCnName": "11号线",
+    "lineColor": "ED796B",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "模式口",
+        "accLocation": 150997781
+      },
+      {
+        "stationName": "金安桥",
+        "accLocation": 150997783
+      },
+      {
+        "stationName": "北辛安",
+        "accLocation": 150997785
+      },
+      {
+        "stationName": "新首钢",
+        "accLocation": 150997787
+      }
+    ]
+  },
+  {
+    "lineCnName": "12号线",
+    "lineColor": "C56B00",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "四季青桥",
+        "accLocation": 150998037
+      },
+      {
+        "stationName": "蓝靛厂",
+        "accLocation": 150998039
+      },
+      {
+        "stationName": "长春桥",
+        "accLocation": 150998041
+      },
+      {
+        "stationName": "苏州桥",
+        "accLocation": 150998043
+      },
+      {
+        "stationName": "人民大学",
+        "accLocation": 150998045
+      },
+      {
+        "stationName": "大钟寺",
+        "accLocation": 150998295
+      },
+      {
+        "stationName": "蓟门桥",
+        "accLocation": 150998049
+      },
+      {
+        "stationName": "北太平庄",
+        "accLocation": 150998051
+      },
+      {
+        "stationName": "马甸桥",
+        "accLocation": 150998053
+      },
+      {
+        "stationName": "安华桥",
+        "accLocation": 150997023
+      },
+      {
+        "stationName": "安贞桥",
+        "accLocation": 150998057
+      },
+      {
+        "stationName": "和平西桥",
+        "accLocation": 150996263
+      },
+      {
+        "stationName": "光熙门",
+        "accLocation": 150998319
+      },
+      {
+        "stationName": "西坝河",
+        "accLocation": 150999331
+      },
+      {
+        "stationName": "三元桥",
+        "accLocation": 150998065
+      },
+      {
+        "stationName": "将台西",
+        "accLocation": 150998067
+      },
+      {
+        "stationName": "高家园",
+        "accLocation": 150998069
+      },
+      {
+        "stationName": "驼房营",
+        "accLocation": 150998071
+      },
+      {
+        "stationName": "东坝西",
+        "accLocation": 150998073
+      },
+      {
+        "stationName": "东坝北",
+        "accLocation": 150998075
+      }
+    ]
+  },
+  {
+    "lineCnName": "13号线",
+    "lineColor": "F8E114",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "西直门",
+        "accLocation": 150998293
+      },
+      {
+        "stationName": "大钟寺",
+        "accLocation": 150998295
+      },
+      {
+        "stationName": "知春路",
+        "accLocation": 150998297
+      },
+      {
+        "stationName": "五道口",
+        "accLocation": 150998299
+      },
+      {
+        "stationName": "上地",
+        "accLocation": 150998301
+      },
+      {
+        "stationName": "清河站",
+        "accLocation": 150998302
+      },
+      {
+        "stationName": "西二旗",
+        "accLocation": 150998303
+      },
+      {
+        "stationName": "龙泽",
+        "accLocation": 150998305
+      },
+      {
+        "stationName": "回龙观",
+        "accLocation": 150998307
+      },
+      {
+        "stationName": "霍营",
+        "accLocation": 150998309
+      },
+      {
+        "stationName": "立水桥",
+        "accLocation": 150996251
+      },
+      {
+        "stationName": "北苑",
+        "accLocation": 150998313
+      },
+      {
+        "stationName": "望京西",
+        "accLocation": 150999327
+      },
+      {
+        "stationName": "芍药居",
+        "accLocation": 150998317
+      },
+      {
+        "stationName": "光熙门",
+        "accLocation": 150998319
+      },
+      {
+        "stationName": "柳芳",
+        "accLocation": 150998321
+      },
+      {
+        "stationName": "东直门",
+        "accLocation": 150998323
+      }
+    ]
+  },
+  {
+    "lineCnName": "14号线",
+    "lineColor": "D4A7A1",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "善各庄",
+        "accLocation": 150998621
+      },
+      {
+        "stationName": "来广营",
+        "accLocation": 150998619
+      },
+      {
+        "stationName": "东湖渠",
+        "accLocation": 150998617
+      },
+      {
+        "stationName": "望京",
+        "accLocation": 150998825
+      },
+      {
+        "stationName": "阜通",
+        "accLocation": 150998613
+      },
+      {
+        "stationName": "望京南",
+        "accLocation": 150998611
+      },
+      {
+        "stationName": "将台",
+        "accLocation": 150998607
+      },
+      {
+        "stationName": "东风北桥",
+        "accLocation": 150998605
+      },
+      {
+        "stationName": "枣营",
+        "accLocation": 150998603
+      },
+      {
+        "stationName": "朝阳公园",
+        "accLocation": 150995739
+      },
+      {
+        "stationName": "金台路",
+        "accLocation": 150996529
+      },
+      {
+        "stationName": "大望路",
+        "accLocation": 150995223
+      },
+      {
+        "stationName": "九龙山",
+        "accLocation": 150996781
+      },
+      {
+        "stationName": "平乐园",
+        "accLocation": 150998591
+      },
+      {
+        "stationName": "北工大西门",
+        "accLocation": 150998589
+      },
+      {
+        "stationName": "十里河",
+        "accLocation": 150999345
+      },
+      {
+        "stationName": "方庄",
+        "accLocation": 150998583
+      },
+      {
+        "stationName": "蒲黄榆",
+        "accLocation": 150996285
+      },
+      {
+        "stationName": "景泰",
+        "accLocation": 150998579
+      },
+      {
+        "stationName": "永定门外",
+        "accLocation": 150997045
+      },
+      {
+        "stationName": "北京南站",
+        "accLocation": 150996029
+      },
+      {
+        "stationName": "景风门",
+        "accLocation": 150999841
+      },
+      {
+        "stationName": "西铁营",
+        "accLocation": 150998569
+      },
+      {
+        "stationName": "菜户营",
+        "accLocation": 150998567
+      },
+      {
+        "stationName": "丽泽商务区",
+        "accLocation": 150999103
+      },
+      {
+        "stationName": "东管头",
+        "accLocation": 150998563
+      },
+      {
+        "stationName": "西局",
+        "accLocation": 150998561
+      },
+      {
+        "stationName": "七里庄",
+        "accLocation": 150997283
+      },
+      {
+        "stationName": "大井",
+        "accLocation": 150998557
+      },
+      {
+        "stationName": "郭庄子",
+        "accLocation": 150998555
+      },
+      {
+        "stationName": "大瓦窑",
+        "accLocation": 150998553
+      },
+      {
+        "stationName": "园博园",
+        "accLocation": 150998551
+      },
+      {
+        "stationName": "张郭庄",
+        "accLocation": 150998549
+      }
+    ]
+  },
+  {
+    "lineCnName": "15号线",
+    "lineColor": "6B3777",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "俸伯",
+        "accLocation": 150998847
+      },
+      {
+        "stationName": "顺义",
+        "accLocation": 150998845
+      },
+      {
+        "stationName": "石门",
+        "accLocation": 150998843
+      },
+      {
+        "stationName": "南法信",
+        "accLocation": 150998841
+      },
+      {
+        "stationName": "后沙峪",
+        "accLocation": 150998839
+      },
+      {
+        "stationName": "花梨坎",
+        "accLocation": 150998837
+      },
+      {
+        "stationName": "国展",
+        "accLocation": 150998835
+      },
+      {
+        "stationName": "孙河",
+        "accLocation": 150998833
+      },
+      {
+        "stationName": "马泉营",
+        "accLocation": 150998831
+      },
+      {
+        "stationName": "崔各庄",
+        "accLocation": 150998829
+      },
+      {
+        "stationName": "望京东",
+        "accLocation": 150998827
+      },
+      {
+        "stationName": "望京",
+        "accLocation": 150998825
+      },
+      {
+        "stationName": "望京西",
+        "accLocation": 150999327
+      },
+      {
+        "stationName": "关庄",
+        "accLocation": 150998821
+      },
+      {
+        "stationName": "大屯路东",
+        "accLocation": 150996257
+      },
+      {
+        "stationName": "安立路",
+        "accLocation": 150998817
+      },
+      {
+        "stationName": "奥林匹克公园",
+        "accLocation": 150997017
+      },
+      {
+        "stationName": "北沙滩",
+        "accLocation": 150998813
+      },
+      {
+        "stationName": "六道口",
+        "accLocation": 150998811
+      },
+      {
+        "stationName": "清华东路西口",
+        "accLocation": 150998809
+      }
+    ]
+  },
+  {
+    "lineCnName": "16号线",
+    "lineColor": "7C9E21",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "北安河",
+        "accLocation": 150999061
+      },
+      {
+        "stationName": "温阳路",
+        "accLocation": 150999063
+      },
+      {
+        "stationName": "稻香湖路",
+        "accLocation": 150999065
+      },
+      {
+        "stationName": "屯佃",
+        "accLocation": 150999067
+      },
+      {
+        "stationName": "永丰",
+        "accLocation": 150999069
+      },
+      {
+        "stationName": "永丰南",
+        "accLocation": 150999071
+      },
+      {
+        "stationName": "西北旺",
+        "accLocation": 150999073
+      },
+      {
+        "stationName": "马连洼",
+        "accLocation": 151013653
+      },
+      {
+        "stationName": "农大南路",
+        "accLocation": 150999077
+      },
+      {
+        "stationName": "西苑",
+        "accLocation": 150995993
+      },
+      {
+        "stationName": "万泉河桥",
+        "accLocation": 150999081
+      },
+      {
+        "stationName": "苏州街",
+        "accLocation": 150999083
+      },
+      {
+        "stationName": "苏州桥",
+        "accLocation": 150998043
+      },
+      {
+        "stationName": "万寿寺",
+        "accLocation": 150999087
+      },
+      {
+        "stationName": "国家图书馆",
+        "accLocation": 150997269
+      },
+      {
+        "stationName": "二里沟",
+        "accLocation": 150999091
+      },
+      {
+        "stationName": "甘家口",
+        "accLocation": 150999093
+      },
+      {
+        "stationName": "玉渊潭东门",
+        "accLocation": 150999095
+      },
+      {
+        "stationName": "木樨地",
+        "accLocation": 150995212
+      },
+      {
+        "stationName": "达官营",
+        "accLocation": 150999099
+      },
+      {
+        "stationName": "红莲南路",
+        "accLocation": 150999101
+      },
+      {
+        "stationName": "丽泽商务区",
+        "accLocation": 150999103
+      },
+      {
+        "stationName": "东管头南",
+        "accLocation": 150999105
+      },
+      {
+        "stationName": "丰台站",
+        "accLocation": 150999107
+      },
+      {
+        "stationName": "丰台南路",
+        "accLocation": 150997287
+      },
+      {
+        "stationName": "富丰桥",
+        "accLocation": 150999111
+      },
+      {
+        "stationName": "看丹",
+        "accLocation": 150999113
+      },
+      {
+        "stationName": "榆树庄",
+        "accLocation": 150999115
+      },
+      {
+        "stationName": "洪泰庄",
+        "accLocation": 150999117
+      },
+      {
+        "stationName": "宛平城",
+        "accLocation": 150999119
+      }
+    ]
+  },
+  {
+    "lineCnName": "17号线",
+    "lineColor": "00A9A9",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "未来科学城北",
+        "accLocation": 150999317
+      },
+      {
+        "stationName": "未来科学城",
+        "accLocation": 150999319
+      },
+      {
+        "stationName": "天通苑东",
+        "accLocation": 151013633
+      },
+      {
+        "stationName": "清河营",
+        "accLocation": 150999323
+      },
+      {
+        "stationName": "红军营",
+        "accLocation": 150999325
+      },
+      {
+        "stationName": "望京西",
+        "accLocation": 150999327
+      },
+      {
+        "stationName": "太阳宫",
+        "accLocation": 150999329
+      },
+      {
+        "stationName": "西坝河",
+        "accLocation": 150999331
+      },
+      {
+        "stationName": "左家庄",
+        "accLocation": 150999333
+      },
+      {
+        "stationName": "工人体育场",
+        "accLocation": 150999335
+      },
+      {
+        "stationName": "东大桥",
+        "accLocation": 150999337
+      },
+      {
+        "stationName": "永安里",
+        "accLocation": 150995221
+      },
+      {
+        "stationName": "潘家园西",
+        "accLocation": 150999343
+      },
+      {
+        "stationName": "十里河",
+        "accLocation": 150999345
+      },
+      {
+        "stationName": "周家庄",
+        "accLocation": 150999347
+      },
+      {
+        "stationName": "十八里店",
+        "accLocation": 150999349
+      },
+      {
+        "stationName": "北神树",
+        "accLocation": 150999351
+      },
+      {
+        "stationName": "次渠北",
+        "accLocation": 150999353
+      },
+      {
+        "stationName": "次渠",
+        "accLocation": 150999355
+      },
+      {
+        "stationName": "嘉会湖",
+        "accLocation": 150999357
+      }
+    ]
+  },
+  {
+    "lineCnName": "18号线",
+    "lineColor": "665794",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "马连洼",
+        "accLocation": 151013653
+      },
+      {
+        "stationName": "上地软件园",
+        "accLocation": 151013651
+      },
+      {
+        "stationName": "东北旺",
+        "accLocation": 151013649
+      },
+      {
+        "stationName": "龙泽西",
+        "accLocation": 151013647
+      },
+      {
+        "stationName": "回龙观西大街",
+        "accLocation": 151013645
+      },
+      {
+        "stationName": "文华路",
+        "accLocation": 151013643
+      },
+      {
+        "stationName": "回龙观东大街",
+        "accLocation": 151013641
+      },
+      {
+        "stationName": "霍营东",
+        "accLocation": 151013639
+      },
+      {
+        "stationName": "天通苑",
+        "accLocation": 151013637
+      },
+      {
+        "stationName": "太平庄",
+        "accLocation": 151013635
+      },
+      {
+        "stationName": "天通苑东",
+        "accLocation": 151013633
+      }
+    ]
+  },
+  {
+    "lineCnName": "19号线",
+    "lineColor": "D6ABC1",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "牡丹园",
+        "accLocation": 150999829
+      },
+      {
+        "stationName": "北太平庄",
+        "accLocation": 150998051
+      },
+      {
+        "stationName": "积水潭",
+        "accLocation": 150999833
+      },
+      {
+        "stationName": "平安里",
+        "accLocation": 150996015
+      },
+      {
+        "stationName": "太平桥",
+        "accLocation": 150999837
+      },
+      {
+        "stationName": "牛街",
+        "accLocation": 150999839
+      },
+      {
+        "stationName": "景风门",
+        "accLocation": 150999841
+      },
+      {
+        "stationName": "草桥",
+        "accLocation": 151017495
+      },
+      {
+        "stationName": "新发地",
+        "accLocation": 150999845
+      },
+      {
+        "stationName": "新宫",
+        "accLocation": 151018773
+      }
+    ]
+  },
+  {
+    "lineCnName": "亦庄T1线",
+    "lineColor": "E6081B",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "定海园",
+        "accLocation": 151015189
+      },
+      {
+        "stationName": "定海园西",
+        "accLocation": 151015191
+      },
+      {
+        "stationName": "经海一路",
+        "accLocation": 151015193
+      },
+      {
+        "stationName": "亦创会展中心",
+        "accLocation": 151015195
+      },
+      {
+        "stationName": "荣昌东街",
+        "accLocation": 151019557
+      },
+      {
+        "stationName": "亦庄同仁",
+        "accLocation": 151015199
+      },
+      {
+        "stationName": "鹿圈东",
+        "accLocation": 151015201
+      },
+      {
+        "stationName": "泰河路",
+        "accLocation": 151015203
+      },
+      {
+        "stationName": "九号村",
+        "accLocation": 151015205
+      },
+      {
+        "stationName": "四海庄",
+        "accLocation": 151015207
+      },
+      {
+        "stationName": "太和桥北",
+        "accLocation": 151015209
+      },
+      {
+        "stationName": "瑞合庄",
+        "accLocation": 151015211
+      },
+      {
+        "stationName": "融兴街",
+        "accLocation": 151015213
+      },
+      {
+        "stationName": "屈庄",
+        "accLocation": 151015215
+      }
+    ]
+  },
+  {
+    "lineCnName": "大兴机场线",
+    "lineColor": "004E9B",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "大兴机场",
+        "accLocation": 151017499
+      },
+      {
+        "stationName": "大兴新城",
+        "accLocation": 151017497
+      },
+      {
+        "stationName": "草桥",
+        "accLocation": 151017495
+      }
+    ]
+  },
+  {
+    "lineCnName": "西郊线",
+    "lineColor": "E20621",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "香山",
+        "accLocation": 151017749
+      },
+      {
+        "stationName": "国家植物园",
+        "accLocation": 151017751
+      },
+      {
+        "stationName": "万安",
+        "accLocation": 151017753
+      },
+      {
+        "stationName": "茶棚",
+        "accLocation": 151017755
+      },
+      {
+        "stationName": "颐和园西门",
+        "accLocation": 151017757
+      },
+      {
+        "stationName": "巴沟",
+        "accLocation": 151017759
+      }
+    ]
+  },
+  {
+    "lineCnName": "S1线",
+    "lineColor": "B0561F",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "石厂",
+        "accLocation": 151018261
+      },
+      {
+        "stationName": "小园",
+        "accLocation": 151018263
+      },
+      {
+        "stationName": "栗园庄",
+        "accLocation": 151018265
+      },
+      {
+        "stationName": "上岸",
+        "accLocation": 151018267
+      },
+      {
+        "stationName": "桥户营",
+        "accLocation": 151018269
+      },
+      {
+        "stationName": "四道桥",
+        "accLocation": 151018271
+      },
+      {
+        "stationName": "金安桥",
+        "accLocation": 150997783
+      },
+      {
+        "stationName": "苹果园",
+        "accLocation": 150995203
+      }
+    ]
+  },
+  {
+    "lineCnName": "燕房线",
+    "lineColor": "E15C28",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "燕山",
+        "accLocation": 151018517
+      },
+      {
+        "stationName": "房山城关",
+        "accLocation": 151018519
+      },
+      {
+        "stationName": "饶乐府",
+        "accLocation": 151018521
+      },
+      {
+        "stationName": "马各庄",
+        "accLocation": 151018523
+      },
+      {
+        "stationName": "大石河东",
+        "accLocation": 151018525
+      },
+      {
+        "stationName": "星城",
+        "accLocation": 151018527
+      },
+      {
+        "stationName": "阎村",
+        "accLocation": 151018529
+      },
+      {
+        "stationName": "紫草坞",
+        "accLocation": 151018531
+      },
+      {
+        "stationName": "阎村东",
+        "accLocation": 151018533
+      }
+    ]
+  },
+  {
+    "lineCnName": "昌平线",
+    "lineColor": "DD83B0",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "昌平西山口",
+        "accLocation": 151019027
+      },
+      {
+        "stationName": "十三陵景区",
+        "accLocation": 151019029
+      },
+      {
+        "stationName": "昌平",
+        "accLocation": 151019031
+      },
+      {
+        "stationName": "昌平东关",
+        "accLocation": 151019033
+      },
+      {
+        "stationName": "北邵洼",
+        "accLocation": 151019035
+      },
+      {
+        "stationName": "南邵",
+        "accLocation": 151019037
+      },
+      {
+        "stationName": "沙河高教园",
+        "accLocation": 151019039
+      },
+      {
+        "stationName": "沙河",
+        "accLocation": 151019041
+      },
+      {
+        "stationName": "巩华城",
+        "accLocation": 151019043
+      },
+      {
+        "stationName": "朱辛庄",
+        "accLocation": 150996997
+      },
+      {
+        "stationName": "生命科学园",
+        "accLocation": 151019047
+      },
+      {
+        "stationName": "西二旗",
+        "accLocation": 150998303
+      },
+      {
+        "stationName": "清河站",
+        "accLocation": 150998302
+      },
+      {
+        "stationName": "朱房北",
+        "accLocation": 151019053
+      },
+      {
+        "stationName": "清河小营桥",
+        "accLocation": 151019055
+      },
+      {
+        "stationName": "学知园",
+        "accLocation": 151019057
+      },
+      {
+        "stationName": "六道口",
+        "accLocation": 150998811
+      },
+      {
+        "stationName": "学院桥",
+        "accLocation": 151019061
+      },
+      {
+        "stationName": "西土城",
+        "accLocation": 150997515
+      },
+      {
+        "stationName": "蓟门桥",
+        "accLocation": 150998049
+      }
+    ]
+  },
+  {
+    "lineCnName": "房山线",
+    "lineColor": "E15C28",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "东管头南",
+        "accLocation": 150999105
+      },
+      {
+        "stationName": "首经贸",
+        "accLocation": 151019279
+      },
+      {
+        "stationName": "花乡东桥",
+        "accLocation": 151019281
+      },
+      {
+        "stationName": "白盆窑",
+        "accLocation": 151019283
+      },
+      {
+        "stationName": "郭公庄",
+        "accLocation": 150997293
+      },
+      {
+        "stationName": "大葆台",
+        "accLocation": 151019287
+      },
+      {
+        "stationName": "稻田",
+        "accLocation": 151019289
+      },
+      {
+        "stationName": "长阳",
+        "accLocation": 151019291
+      },
+      {
+        "stationName": "篱笆房",
+        "accLocation": 151019293
+      },
+      {
+        "stationName": "广阳城",
+        "accLocation": 151019295
+      },
+      {
+        "stationName": "良乡大学城北",
+        "accLocation": 151019297
+      },
+      {
+        "stationName": "良乡大学城",
+        "accLocation": 151019299
+      },
+      {
+        "stationName": "良乡大学城西",
+        "accLocation": 151019301
+      },
+      {
+        "stationName": "良乡南关",
+        "accLocation": 151019303
+      },
+      {
+        "stationName": "苏庄",
+        "accLocation": 151019305
+      },
+      {
+        "stationName": "阎村东",
+        "accLocation": 151018533
+      }
+    ]
+  },
+  {
+    "lineCnName": "亦庄线",
+    "lineColor": "E20072",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "宋家庄",
+        "accLocation": 150996289
+      },
+      {
+        "stationName": "肖村",
+        "accLocation": 151019543
+      },
+      {
+        "stationName": "小红门",
+        "accLocation": 151019545
+      },
+      {
+        "stationName": "旧宫",
+        "accLocation": 151019547
+      },
+      {
+        "stationName": "亦庄桥",
+        "accLocation": 151019549
+      },
+      {
+        "stationName": "亦庄文化园",
+        "accLocation": 151019551
+      },
+      {
+        "stationName": "万源街",
+        "accLocation": 151019553
+      },
+      {
+        "stationName": "荣京东街",
+        "accLocation": 151019555
+      },
+      {
+        "stationName": "荣昌东街",
+        "accLocation": 151019557
+      },
+      {
+        "stationName": "同济南路",
+        "accLocation": 151019559
+      },
+      {
+        "stationName": "经海路",
+        "accLocation": 151019561
+      },
+      {
+        "stationName": "次渠南",
+        "accLocation": 151019563
+      },
+      {
+        "stationName": "次渠",
+        "accLocation": 150999355
+      },
+      {
+        "stationName": "亦庄火车站",
+        "accLocation": 151019567
+      }
+    ]
+  },
+  {
+    "lineCnName": "首都机场线",
+    "lineColor": "A09AB8",
+    "lineId": null,
+    "stations": [
+      {
+        "stationName": "北新桥",
+        "accLocation": 150996269
+      },
+      {
+        "stationName": "东直门",
+        "accLocation": 150998323
+      },
+      {
+        "stationName": "三元桥",
+        "accLocation": 150998065
+      },
+      {
+        "stationName": "3号航站楼",
+        "accLocation": 151020059
+      },
+      {
+        "stationName": "2号航站楼",
+        "accLocation": 151020057
+      }
+    ]
+  }
+]

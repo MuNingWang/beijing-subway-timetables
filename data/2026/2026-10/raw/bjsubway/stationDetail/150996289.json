@@ -1,0 +1,464 @@
+{
+  "lines": [
+    {
+      "lineCode": "05",
+      "lineColor": "A5237A",
+      "lineId": 5,
+      "lineName": "5号线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": null,
+      "lastTime": null,
+      "startStationName": "天通苑北",
+      "startStationDeviceLocation": 150996245,
+      "terminalStationName": "宋家庄",
+      "terminalStationDeviceLocation": 150996289,
+      "sourceStationName": "天通苑北",
+      "sourceStationDeviceLocation": 150996245,
+      "destStationName": "宋家庄",
+      "destStationDeviceLocation": 150996289,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996289,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "05",
+      "lineColor": "A5237A",
+      "lineId": 5,
+      "lineName": "5号线",
+      "direction": 2,
+      "loop": 0,
+      "firstTime": "5:19",
+      "lastTime": "23:10",
+      "startStationName": "宋家庄",
+      "startStationDeviceLocation": 150996289,
+      "terminalStationName": "天通苑北",
+      "terminalStationDeviceLocation": 150996245,
+      "sourceStationName": "宋家庄",
+      "sourceStationDeviceLocation": 150996289,
+      "destStationName": "天通苑北",
+      "destStationDeviceLocation": 150996245,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 150996289,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "96",
+      "lineColor": "E20072",
+      "lineId": 96,
+      "lineName": "亦庄线",
+      "direction": 1,
+      "loop": 0,
+      "firstTime": "5:59",
+      "lastTime": "23:19",
+      "startStationName": "宋家庄",
+      "startStationDeviceLocation": 151019541,
+      "terminalStationName": "亦庄火车站",
+      "terminalStationDeviceLocation": 151019567,
+      "sourceStationName": "宋家庄",
+      "sourceStationDeviceLocation": 151019541,
+      "destStationName": "亦庄火车站",
+      "destStationDeviceLocation": 151019567,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151019541,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:07",
+      "lastTime": "21:44",
+      "startStationName": "成寿寺",
+      "startStationDeviceLocation": 151018013,
+      "terminalStationName": "石榴庄",
+      "terminalStationDeviceLocation": 151018017,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151018015,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:07",
+      "lastTime": "22:05",
+      "startStationName": "成寿寺",
+      "startStationDeviceLocation": 151018013,
+      "terminalStationName": "石榴庄",
+      "terminalStationDeviceLocation": 151018017,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "成寿寺",
+      "destStationDeviceLocation": 151018013,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151018015,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 1,
+      "loop": 1,
+      "firstTime": "5:07",
+      "lastTime": "23:28",
+      "startStationName": "成寿寺",
+      "startStationDeviceLocation": 151018013,
+      "terminalStationName": "石榴庄",
+      "terminalStationDeviceLocation": 151018017,
+      "sourceStationName": "巴沟",
+      "sourceStationDeviceLocation": 150997505,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151018015,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:36",
+      "lastTime": "21:36",
+      "startStationName": "石榴庄",
+      "startStationDeviceLocation": 151018017,
+      "terminalStationName": "成寿寺",
+      "terminalStationDeviceLocation": 151018013,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "巴沟",
+      "destStationDeviceLocation": 150997505,
+      "isHalf": 0,
+      "eventType": null,
+      "stationDeviceLocation": 151018015,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    },
+    {
+      "lineCode": "10",
+      "lineColor": "009ABA",
+      "lineId": 90,
+      "lineName": "10号线",
+      "direction": 2,
+      "loop": 1,
+      "firstTime": "5:36",
+      "lastTime": "23:22",
+      "startStationName": "石榴庄",
+      "startStationDeviceLocation": 151018017,
+      "terminalStationName": "成寿寺",
+      "terminalStationDeviceLocation": 151018013,
+      "sourceStationName": "车道沟",
+      "sourceStationDeviceLocation": 151018047,
+      "destStationName": "车道沟",
+      "destStationDeviceLocation": 151018047,
+      "isHalf": 1,
+      "eventType": null,
+      "stationDeviceLocation": 151018015,
+      "firstTimeDesc": null,
+      "lastTimeDesc": null
+    }
+  ],
+  "station": {
+    "stationName": "宋家庄",
+    "stationCode": null,
+    "stationDeviceLocation": 150996289,
+    "services": null,
+    "facilitys": [
+      {
+        "type": "01",
+        "name": "票务服务设施",
+        "data": [
+          {
+            "name": "卫生间",
+            "nameEn": null,
+            "contentDesc": "（5号线)开往宋家庄方向车尾\n（5号线)开往天通苑北方向车尾\n付费区：  站台开往石榴庄方向车头\n站台开往成寿寺方向车尾\n（亦庄线）开往宋家庄方向车头东侧（备侧）\n（亦庄线）开往宋家庄方向车头西侧（侧式）\n（亦庄线）开往亦庄火车站方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/bathroom.png"
+          },
+          {
+            "name": "无障碍卫生间",
+            "nameEn": null,
+            "contentDesc": "（5号线)开往宋家庄方向车尾\n付费区：  站台开往石榴庄方向车头\n站台开往成寿寺方向车尾\n（亦庄线）开往宋家庄方向车头东侧（备侧）\n（亦庄线）开往宋家庄方向车头西侧（侧式）\n（亦庄线）开往亦庄火车站方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/barrier_free_bathroom.png"
+          },
+          {
+            "name": "母婴室",
+            "nameEn": null,
+            "contentDesc": "（5号线)开往宋家庄方向车尾\n付费区：  站台开往石榴庄方向车头\n站台开往成寿寺方向车尾\n（亦庄线）开往宋家庄方向车头东侧（备侧）\n（亦庄线）开往宋家庄方向车头西侧（侧式）\n（亦庄线）开往亦庄火车站方向车头",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/nursing_room.png"
+          },
+          {
+            "name": "出入口直梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)无\n（亦庄线）G口",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_elevator.png"
+          },
+          {
+            "name": "出入口扶梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)H口（出站）\n（5号线)D口（进、出站）\nC口（进、出站）、I口（进、出站）\n（亦庄线）E（进、出站）\n（亦庄线）F（进、出站）\n（亦庄线）G（进、出站）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/entrance_exit_escalator.png"
+          },
+          {
+            "name": "站内直梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)开往天通苑北方向，有\n（5号线)开往宋家庄方向，有\n有\n（亦庄线）开往宋家庄方向（侧式），有\n（亦庄线）开往宋家庄方向（备侧），有\n（亦庄线）开往亦庄火车站方向，有",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/elevator.png"
+          },
+          {
+            "name": "站内扶梯",
+            "nameEn": null,
+            "contentDesc": "（5号线)开往天通苑北方向，无站台到站厅\n（5号线)开往天通苑北方向，有站厅到站台\n（5号线)开往宋家庄方向，有站台到站厅\n（5号线)开往宋家庄方向，无站厅到站台\n开往石榴庄方向，有站厅到站台\n开往石榴庄方向，有站台到站厅\n开往成寿寺方向，有站厅到站台\n开往成寿寺方向，有站台到站厅\n（亦庄线）开往亦庄火车站方向，有站厅到站台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/escalator.png"
+          },
+          {
+            "name": "升降平台",
+            "nameEn": null,
+            "contentDesc": "（5号线)无\nA口楼梯",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/lifting_platform.png"
+          },
+          {
+            "name": "爬楼车",
+            "nameEn": null,
+            "contentDesc": "（5号线)无",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/stair_climbing_vehicle.png"
+          },
+          {
+            "name": "招援设备（含呼叫设备）",
+            "nameEn": null,
+            "contentDesc": "（5号线)东、西厅TVM\nA、I口人工售票厅（可通话）\nB、C口人工售票厅（可通话）\n（亦庄线）岛式、侧式、备侧、G口直梯内，南北厅TVM及ITVM",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          },
+          {
+            "name": "AED",
+            "nameEn": null,
+            "contentDesc": "（5号线)站厅西侧，靠近H口出站闸机（付费区）\n站厅靠近开往石榴庄方向直梯（付费区）\n（亦庄线）站厅西侧，靠近自助售水机（付费区）",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/aed.png"
+          },
+          {
+            "name": "出入口坡道",
+            "nameEn": null,
+            "contentDesc": "（5号线)无\nA口坡道\n（亦庄线）G口直梯、坡道",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/ramp.png"
+          },
+          {
+            "name": "自动售票机",
+            "nameEn": null,
+            "contentDesc": "（5号线)东厅（非付费区）\n（5号线)西厅（非付费区）\n东厅（B、C口）\n西厅（ A、I口）\n（亦庄线）南厅F、G口非付费区4台\n（亦庄线）南厅D口非付费区2台",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/rescue_equipment.png"
+          },
+          {
+            "name": "警务室",
+            "nameEn": null,
+            "contentDesc": "（5号线)东厅非付费区\n东厅（B、C口）\n5号线开往天通苑北方向直梯站厅层旁",
+            "detailUrl": null,
+            "iconUrl": "https://eos-beijing-4.cmecloud.cn/bjdt-zyz/icons/app/police_office.png"
+          }
+        ]
+      }
+    ],
+    "exits": [
+      {
+        "name": "A",
+        "desc": null,
+        "nearby": [
+          "宋庄路(西侧)",
+          "石榴庄大街",
+          "恩生堂刘家窑中医院"
+        ]
+      },
+      {
+        "name": "B",
+        "desc": null,
+        "nearby": [
+          "宋庄路(东侧)",
+          "石榴庄大街"
+        ]
+      },
+      {
+        "name": "C",
+        "desc": null,
+        "nearby": [
+          "石榴庄大街",
+          "宋庄路(东侧)"
+        ]
+      },
+      {
+        "name": "D1",
+        "desc": null,
+        "nearby": [
+          "石榴庄大街",
+          "政馨园一区",
+          "政馨园二区",
+          "政馨园三区",
+          "宋家庄交通枢纽"
+        ]
+      },
+      {
+        "name": "E",
+        "desc": null,
+        "nearby": [
+          "宋庄路（东侧）",
+          "石榴庄大街",
+          "政馨园二区",
+          "政馨园三区",
+          "宋家庄交通枢纽"
+        ]
+      },
+      {
+        "name": "F",
+        "desc": null,
+        "nearby": [
+          "宋庄路（东侧）",
+          "南顶路（北侧）",
+          "政馨园三区",
+          "顶秀欣园"
+        ]
+      },
+      {
+        "name": "G",
+        "desc": null,
+        "nearby": [
+          "宋庄路",
+          "南顶路",
+          "鑫兆雅园",
+          "石榴庄小区"
+        ]
+      },
+      {
+        "name": "H",
+        "desc": null,
+        "nearby": [
+          "石榴庄大街",
+          "宋庄路(西侧)",
+          "鑫兆雅园"
+        ]
+      },
+      {
+        "name": "I",
+        "desc": null,
+        "nearby": [
+          "石榴庄大街",
+          "宋庄路(西侧)"
+        ]
+      }
+    ],
+    "eventType": null,
+    "fixedPosition": {
+      "lineDeviceLocation": 285212677,
+      "stationDeviceLocation": 150996289,
+      "stationCode": null,
+      "longitude": 116.428368,
+      "latitude": 39.845849,
+      "distance": 1000,
+      "positionType": null
+    },
+    "trainSchedules": [
+      {
+        "id": "217",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-宋家庄站-天通苑北站方向-工作日.jpg",
+        "stationCode": "0565",
+        "lineCode": "05",
+        "stationNameCn": "宋家庄"
+      },
+      {
+        "id": "294",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/5号线-宋家庄站-天通苑北站方向-双休日.jpg",
+        "stationCode": "0565",
+        "lineCode": "05",
+        "stationNameCn": "宋家庄"
+      },
+      {
+        "id": "1584",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-宋家庄站-石榴庄站方向-工作日.jpg",
+        "stationCode": "9031",
+        "lineCode": "10",
+        "stationNameCn": "宋家庄"
+      },
+      {
+        "id": "314",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-宋家庄站-石榴庄站方向-双休日.jpg",
+        "stationCode": "9031",
+        "lineCode": "10",
+        "stationNameCn": "宋家庄"
+      },
+      {
+        "id": "1583",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-宋家庄站-成寿寺站方向-工作日.jpg",
+        "stationCode": "9031",
+        "lineCode": "10",
+        "stationNameCn": "宋家庄"
+      },
+      {
+        "id": "2028",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/10号线-宋家庄站-成寿寺站方向-双休日.jpg",
+        "stationCode": "9031",
+        "lineCode": "10",
+        "stationNameCn": "宋家庄"
+      },
+      {
+        "id": "2080",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/亦庄线-宋家庄站-亦庄火车站方向-工作日1.jpg",
+        "stationCode": "9621",
+        "lineCode": "96",
+        "stationNameCn": "宋家庄"
+      },
+      {
+        "id": "481",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/亦庄线-宋家庄站-亦庄火车站方向-工作日.jpg",
+        "stationCode": "9621",
+        "lineCode": "96",
+        "stationNameCn": "宋家庄"
+      },
+      {
+        "id": "316",
+        "imagePath": "https://eos-beijing-2.cmecloud.cn/app-dtstatic/亦庄线-宋家庄站-亦庄火车站方向-双休日.jpg",
+        "stationCode": "9621",
+        "lineCode": "96",
+        "stationNameCn": "宋家庄"
+      }
+    ]
+  },
+  "remind": null,
+  "events": [],
+  "guideUrl": null
+}
